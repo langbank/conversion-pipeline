@@ -140,7 +140,7 @@ automatic complexity analysis. The figure below visualizes this workflow. Note t
 3rd party stand-alone components of the workflow are depicted in blue, while all LangBank 
 conversion scripts released in this project are shown in red.
 
-![LangBank Workflow](langbank-workflow.pdf)
+![LangBank Workflow](https://github.com/langbank/conversion-pipeline/blob/master/langbank-workflow.pdf)
 
 The worklow requires digitized ENHG data, which may currently be provided as plain text 
 input or in the xlsx format as used by the Ridges Herbology corpus. Extending the worklow 
