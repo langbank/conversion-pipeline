@@ -1,0 +1,179 @@
+<s:pml_schema version="1.1" xmlns:s="http://ufal.mff.cuni.cz/pdt/pml/schema/">
+ <s:root name="conll" type="conll.type" />
+ <s:type name="conll.type">
+  <s:structure>
+   <s:member name="body" required="1" type="body.type" />
+  </s:structure>
+ </s:type>
+ <s:type name="body.type">
+  <s:list ordered="1" role="#TREES" type="root.type" />
+ </s:type>
+ <s:type name="root.type">
+  <s:structure role="#NODE">
+   <s:member as_attribute="1" name="xml:id" required="1" role="#ID">
+    <s:cdata format="ID" />
+   </s:member>
+   <s:member as_attribute="1" name="order" required="0" role="#ORDER">
+    <s:constant>0</s:constant>
+   </s:member>
+   <s:member name="childnodes" required="0" role="#CHILDNODES">
+    <s:list ordered="1" type="node.type" />
+   </s:member>
+  </s:structure>
+ </s:type>
+ <s:type name="node.type">
+  <s:structure role="#NODE">
+   <s:member name="order" as_attribute="1" role="#ORDER">
+    <s:cdata format="positiveInteger" />
+   </s:member>
+   <s:member name="form">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="lemma">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="postag">
+    <s:choice name="pos-choice">
+     <s:value>$(</s:value>
+     <s:value>$,</s:value>
+     <s:value>$.</s:value>
+     <s:value>$LRB</s:value>
+     <s:value>$RRB</s:value>
+     <s:value>ADJA</s:value>
+     <s:value>ADJD</s:value>
+     <s:value>ADV</s:value>
+     <s:value>APPO</s:value>
+     <s:value>APPR</s:value>
+     <s:value>APPRART</s:value>
+     <s:value>APZR</s:value>
+     <s:value>ART</s:value>
+     <s:value>CARD</s:value>
+     <s:value>CD</s:value>
+     <s:value>CJ</s:value>
+     <s:value>CVC</s:value>
+     <s:value>EP</s:value>
+     <s:value>FM</s:value>
+     <s:value>ITJ</s:value>
+     <s:value>KOKOM</s:value>
+     <s:value>KON</s:value>
+     <s:value>KOUI</s:value>
+     <s:value>KOUS</s:value>
+     <s:value>NE</s:value>
+     <s:value>NN</s:value>
+     <s:value>PAV</s:value>
+     <s:value>PDAT</s:value>
+     <s:value>PDS</s:value>
+     <s:value>PH</s:value>
+     <s:value>PIAT</s:value>
+     <s:value>PIDAT</s:value>
+     <s:value>PIS</s:value>
+     <s:value>PNC</s:value>
+     <s:value>PPER</s:value>
+     <s:value>PPOSAT</s:value>
+     <s:value>PPOSS</s:value>
+     <s:value>PRELAT</s:value>
+     <s:value>PRELS</s:value>
+     <s:value>PRF</s:value>
+     <s:value>PROAV</s:value>
+     <s:value>PTKA</s:value>
+     <s:value>PTKANT</s:value>
+     <s:value>PTKNEG</s:value>
+     <s:value>PTKVZ</s:value>
+     <s:value>PTKZU</s:value>
+     <s:value>PUNC</s:value>
+     <s:value>PWAT</s:value>
+     <s:value>PWAV</s:value>
+     <s:value>PWS</s:value>
+     <s:value>RE</s:value>
+     <s:value>ROOT</s:value>
+     <s:value>RS</s:value>
+     <s:value>SGML</s:value>
+     <s:value>SPELL</s:value>
+     <s:value>TRUNC</s:value>
+     <s:value>UC</s:value>
+     <s:value>VAFIN</s:value>
+     <s:value>VAIMP</s:value>
+     <s:value>VAINF</s:value>
+     <s:value>VAPP</s:value>
+     <s:value>VMFIN</s:value>
+     <s:value>VMINF</s:value>
+     <s:value>VMPP</s:value>
+     <s:value>VROOT</s:value>
+     <s:value>VVFIN</s:value>
+     <s:value>VVIMP</s:value>
+     <s:value>VVINF</s:value>
+     <s:value>VVIZU</s:value>
+     <s:value>VVPP</s:value>
+     <s:value>XY</s:value>
+     <s:value>—-</s:value>
+    </s:choice>
+   </s:member>
+   <s:member name="feats" type="feats.type" />
+   <s:member name="deprel">
+    <s:choice name="deprel-choice">
+     <s:value>$LRB</s:value>
+     <s:value>$RRB</s:value>
+     <s:value>AC</s:value>
+     <s:value>ADC</s:value>
+     <s:value>AG</s:value>
+     <s:value>AMS</s:value>
+     <s:value>APP</s:value>
+     <s:value>CC</s:value>
+     <s:value>CD</s:value>
+     <s:value>CJ</s:value>
+     <s:value>CM</s:value>
+     <s:value>CP</s:value>
+     <s:value>CVC</s:value>
+     <s:value>DA</s:value>
+     <s:value>DM</s:value>
+     <s:value>EP</s:value>
+     <s:value>HD</s:value>
+     <s:value>JU</s:value>
+     <s:value>MNR</s:value>
+     <s:value>MO</s:value>
+     <s:value>NG</s:value>
+     <s:value>NK</s:value>
+     <s:value>OA</s:value>
+     <s:value>OA2</s:value>
+     <s:value>OC</s:value>
+     <s:value>OG</s:value>
+     <s:value>OP</s:value>
+     <s:value>PAR</s:value>
+     <s:value>PD</s:value>
+     <s:value>PG</s:value>
+     <s:value>PH</s:value>
+     <s:value>PM</s:value>
+     <s:value>PNC</s:value>
+     <s:value>PROAV</s:value>
+     <s:value>PUNC</s:value>
+     <s:value>RC</s:value>
+     <s:value>RE</s:value>
+     <s:value>ROOT</s:value>
+     <s:value>RS</s:value>
+     <s:value>SB</s:value>
+     <s:value>SBP</s:value>
+     <s:value>SP</s:value>
+     <s:value>SVP</s:value>
+     <s:value>UC</s:value>
+     <s:value>VO</s:value>
+     <s:value>VROOT</s:value>
+     <s:value>—-</s:value>
+    </s:choice>
+   </s:member>
+   <s:member name="phead">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="pdeprel">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="childnodes" role="#CHILDNODES">
+    <s:list ordered="1" type="node.type" />
+   </s:member>
+  </s:structure>
+ </s:type>
+ <s:type name="feats.type">
+  <s:list ordered="0">
+   <s:cdata format="any" />
+  </s:list>
+ </s:type>
+</s:pml_schema>

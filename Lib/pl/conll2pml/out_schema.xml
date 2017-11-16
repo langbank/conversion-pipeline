@@ -1,0 +1,48 @@
+<s:pml_schema version="1.1" xmlns:s="http://ufal.mff.cuni.cz/pdt/pml/schema/">
+ <s:root name="conll" type="conll.type" />
+ <s:type name="conll.type">
+  <s:structure>
+   <s:member name="body" required="1" type="body.type" />
+  </s:structure>
+ </s:type>
+ <s:type name="body.type">
+  <s:list ordered="1" role="#TREES" type="node.type" />
+ </s:type>
+ <s:type name="node.type">
+  <s:structure role="#NODE">
+   <s:member name="order" as_attribute="1" role="#ORDER">
+    <s:cdata format="positiveInteger" />
+   </s:member>
+   <s:member name="form">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="lemma">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="cpostag">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="postag">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="feats" type="feats.type" />
+   <s:member name="deprel">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="phead">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="pdeprel">
+    <s:cdata format="any" />
+   </s:member>
+   <s:member name="childnodes" role="#CHILDNODES">
+    <s:list ordered="1" type="node.type" />
+   </s:member>
+  </s:structure>
+ </s:type>
+ <s:type name="feats.type">
+  <s:list ordered="0">
+   <s:cdata format="any" />
+  </s:list>
+ </s:type>
+</s:pml_schema>

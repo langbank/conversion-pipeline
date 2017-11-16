@@ -1,0 +1,11 @@
+div.htmlvis {
+font-family: Antinoou, sans-serif; font-size: 12pt; white-space: normal !important;
+}
+div.norm:after{content:"\A"attr(trans)"\A\A"; display: block; font-style: italic; color: black; font-size: 80%; white-space: normal}
+.linganno:after{content:"\A"attr(linganno)"\A\A"; display: block; font-style: italic; font-size: 80%; color: gray; white-space: normal}
+.word:after{content: " ";}
+span > ruby.dipl:only-of-type:after{content: "" !important;}
+span > ruby.dipl:last-of-type:after{content: "" !important;}
+div > ruby.dipl:after{content: "" !important;}
+ruby.dipl {ruby-overhang: none; ruby-align: left; padding-left: 3px; padding-right:3px; ruby-position: under; font-size: 120%; color:blue}
+ruby:hover rt:after{color:red}

@@ -1,0 +1,15 @@
+Copyright (c) 2017, The LangBank Research Group, 
+
+Eberhard Karls Universität Tübingen, 
+Humboldt Universität zu Berlin, 
+Carnegie Mellon University Pittsburgh
+
+The following 3rd party projects are used in our project:
+
+The Berkeley Parser 1.7 (+ German parsing models)
+https://github.com/slavpetrov/berkeleyparser
+Licensed under GNU GENERAL PUBLIC LICENSE 2.0
+
+Tred Conversion Scripts provided within the TRED Annotation program
+http://ufal.mff.cuni.cz/tred/
+Licensed under GNU GENERAL PUBLIC LICENSE 2.0

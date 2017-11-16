@@ -1,0 +1,11 @@
+div.htmlvis {
+  white-space:normal;
+}
+.token:after {
+  content: " ";
+}
+.pb{border-style:double 
+}
+.head{text-decoration: underline;font-size: 120%}
+
+.note{font-size: 80%}

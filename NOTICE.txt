@@ -1,0 +1,21 @@
+Copyright (c) 2017, The LangBank Research Group, 
+
+Eberhard Karls Universität Tübingen, 
+Humboldt Universität zu Berlin, 
+Carnegie Mellon University Pittsburgh
+
+special thanks
+==============
+
+We want to thank the following people for their work on LangBank
+ * Thomas Krause for his help with data conversion and corpus compilation using Pepper
+ * Laura Perlitz for her help documenting all LangBank data resources
+
+3rd party projects
+==================
+
+This product includes software developed by others which may have
+separate licenses. Please read the associated license information
+carefully. Each sub-project has a folder "THIRD_PARTY" which contains
+the licenses. The file DEPENDENCIES.txt lists all third party projects 
+and their license.

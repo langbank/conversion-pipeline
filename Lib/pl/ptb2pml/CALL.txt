@@ -1,0 +1,9 @@
+Call
+
+> perl penn2pml.pl --output-dir "output_dir" --bracketed-terminals "input_file.ptb"
+> for i in dir/*.ptb; do perl "penn2pml.pl" --output-dir "output_dir" --bracketed-terminals "$i"; done
+
+
+
+
+for i in ../../ridges-tree-gold_standard/tred-with-virtual-root/ptb-berkeley-edge+vroot/*.ptb; do perl "penn2pml.pl" --output-dir "../../ridges-tree-gold_standard/tred-with-virtual-root/ptb-berkeley-edge+vroot/" --bracketed-terminals "$i"; done

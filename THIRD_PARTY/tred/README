@@ -1,0 +1,41 @@
+Tree Editor TrEd
+================
+Copyright (c) 2000-20010 by Petr Pajas
+This is a free software distributed under GPL - The General Public Licence
+Full text of the GPL can be found at http://www.gnu.org/copyleft/gpl.html.
+
+About
+-----
+
+TrEd is a fully customizable and programmable graphical editor and
+viewer for tree-like structures. Among other projects, it was used as
+the main annotation tool for syntactical and tectogrammatical
+annotations in the Prague Dependency Treebank, and for decision-tree
+based morphological annotation of The Prague Arabic Dependency
+Treebank.
+
+TrEd runs on the following platforms:
+
+    * Microsoft Windows
+    * GNU Linux
+    * Mac OS X
+    * BSD, UNIX, Solaris and other POSIX/UNIX-like systems
+
+Installation
+------------
+
+See http://ufal.mff.cuni.cz/tred/
+
+Configuration
+-------------
+
+When the first change to the configuration is made, TrEd tries to save
+it to its default configuration path, usually tred/tredlib/tredrc. If
+this file is not writable, ~/.tredrc is created and used henceforth.
+This file may also by created manually by copying the default
+configuration file (tredlib/tredrc).  Other locally installed files,
+such as extensions and their configuration, is stored in a directory
+~/.tred.d 
+
+Note for Windows users: ~ is the "Application Data" folder under your
+user profile.

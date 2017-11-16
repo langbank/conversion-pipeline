@@ -1,0 +1,4518 @@
+1	Majoran	Majoran	NE	NE	nom|sg|*	-1	ROOT	-1	ROOT
+2	.	.	$.	$.	1	PUNC	1	PUNC
+
+1	¶	¶	KON	KON	2	CD	2	CD
+2	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+3	dem	der	ART	ART	dat|sg|masc	4	NK	4	NK
+4	Namen	Name	NN	NN	dat|sg|masc	2	NK	2	NK
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Wiewohl	wiewohl	NE	NE	9	SB	9	SB
+2	aus	aus	APPR	APPR	1	MNR	1	MNR
+3	dem	der	ART	ART	dat|sg|masc	4	NK	4	NK
+4	Galen	Galen	NN	NN	dat|sg|masc	2	NK	2	NK
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	und	und	KON	KON	1	CD	1	CD
+7	Paulus	Paulus	NE	NE	*|*|*	8	PNC	8	PNC
+8	Aegineta	Aegineta	NE	NE	dat|sg|neut	6	CJ	6	CJ
+9	scheint	scheinen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	als	als	KOKOM	KOKOM	18	CM	18	CM
+12	ob	ob	KOUS	KOUS	18	CP	18	CP
+13	Samsuchus	Samsuchus	NE	NE	nom|sg|neut	18	SB	18	SB
+14	und	und	KON	KON	13	CD	13	CD
+15	Amaracus	Amaracus	NE	NE	nom|sg|neut	14	CJ	14	CJ
+16	zweierlei	zweierlei	PIAT	PIAT	*|*|*	17	NK	17	NK
+17	Kräuter	Kräuter	NN	NN	acc|sg|masc	18	OA	18	OA
+18	bedeuten	bedeuten	VVFIN	VVFIN	pl|3|pres|ind	9	CC	9	CC
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	so	so	ADV	ADV	30	MO	30	MO
+21	werden	werden	VAFIN	VAFIN	pl|3|pres|ind	18	CJ	18	CJ
+22	doch	doch	ADV	ADV	30	MO	30	MO
+23	beide	beide	PIAT	PIAT	nom|pl|masc	24	NK	24	NK
+24	Namen	Name	NN	NN	nom|pl|masc	21	SB	21	SB
+25	vom	von	APPRART	APPRART	dat|sg|neut	24	MNR	24	MNR
+26	Dioscorides	Dioscoride	NE	NE	dat|sg|masc	25	NK	25	NK
+27	und	und	KON	KON	26	CD	26	CD
+28	Columella	Columella	NE	NE	dat|sg|neut	27	CJ	27	CJ
+29	zu	zu	PTKZU	PTKZU	30	PM	30	PM
+30	geben	geben	VVINF	VVINF	21	OC	21	OC
+31	der	der	ART	ART	nom|sg|masc	32	NK	32	NK
+32	Majoran	Majoran	NN	NN	nom|sg|masc	30	AG	30	AG
+33	,	,	$,	$,	32	PUNC	32	PUNC
+34	welche	welcher	PWAT	PWAT	acc|sg|fem	35	NK	35	NK
+35	Lateinisch	Lateinisch	NN	NN	acc|sg|neut	41	SB	41	SB
+36	und	und	KON	KON	35	CD	35	CD
+37	Griechisch	Griechisch	NN	NN	nom|sg|neut	36	CJ	36	CJ
+38	heute	heute	ADV	ADV	40	MO	40	MO
+39	also	also	ADV	ADV	40	MO	40	MO
+40	genannt	nennen	VVPP	VVPP	41	OC	41	OC
+41	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	32	RC	32	RC
+42	,	,	$,	$,	41	PUNC	41	PUNC
+43	zu	zu	APPR	APPR	20	CJ	20	CJ
+44	Deutsch	Deutsch	NN	NN	nom|sg|masc	43	NK	43	NK
+45	Majoran	Majoran	NE	NE	dat|sg|masc	44	NK	44	NK
+46	.	.	$.	$.	45	PUNC	45	PUNC
+
+1	Ich	ich	PPER	PPER	nom|sg|*|1	2	SB	2	SB
+2	lese	lesen	VVFIN	VVFIN	sg|1|past|ind	-1	ROOT	-1	ROOT
+3	in	in	APPR	APPR	2	MO	2	MO
+4	den	der	ART	ART	dat|pl|fem	5	NK	5	NK
+5	Fabeln	Fabel	NN	NN	dat|pl|fem	3	NK	3	NK
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	dass	daß	KOUS	KOUS	9	CP	9	CP
+8	Samsuchus	Samsuchus	NE	NE	nom|sg|*	9	SB	9	SB
+9	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	2	OC	2	OC
+10	ein	ein	ART	ART	nom|sg|masc	14	NK	14	NK
+11	fürstlicher	fürstlich	ADJA	ADJA	nom|sg|masc|pos	14	NK	14	NK
+12	oder	oder	KON	KON	11	CD	11	CD
+13	königlicher	königlich	ADJA	ADJA	nom|sg|masc|pos	12	CJ	12	CJ
+14	Knabe	Knabe	NN	NN	nom|sg|masc	15	PD	15	PD
+15	gewesen	sein	VAPP	VAPP	9	OC	9	OC
+16	,	,	$,	$,	15	PUNC	15	PUNC
+
+1	welcher	welcher	ADJD	ADJD	comp	17	MO	17	MO
+2	,	,	$,	$,	1	PUNC	1	PUNC
+3	als	als	KOKOM	KOKOM	15	CM	15	CM
+4	er	er	PPER	PPER	nom|sg|masc|3	15	SB	15	SB
+5	das	der	ART	ART	acc|sg|neut	7	NK	7	NK
+6	edle	edel	ADJA	ADJA	acc|sg|neut|pos	7	NK	7	NK
+7	Unguent	Unguent	NN	NN	acc|sg|neut	14	OA	14	OA
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	oder	oder	KON	KON	7	CD	7	CD
+10	Salbe	Salbe	NE	NE	nom|sg|masc	9	CJ	9	CJ
+11	von	von	APPR	APPR	10	PG	10	PG
+12	diesem	dieser	PDAT	PDAT	dat|sg|masc	13	NK	13	NK
+13	Kraut	Kraut	NN	NN	dat|sg|neut	11	NK	11	NK
+14	antragen	antragen	VVINF	VVINF	15	OC	15	OC
+15	sollte	sollen	VMFIN	VMFIN	sg|3|past|ind	1	CC	1	CC
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	fiel	fallen	VVFIN	VVFIN	sg|3|past|ind	-1	ROOT	-1	ROOT
+18	er	er	PPER	PPER	nom|sg|masc|3	17	SB	17	SB
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	und	und	KON	KON	17	CD	17	CD
+21	zerbrach	zerbrechen	VVFIN	VVFIN	sg|3|past|ind	20	CJ	20	CJ
+22	die	der	ART	ART	nom|sg|fem	23	NK	23	NK
+23	Büchse	Büchse	NN	NN	nom|sg|fem	25	SB	25	SB
+24	.	.	$.	$.	23	PUNC	23	PUNC
+25	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	21	OC	21	OC
+26	also	also	ADV	ADV	32	MO	32	MO
+27	von	von	APPR	APPR	32	SBP	32	SBP
+28	dem	der	ART	ART	dat|sg|neut	31	NK	31	NK
+29	starken	stark	ADJA	ADJA	dat|sg|masc|pos	31	NK	31	NK
+30	lieblichen	lieblich	ADJA	ADJA	dat|sg|masc|pos	31	NK	31	NK
+31	Geruch	Geruch	NN	NN	dat|sg|masc	27	NK	27	NK
+32	verwandelt	verwandeln	VVPP	VVPP	33	PD	33	PD
+33	worden	werden	VAPP	VAPP	25	OC	25	OC
+34	auf	auf	APPR	APPR	33	MO	33	MO
+35	der	der	ART	ART	dat|sg|fem	36	NK	36	NK
+36	Stätte	Stätte	NN	NN	dat|sg|fem	34	NK	34	NK
+37	in	in	APPR	APPR	36	MNR	36	MNR
+38	dieses	dieser	PDAT	PDAT	acc|sg|neut	39	NK	39	NK
+39	Kraut	Kraut	NN	NN	acc|sg|neut	37	NK	37	NK
+40	,	,	$,	$,	39	PUNC	39	PUNC
+
+1	und	und	KON	KON	3	JU	3	JU
+2	daher	daher	PROAV	PROAV	3	MO	3	MO
+3	habe	haben	VAFIN	VAFIN	sg|3|pres|subj	-1	ROOT	-1	ROOT
+4	es	es	PPER	PPER	nom|sg|neut|3	3	EP	3	EP
+5	noch	noch	ADV	ADV	3	MO	3	MO
+6	heutzutage	heutzutage	ADV	ADV	5	MO	5	MO
+7	seinen	sein	PPOSAT	PPOSAT	acc|sg|masc	8	NK	8	NK
+8	Namen	Name	NN	NN	acc|sg|masc	3	OA	3	OA
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Die	der	ART	ART	nom|pl|masc	2	NK	2	NK
+2	Römer	Römer	NN	NN	nom|pl|masc	3	SB	3	SB
+3	nennen	nennen	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	es	es	PPER	PPER	acc|sg|neut|3	3	OA	3	OA
+5	Persa	Persa	NE	NE	acc|sg|neut	4	RE	4	RE
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|neut	3	NK	3	NK
+2	köstliches	köstlich	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Edelkraut	Edelkraut	NN	NN	nom|sg|neut	27	SB	27	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	etwa	etwa	ADV	ADV	7	MO	7	MO
+6	auch	auch	ADV	ADV	7	MO	7	MO
+7	bei	bei	APPR	APPR	3	MNR	3	MNR
+8	den	der	ART	ART	dat|pl|neut	9	NK	9	NK
+9	Griechen	Griechen	NN	NN	dat|pl|neut	7	NK	7	NK
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	und	und	KON	KON	7	CD	7	CD
+12	auch	auch	ADV	ADV	14	MO	14	MO
+13	den	der	ART	ART	dat|pl|masc	14	NK	14	NK
+14	Römern	Römer	NN	NN	dat|pl|masc	18	OA	18	OA
+15	in	in	APPR	APPR	18	MO	18	MO
+16	größeren	groß	ADJA	ADJA	dat|pl|fem|comp	17	NK	17	NK
+17	Ehren	Ehre	NN	NN	dat|pl|fem	15	NK	15	NK
+18	gehalten	halten	VVPP	VVPP	11	CJ	11	CJ
+19	und	und	KON	KON	18	CD	18	CD
+20	gebraucht	brauchen	VVPP	VVPP	19	CJ	19	CJ
+21	worden	werden	VAPP	VAPP	27	OC	27	OC
+22	in	in	APPR	APPR	20	MO	20	MO
+23	die	der	ART	ART	acc|pl|fem	25	NK	25	NK
+24	wohlriechenden	wohlriechend	ADJA	ADJA	acc|pl|fem|pos	25	NK	25	NK
+25	Salben	Salbe	NN	NN	acc|pl|fem	22	NK	22	NK
+26	.	.	$.	$.	25	PUNC	25	PUNC
+27	Wird	werden	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+28	zu	zu	APPR	APPR	46	MO	46	MO
+29	dieser	dieser	PDAT	PDAT	dat|sg|fem	30	NK	30	NK
+30	Zeit	Zeit	NN	NN	dat|sg|fem	28	NK	28	NK
+31	,	,	$,	$,	30	PUNC	30	PUNC
+32	gleich	gleich	ADV	ADV	46	MO	46	MO
+33	wie	wie	KOKOM	KOKOM	35	CM	35	CM
+34	der	der	ART	ART	nom|sg|masc	35	NK	35	NK
+35	Rosmarin	Rosmarin	NN	NN	nom|sg|masc	46	MO	46	MO
+36	,	,	$,	$,	35	PUNC	35	PUNC
+37	aus	aus	APPR	APPR	46	MO	46	MO
+38	Unwissenheit	Unwissenheit	NN	NN	dat|sg|fem	37	NK	37	NK
+39	für	für	APPR	APPR	38	MNR	38	MNR
+40	ein	ein	ART	ART	acc|sg|neut	41	NK	41	NK
+41	Schappelkraut	Schappelkraut	NN	NN	acc|sg|neut	39	NK	39	NK
+42	,	,	$,	$,	41	PUNC	41	PUNC
+43	und	und	KON	KON	38	CD	38	CD
+44	eine	ein	ART	ART	acc|sg|fem	45	NK	45	NK
+45	Gartenzierde	Gartenzierde	NN	NN	acc|sg|fem	43	CJ	43	CJ
+46	gehalten	halten	VVPP	VVPP	27	OC	27	OC
+47	.	.	$.	$.	46	PUNC	46	PUNC
+
+1	Denn	denn	KON	KON	4	JU	4	JU
+2	so	so	ADV	ADV	3	MO	3	MO
+3	närrisch	närrisch	ADJD	ADJD	pos	4	PD	4	PD
+4	sind	sein	VAFIN	VAFIN	pl|1|pres|ind	-1	ROOT	-1	ROOT
+5	wir	wir	PPER	PPER	nom|pl|*|1	4	SB	4	SB
+6	Deutschen	deutsche	NN	NN	nom|pl|*	4	PD	4	PD
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	dass	dass	KOUS	KOUS	12	CP	12	CP
+9	wir	wir	PPER	PPER	nom|pl|*|1	12	SB	12	SB
+10	keines	kein	PIAT	PIAT	gen|sg|masc	11	NK	11	NK
+11	Dinges	Dinges	NN	NN	acc|pl|neut	12	OA	12	OA
+12	achten	achten	VVFIN	VVFIN	4	MO	4	MO
+13	,	,	$,	$,	12	PUNC	12	PUNC
+
+1	und	und	KON	KON	13	JU	13	JU
+2	wiewohl	wiewohl	KOUS	KOUS	13	CP	13	CP
+3	wir	wir	PPER	PPER	nom|pl|*|1	13	SB	13	SB
+4	auch	auch	ADV	ADV	5	MO	5	MO
+5	in	in	APPR	APPR	13	MO	13	MO
+6	unseren	unser	PPOSAT	PPOSAT	dat|pl|fem	7	NK	7	NK
+7	Landen	Lande	NN	NN	dat|pl|fem	5	NK	5	NK
+8	köstliche	köstlich	ADJA	ADJA	acc|pl|*|pos	10	NK	10	NK
+9	wohlriechende	wohlriechend	ADJA	ADJA	nom|sg|masc|pos	10	NK	10	NK
+10	Kräuter	Kräuter	NN	NN	nom|sg|masc	13	SB	13	SB
+11	und	und	KON	KON	10	CD	10	CD
+12	Blumen	Blume	NN	NN	nom|sg|neut	11	CJ	11	CJ
+13	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+14	wachsen	wachsen	VVPP	VVPP	13	OC	13	OC
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	dennoch	dennoch	ADV	ADV	20	MO	20	MO
+17	so	so	ADV	ADV	20	MO	20	MO
+18	wir	wir	PPER	PPER	nom|pl|*|1	20	SB	20	SB
+19	siech	siech	ADV	ADV	20	MO	20	MO
+20	werden	werden	VAINF	VAINF	14	OC	14	OC
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	so	so	ADV	ADV	33	MO	33	MO
+23	müssen	müssen	VMFIN	VMFIN	pl|1|pres|ind	17	RE	17	RE
+24	wir	wir	PPER	PPER	nom|pl|*|1	23	SB	23	SB
+25	in	in	APPR	APPR	33	MO	33	MO
+26	die	der	ART	ART	acc|sg|fem	27	NK	27	NK
+27	Apotheke	Apotheke	NN	NN	acc|sg|fem	25	NK	25	NK
+28	aus	aus	APPR	APPR	27	MNR	27	MNR
+29	Indien	Indien	NE	NE	dat|sg|neut	28	NK	28	NK
+30	und	und	KON	KON	29	CD	29	CD
+31	Arabien	Arabien	NE	NE	dat|sg|neut	30	CJ	30	CJ
+32	Stärkungen	Stärkung	NN	NN	acc|pl|fem	33	OA	33	OA
+33	suchen	suchen	VVINF	VVINF	23	OC	23	OC
+34	,	,	$,	$,	33	PUNC	33	PUNC
+
+1	wir	wir	PPER	PPER	nom|pl|*|1	2	SB	2	SB
+2	haben	haben	VAFIN	VAFIN	pl|1|pres|ind	-1	ROOT	-1	ROOT
+3	sonst	sonst	ADV	ADV	2	MO	2	MO
+4	keinen	kein	PIAT	PIAT	acc|sg|masc	5	NK	5	NK
+5	Glauben	Glaube	NN	NN	acc|sg|masc	2	OA	2	OA
+6	daran	daran	PROAV	PROAV	5	MNR	5	MNR
+7	.	.	$.	$.	6	PUNC	6	PUNC
+
+1	Wenn	wenn	KOUS	KOUS	9	CP	9	CP
+2	nun	nun	ADV	ADV	9	MO	9	MO
+3	gar	gar	ADV	ADV	4	MO	4	MO
+4	kein	kein	PIAT	PIAT	nom|sg|masc	5	NK	5	NK
+5	Majoran	Majoran	NN	NN	nom|sg|masc	9	SB	9	SB
+6	in	in	APPR	APPR	9	MO	9	MO
+7	deutschen	deutsch	ADJA	ADJA	dat|pl|fem|pos	8	NK	8	NK
+8	Landen	Lande	NN	NN	dat|pl|fem	6	NK	6	NK
+9	wüchse	wüchsen	VVFIN	VVFIN	sg|3|pres|subj	19	MO	19	MO
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	und	und	KON	KON	9	CD	9	CD
+12	würde	werden	VAFIN	VAFIN	sg|3|past|subj	11	CJ	11	CJ
+13	allein	allein	ADV	ADV	14	MO	14	MO
+14	aus	aus	APPR	APPR	17	MO	17	MO
+15	Arabien	Arabien	NE	NE	dat|sg|neut	14	NK	14	NK
+16	einher	einher	ADV	ADV	17	MO	17	MO
+17	geführt	führen	VVPP	VVPP	12	OC	12	OC
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	wäre	sein	VAFIN	VAFIN	sg|3|past|subj	26	MO	26	MO
+20	es	es	PPER	PPER	nom|sg|neut|3	19	SB	19	SB
+21	nicht	nicht	PTKNEG	PTKNEG	19	NG	19	NG
+22	ein	ein	ART	ART	acc|sg|neut	24	NK	24	NK
+23	köstliches	köstlich	ADJA	ADJA	nom|sg|neut|pos	24	NK	24	NK
+24	Ding	Ding	NN	NN	nom|sg|neut	19	PD	19	PD
+25	,	,	$,	$,	24	PUNC	24	PUNC
+26	wäre	sein	VAFIN	VAFIN	sg|3|past|subj	-1	ROOT	-1	ROOT
+27	es	es	PPER	PPER	nom|sg|neut|3	26	SB	26	SB
+28	nicht	nicht	PTKNEG	PTKNEG	26	NG	26	NG
+29	wohl	wohl	ADV	ADV	26	MO	26	MO
+30	so	so	ADV	ADV	31	MO	31	MO
+31	köstlich	köstlich	ADJD	ADJD	pos	26	PD	26	PD
+32	als	als	KOKOM	KOKOM	34	CM	34	CM
+33	der	der	ART	ART	nom|sg|masc	34	NK	34	NK
+34	Bisem	Bisem	NN	NN	nom|sg|masc	30	CC	30	CC
+35	,	,	$,	$,	34	PUNC	34	PUNC
+36	und	und	KON	KON	31	CD	31	CD
+37	Safran	Safran	NE	NE	nom|sg|masc	36	CJ	36	CJ
+38	,	,	$,	$,	37	PUNC	37	PUNC
+39	und	und	KON	KON	26	CD	26	CD
+40	Sticas	Stica	NN	NN	gen|sg|neut	47	CJ	47	CJ
+41	,	,	$,	$,	40	PUNC	40	PUNC
+42	und	und	KON	KON	47	CD	47	CD
+43	was	was	PWS	PWS	nom|sg|neut	47	SB	47	SB
+44	derselbigen	derselbige	ADJA	ADJA	nom|pl|masc|pos	46	NK	46	NK
+45	wohlriechenden	wohlriechend	ADJA	ADJA	nom|pl|masc|pos	46	NK	46	NK
+46	Dinger	Dinger	NN	NN	nom|pl|masc	47	PD	47	PD
+47	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	39	CJ	39	CJ
+48	:	:	$.	$.	47	PUNC	47	PUNC
+
+1	Aber	aber	KON	KON	10	JU	10	JU
+2	dieweil	dieweil	KOUS	KOUS	7	CP	7	CP
+3	es	es	PPER	PPER	nom|sg|neut|3	7	SB	7	SB
+4	auch	auch	ADV	ADV	5	MO	5	MO
+5	bei	bei	APPR	APPR	7	MO	7	MO
+6	uns	uns	PPER	PPER	dat|pl|*|1	5	NK	5	NK
+7	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	9	RE	9	RE
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	so	so	ADV	ADV	10	MO	10	MO
+10	gilt	gelten	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+11	es	es	PPER	PPER	nom|sg|neut|3	10	SB	10	SB
+12	nichts	nichts	PIS	PIS	*|*|neut	10	OA	10	OA
+13	,	,	$,	$,	12	PUNC	12	PUNC
+
+1	so	so	ADV	ADV	2	MO	2	MO
+2	machen	machen	VVFIN	VVFIN	pl|1|pres|ind	7	OC	7	OC
+3	wir	wir	PPER	PPER	nom|pl|*|1	2	SB	2	SB
+4	Kränzelein	Kränzelein	NN	NN	acc|sg|neut	2	OA	2	OA
+5	daraus	daraus	PROAV	PROAV	2	MO	2	MO
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	zieren	zieren	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+8	die	der	ART	ART	nom|pl|*	9	NK	9	NK
+9	Gärten	Garten	NN	NN	nom|pl|*	7	SB	7	SB
+10	damit	damit	PROAV	PROAV	7	MO	7	MO
+11	,	,	$,	$,	10	PUNC	10	PUNC
+
+1	desgleichen	desgleichen	ADV	ADV	3	MO	3	MO
+2	die	der	ART	ART	nom|pl|masc	3	NK	3	NK
+3	Ärzte	Ärzt	NN	NN	nom|pl|masc	4	SB	4	SB
+4	dürfen	dürfen	VMFIN	VMFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+5	auch	auch	ADV	ADV	4	MO	4	MO
+6	nicht	nicht	PTKNEG	PTKNEG	4	NG	4	NG
+7	Majoran	Majoran	NN	NN	nom|sg|*	10	OA	10	OA
+8	für	für	APPR	APPR	7	MNR	7	MNR
+9	Sticas	Stica	NE	NE	acc|sg|*	8	NK	8	NK
+10	nehmen	nehmen	VVINF	VVINF	4	OC	4	OC
+11	,	,	$,	$,	10	PUNC	10	PUNC
+
+1	es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+2	muss	muss	VVFIN	VVFIN	sg|3|past|ind	-1	ROOT	-1	ROOT
+3	mir	sich	PPER	PPER	dat|sg|*|1	2	DA	2	DA
+4	alles	alle	PIS	PIS	nom|sg|neut	1	NK	1	NK
+5	fremd	fremd	ADJD	ADJD	pos	6	PD	6	PD
+6	sein	sein	VAINF	VAINF	2	OC	2	OC
+7	.	.	$.	$.	6	PUNC	6	PUNC
+
+1	Geschlecht	Geschlecht	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	und	und	KON	KON	1	CD	1	CD
+3	Gestalt	Gestalt	NN	NN	nom|sg|fem	2	CJ	2	CJ
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+2	unterscheidet	unterscheiden	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	zwar	zwar	ADV	ADV	2	MO	2	MO
+4	Dioscorides	Dioscoride	NN	NN	acc|pl|neut	2	OA	2	OA
+5	dieses	dieser	PDAT	PDAT	acc|sg|neut	6	NK	6	NK
+6	Kraut	Kraut	NN	NN	acc|sg|neut	4	AG	4	AG
+7	nicht	nicht	PTKNEG	PTKNEG	2	NG	2	NG
+8	weiter	weiter	ADV	ADV	7	MO	7	MO
+9	denn	denn	ADV	ADV	2	MO	2	MO
+10	der	der	ART	ART	gen|pl|neut	11	NK	11	NK
+11	Länder	Land	NN	NN	gen|pl|neut	2	DA	2	DA
+12	halber	halber	PTKVZ	PTKVZ	2	SVP	2	SVP
+13	.	.	$.	$.	12	PUNC	12	PUNC
+
+1	Denn	denn	KON	KON	5	JU	5	JU
+2	der	der	ART	ART	nom|sg|masc	4	NK	4	NK
+3	allerbeste	allerbester	ADJA	ADJA	nom|sg|masc|pos	4	NK	4	NK
+4	Majoran	Majoran	NE	NE	nom|sg|masc	5	SB	5	SB
+5	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	in	in	APPR	APPR	5	MO	5	MO
+7	Zypern	Zypern	NE	NE	dat|sg|neut	6	NK	6	NK
+8	.	.	$.	$.	7	PUNC	7	PUNC
+9	Danach	Danach	PROAV	PROAV	5	MO	5	MO
+10	in	in	APPR	APPR	5	MO	5	MO
+11	Ägyptenland	Ägyptenland	NE	NE	dat|sg|neut	10	NK	10	NK
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	Es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	aber	aber	ADV	ADV	2	MO	2	MO
+4	dennoch	dennoch	ADV	ADV	2	MO	2	MO
+5	bei	bei	APPR	APPR	2	MO	2	MO
+6	uns	uns	PPER	PPER	dat|pl|*|1	5	NK	5	NK
+7	auch	auch	ADV	ADV	8	MO	8	MO
+8	zweierlei	zweierlei	NN	NN	*|*|*	2	PD	2	PD
+9	.	.	$.	$.	8	PUNC	8	PUNC
+10	ein	ein	ART	ART	nom|sg|masc	11	NK	11	NK
+11	gemeiner	gemein	ADJA	ADJA	nom|sg|masc|pos	2	PD	2	PD
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	2	CD	2	CD
+14	ein	ein	ART	ART	nom|sg|masc	15	NK	15	NK
+15	edler	edler	NN	NN	nom|sg|masc	13	CJ	13	CJ
+16	genannt	nennen	VVPP	VVPP	15	OC	15	OC
+17	.	.	$.	$.	16	PUNC	16	PUNC
+
+1	Der	der	ART	ART	nom|sg|masc	2	NK	2	NK
+2	edle	edel	PIS	PIS	nom|sg|masc	3	SB	3	SB
+3	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	krausere	krausern	ADJA	ADJA	nom|pl|neut|comp	7	NK	7	NK
+5	und	und	KON	KON	4	CD	4	CD
+6	adeligere	adelig	ADJA	ADJA	nom|pl|neut|pos	5	CJ	5	CJ
+7	Blätter	Blatt	NN	NN	nom|pl|neut	3	OA	3	OA
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	wider	wider	APPR	APPR	7	MNR	7	MNR
+10	der	der	ART	ART	gen|sg|fem	12	NK	12	NK
+11	gemeine	gemein	ADJA	ADJA	nom|sg|masc|pos	12	NK	12	NK
+12	Gartenmajoran	Gartenmajoran	NN	NN	nom|sg|masc	9	NK	9	NK
+13	,	,	$,	$,	12	PUNC	12	PUNC
+
+1	aber	aber	KON	KON	2	JU	2	JU
+2	beide	beide	VVFIN	VVFIN	nom|pl|*	-1	ROOT	-1	ROOT
+3	zwar	zwar	ADV	ADV	2	MO	2	MO
+4	einer	ein	ART	ART	nom|sg|masc	5	NK	5	NK
+5	Kräfte	Kraft	NN	NN	gen|pl|fem	2	DA	2	DA
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	und	und	KON	KON	2	CD	2	CD
+8	fast	fast	ADV	ADV	11	MO	11	MO
+9	eines	ein	ART	ART	gen|sg|masc	11	NK	11	NK
+10	lieblichen	lieblich	ADJA	ADJA	gen|sg|masc|pos	11	NK	11	NK
+11	Geruchs	Geruch	NN	NN	gen|sg|masc	7	CJ	7	CJ
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	Statt	statt	APPR	APPR	-1	ROOT	-1	ROOT
+2	ihres	ihr	PPOSAT	PPOSAT	gen|sg|neut	3	NK	3	NK
+3	Gewächses	Gewächse	NN	NN	gen|sg|neut	1	NK	1	NK
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Wie	wie	PWAV	PWAV	3	MO	3	MO
+2	oben	oben	ADV	ADV	3	MO	3	MO
+3	gesagt	sagen	VVPP	VVPP	-1	ROOT	-1	ROOT
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	so	so	ADV	ADV	3	MO	3	MO
+6	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	5	RE	5	RE
+7	der	der	ART	ART	nom|sg|masc	8	NK	8	NK
+8	Majoran	Majoran	NN	NN	nom|sg|masc	6	SB	6	SB
+9	gezielt	gezielt	ADJD	ADJD	pos	26	MO	26	MO
+10	in	in	APPR	APPR	26	MNR	26	MNR
+11	den	der	ART	ART	dat|pl|masc	12	NK	12	NK
+12	Gärten	Garten	NN	NN	dat|pl|masc	10	NK	10	NK
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	etwa	etwa	ADV	ADV	16	MO	16	MO
+15	auch	auch	ADV	ADV	16	MO	16	MO
+16	in	in	APPR	APPR	12	PAR	12	PAR
+17	besonderen	besonderer	ADJA	ADJA	dat|pl|fem|pos	18	NK	18	NK
+18	Kacheln	Kachel	NN	NN	dat|pl|fem	16	NK	16	NK
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	und	und	KON	KON	12	CD	12	CD
+21	Geschirren	Geschirr	NN	NN	nom|pl|fem	20	CJ	20	CJ
+22	,	,	$,	$,	21	PUNC	21	PUNC
+23	in	in	APPR	APPR	26	MO	26	MO
+24	Gestalt	Gestalt	NN	NN	dat|sg|fem	23	NK	23	NK
+25	kleiner	klein	ADJA	ADJA	gen|pl|fem|pos	26	NK	26	NK
+26	Bäumlein	Bäumlein	NN	NN	nom|sg|masc	6	OC	6	OC
+27	,	,	$,	$,	26	PUNC	26	PUNC
+28	und	und	KON	KON	6	CD	6	CD
+29	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	28	CJ	28	CJ
+30	fast	fast	ADV	ADV	29	MO	29	MO
+31	gern	gern	ADV	ADV	29	MO	29	MO
+32	.	.	$.	$.	31	PUNC	31	PUNC
+33	Wird	werden	VAFIN	VAFIN	sg|3|pres|ind	29	OC	29	OC
+34	gesät	gesaten	VVPP	VVPP	33	OC	33	OC
+35	und	und	KON	KON	34	CD	34	CD
+36	geimpft	geimpften	VVPP	VVPP	35	CJ	35	CJ
+37	,	,	$,	$,	36	PUNC	36	PUNC
+38	oder	oder	KON	KON	36	CD	36	CD
+39	gepflanzt	pflanzen	VVPP	VVPP	38	CJ	38	CJ
+40	.	.	$.	$.	39	PUNC	39	PUNC
+
+1	An	an	APPR	APPR	9	OP	9	OP
+2	den	der	ART	ART	acc|sg|masc	5	NK	5	NK
+3	feuchten	feucht	ADJA	ADJA	acc|sg|masc|pos	5	NK	5	NK
+4	schattigen	schattig	ADJA	ADJA	dat|pl|masc|pos	5	NK	5	NK
+5	Orten	Ort	NN	NN	dat|pl|masc	1	NK	1	NK
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+8	sie	sie	PPER	PPER	nom|sg|fem|3	7	SB	7	SB
+9	groß	groß	ADJD	ADJD	pos	7	PD	7	PD
+10	und	und	KON	KON	7	CD	7	CD
+11	feist	feisen	VVFIN	VVFIN	sg|3|pres|ind	10	CJ	10	CJ
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	an	an	APPR	APPR	17	MO	17	MO
+14	der	der	ART	ART	dat|sg|fem	15	NK	15	NK
+15	Sonne	Sonne	NN	NN	dat|sg|fem	13	NK	13	NK
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	klein	klein	ADJD	ADJD	pos	11	CJ	11	CJ
+18	und	und	KON	KON	17	CD	17	CD
+19	kraus	kraus	ADJD	ADJD	pos	18	CJ	18	CJ
+20	.	.	$.	$.	19	PUNC	19	PUNC
+
+1	Sein	sein	PPOSAT	PPOSAT	nom|sg|masc	2	NK	2	NK
+2	Complexion	Complexion	NN	NN	nom|sg|masc	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	und	und	KON	KON	2	CD	2	CD
+5	Temperament	Temperament	NN	NN	nom|sg|neut	4	CJ	4	CJ
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Galenus	Galenus	NE	NE	nom|sg|*	2	SB	2	SB
+2	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	daß	KOUS	KOUS	6	CP	6	CP
+5	Majoran	Majoran	NE	NE	nom|sg|*	6	SB	6	SB
+6	wärmt	wärmen	VVFIN	VVFIN	sg|3|pres|ind	2	OC	2	OC
+7	in	in	APPR	APPR	6	MO	6	MO
+8	dem	der	ART	ART	dat|sg|neut	10	NK	10	NK
+9	dritten	dritter	ADJA	ADJA	dat|sg|masc|pos	10	NK	10	NK
+10	Grade	Grade	NN	NN	dat|sg|neut	7	NK	7	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	und	und	KON	KON	6	CD	6	CD
+13	trocknet	trocknen	VVFIN	VVFIN	sg|3|pres|ind	12	CJ	12	CJ
+14	in	in	APPR	APPR	13	MO	13	MO
+15	dem	der	ART	ART	dat|sg|neut	16	NK	16	NK
+16	zweiten	zweiter	ADJA	ADJA	dat|sg|neut|pos	14	NK	14	NK
+17	.	.	$.	$.	16	PUNC	16	PUNC
+
+1	¶	¶	KON	KON	6	JU	6	JU
+2	Was	was	PWS	PWS	acc|sg|neut	6	OA	6	OA
+3	Majoran	Majoran	NE	NE	nom|sg|masc	6	SB	6	SB
+4	für	für	APPR	APPR	2	MNR	2	MNR
+5	Kräfte	Kraft	NN	NN	acc|pl|fem	4	NK	4	NK
+6	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+7	.	.	$.	$.	6	PUNC	6	PUNC
+
+1	Majoran	Majoran	NE	NE	nom|sg|*	2	SB	2	SB
+2	gesotten	gesotten	VVFIN	VVFIN	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	und	und	KON	KON	2	CD	2	CD
+5	zu	zu	PTKZU	PTKZU	6	PM	6	PM
+6	trinken	trinken	VVINF	VVINF	4	CJ	4	CJ
+7	gegeben	geben	VVPP	VVPP	6	OC	6	OC
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	denen	der	PRELS	PRELS	dat|pl|*	6	DA	6	DA
+10	so	so	ADV	ADV	11	MO	11	MO
+11	anfangen	anfangen	ADJD	ADJD	pl|3|pres|ind	6	MO	6	MO
+12	wassersüchtig	wassersüchtig	ADJD	ADJD	pos	14	PD	14	PD
+13	zu	zu	PTKZU	PTKZU	14	PM	14	PM
+14	werden	werden	VAINF	VAINF	10	CC	10	CC
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	22	RE	22	RE
+17	gut	gut	ADJD	ADJD	pos	16	PD	16	PD
+18	.	.	$.	$.	17	PUNC	17	PUNC
+19	dient	dienen	VVFIN	VVFIN	sg|3|pres|ind	16	CJ	16	CJ
+20	auch	auch	ADV	ADV	21	MO	21	MO
+21	denen	der	PDS	PDS	dat|pl|*	19	SB	19	SB
+22	so	so	ADV	ADV	6	CD	6	CD
+23	nicht	nicht	PTKNEG	PTKNEG	25	NG	25	NG
+24	harnen	harnen	VVINF	VVINF	25	OC	25	OC
+25	mögen	mögen	VMFIN	VMFIN	pl|3|pres|ind	19	MO	19	MO
+26	,	,	$,	$,	25	PUNC	25	PUNC
+27	und	und	KON	KON	19	CD	19	CD
+28	Leibweh	Leibweh	NN	NN	nom|pl|fem|3	29	SB	29	SB
+29	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	27	CJ	27	CJ
+30	,	,	$,	$,	29	PUNC	29	PUNC
+31	und	und	KON	KON	29	CD	29	CD
+32	treibt	treiben	VVFIN	VVFIN	sg|3|pres|ind	31	CJ	31	CJ
+33	auch	auch	ADV	ADV	32	MO	32	MO
+34	den	der	ART	ART	acc|sg|masc	35	NK	35	NK
+35	Stein	Stein	NE	NE	acc|sg|masc	32	OA	32	OA
+36	.	.	$.	$.	35	PUNC	35	PUNC
+
+1	Die	der	ART	ART	nom|pl|neut	2	NK	2	NK
+2	Blätter	Blatt	NN	NN	nom|pl|neut	10	SB	10	SB
+3	in	in	APPR	APPR	2	MNR	2	MNR
+4	Honig	Honig	NE	NE	dat|sg|neut	3	NK	3	NK
+5	gestoßen	stoßen	VVPP	VVPP	2	PAR	2	PAR
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	und	und	KON	KON	5	CD	5	CD
+8	übergelegt	übergelegen	VVPP	VVPP	7	CJ	7	CJ
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	benehmen	benehmen	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+11	die	der	ART	ART	nom|pl|neut	13	NK	13	NK
+12	blauen	blau	ADJA	ADJA	nom|pl|masc|pos	13	NK	13	NK
+13	Mäler	Mäler	NN	NN	nom|pl|masc	10	OA	10	OA
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	von	von	APPR	APPR	13	PG	13	PG
+16	Schlagen	Schlage	NN	NN	dat|pl|fem	15	NK	15	NK
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	oder	oder	KON	KON	16	CD	16	CD
+19	Stoßen	stoßen	NN	NN	nom|pl|fem	18	CJ	18	CJ
+20	.	.	$.	$.	19	PUNC	19	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Zapfen	Zapfen	NN	NN	nom|sg|neut	6	SB	6	SB
+3	daraus	daraus	PROAV	PROAV	4	MO	4	MO
+4	gemacht	machen	VVPP	VVPP	2	PAR	2	PAR
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	bringt	bringen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+7	den	der	ART	ART	dat|pl|fem	8	NK	8	NK
+8	Frauen	Frau	NN	NN	dat|pl|fem	6	DA	6	DA
+9	ihre	ihr	PPOSAT	PPOSAT	acc|sg|fem	10	NK	10	NK
+10	Zeit	Zeit	NN	NN	acc|sg|fem	6	OA	6	OA
+11	.	.	$.	$.	10	PUNC	10	PUNC
+
+1	Mit	mit	APPR	APPR	5	MO	5	MO
+2	Essig	Essig	NN	NN	dat|sg|masc	1	NK	1	NK
+3	und	und	KON	KON	2	CD	2	CD
+4	Salz	Salz	NN	NN	dat|sg|masc	3	CJ	3	CJ
+5	gestoßen	stoßen	VVPP	VVPP	12	SB	12	SB
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	gelegt	legen	VVPP	VVPP	5	CJ	5	CJ
+8	über	über	APPR	APPR	7	OP	7	OP
+9	einen	ein	ART	ART	acc|sg|masc	10	NK	10	NK
+10	Skorpionbiss	Skorpionbiss	NN	NN	acc|sg|masc	8	NK	8	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	heilt	heilen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+13	ihn	ihn	PPER	PPER	acc|sg|masc|3	12	OA	12	OA
+14	.	.	$.	$.	13	PUNC	13	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|masc	2	NK	2	NK
+2	Pflaster	Pflaster	NN	NN	nom|sg|masc	-1	ROOT	-1	ROOT
+3	daraus	daraus	PROAV	PROAV	4	MO	4	MO
+4	gemacht	machen	VVPP	VVPP	2	PAR	2	PAR
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	und	und	KON	KON	3	CD	3	CD
+7	gelegt	legen	VVPP	VVPP	6	CJ	6	CJ
+8	über	über	APPR	APPR	7	MO	7	MO
+9	die	der	ART	ART	acc|pl|masc	11	NK	11	NK
+10	verrenkten	verrenkt	ADJA	ADJA	acc|pl|neut|pos	11	NK	11	NK
+11	Glieder	Glied	NN	NN	acc|pl|neut	8	NK	8	NK
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	richtet	richten	VVFIN	VVFIN	sg|3|pres|ind	7	CJ	7	CJ
+14	sie	sie	PPER	PPER	nom|sg|fem|3	13	OA	13	OA
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	und	und	KON	KON	13	CD	13	CD
+17	legt	legen	VVFIN	VVFIN	sg|3|pres|ind	16	CJ	16	CJ
+18	das	der	ART	ART	acc|sg|neut	19	NK	19	NK
+19	Weh	Weh	NN	NN	acc|sg|neut	17	OA	17	OA
+20	.	.	$.	$.	19	PUNC	19	PUNC
+
+1	Mit	mit	APPR	APPR	12	MO	12	MO
+2	zartem	zart	ADJA	ADJA	dat|sg|neut|pos	3	NK	3	NK
+3	Gestenmehl	Gestenmehl	NN	NN	dat|sg|neut	1	NK	1	NK
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	das	der	PRELS	PRELS	nom|sg|neut	7	SB	7	SB
+6	da	da	ADV	ADV	7	MO	7	MO
+7	bereitet	bereiten	VVFIN	VVFIN	sg|3|pres|ind	3	RC	3	RC
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	ein	ein	ART	ART	nom|sg|masc	10	NK	10	NK
+10	Teiglein	Teiglein	NN	NN	nom|sg|masc	-1	ROOT	-1	ROOT
+11	daraus	daraus	PROAV	PROAV	12	MO	12	MO
+12	gemacht	machen	VVPP	VVPP	10	PD	10	PD
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	und	und	KON	KON	11	CD	11	CD
+15	über	über	APPR	APPR	18	MO	18	MO
+16	die	der	ART	ART	acc|pl|neut	17	NK	17	NK
+17	Augen	Auge	NN	NN	acc|pl|neut	15	NK	15	NK
+18	gestrichen	streichen	VVPP	VVPP	20	MO	20	MO
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	legt	legen	VVFIN	VVFIN	sg|3|pres|ind	14	CJ	14	CJ
+21	die	der	ART	ART	nom|sg|fem	22	NK	22	NK
+22	Hitze	Hitze	NN	NN	nom|sg|fem	20	SB	20	SB
+23	und	und	KON	KON	22	CD	22	CD
+24	Geschwulst	Geschwulst	NN	NN	nom|sg|neut	23	CJ	23	CJ
+25	der	der	ART	ART	gen|pl|*	26	NK	26	NK
+26	Augen	Auge	NN	NN	gen|pl|*	22	AG	22	AG
+27	.	.	$.	$.	26	PUNC	26	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Pulver	Pulver	NN	NN	nom|sg|neut	8	SB	8	SB
+3	davon	davon	PROAV	PROAV	7	MO	7	MO
+4	in	in	APPR	APPR	7	MO	7	MO
+5	die	der	ART	ART	acc|pl|neut	6	NK	6	NK
+6	Nasenlöcher	Nasenloch	NN	NN	acc|pl|neut	4	NK	4	NK
+7	gestoßen	stoßen	VVPP	VVPP	8	OC	8	OC
+8	macht	machen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+9	niesen	niesen	PDS	PDS	acc|sg|masc	8	OA	8	OA
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	reinigt	reinigen	VVFIN	VVFIN	sg|3|pres|ind	8	CJ	8	CJ
+12	und	und	KON	KON	11	CD	11	CD
+13	stärkt	stärken	VVFIN	VVFIN	sg|3|pres|ind	12	CJ	12	CJ
+14	das	der	ART	ART	nom|sg|neut	15	NK	15	NK
+15	Haupt	Haupt	NN	NN	nom|sg|neut	13	OA	13	OA
+16	.	.	$.	$.	15	PUNC	15	PUNC
+
+1	Man	man	PIS	PIS	nom|sg|*	2	SB	2	SB
+2	macht	machen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	auch	auch	ADV	ADV	2	MO	2	MO
+4	ein	ein	ART	ART	acc|sg|neut	5	NK	5	NK
+5	Öl	Öl	NN	NN	nom|sg|neut	2	OA	2	OA
+6	daraus	daraus	PROAV	PROAV	8	MO	8	MO
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	genannt	nennen	VVPP	VVPP	2	MO	2	MO
+9	Oleum	Oleum	NE	NE	acc|sg|*	10	PNC	10	PNC
+10	samsuchinum	samsuchinum	NE	NE	8	MO	8	MO
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	oder	oder	KON	KON	5	CD	5	CD
+13	eine	ein	ART	ART	nom|sg|fem	14	NK	14	NK
+14	Salbe	Salbe	NN	NN	nom|sg|fem	12	CJ	12	CJ
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	welche	welcher	PRELS	PRELS	nom|sg|fem	17	SB	17	SB
+17	wärmt	wärmen	VVFIN	VVFIN	sg|3|pres|ind	14	RC	14	RC
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	und	und	KON	KON	17	CD	17	CD
+20	erweicht	erweichen	VVFIN	VVFIN	sg|3|pres|ind	19	CJ	19	CJ
+21	die	der	ART	ART	acc|pl|*	22	NK	22	NK
+22	Nerven	Nerv	NN	NN	acc|pl|masc	20	OA	20	OA
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	und	und	KON	KON	22	CD	22	CD
+25	die	der	ART	ART	acc|sg|fem	27	NK	27	NK
+26	erkaltete	erkaltet	ADJA	ADJA	nom|sg|fem|pos	27	NK	27	NK
+27	Gebärmutter	Gebärmutter	NN	NN	nom|sg|fem	24	CJ	24	CJ
+28	.	.	$.	$.	27	PUNC	27	PUNC
+
+1	Ist	sein	VAFIN	VAFIN	sg|3|pres|ind	18	OC	18	OC
+2	etwa	etwa	ADV	ADV	1	MO	1	MO
+3	gar	gar	ADV	ADV	4	MO	4	MO
+4	köstlich	köstlich	ADJD	ADJD	pos	5	MO	5	MO
+5	bereit	bereit	ADJD	ADJD	pos	7	MO	7	MO
+6	und	und	KON	KON	5	CD	5	CD
+7	gehalten	halten	VVPP	VVPP	8	OC	8	OC
+8	worden	werden	VAPP	VAPP	1	OC	1	OC
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	wie	wie	PWAV	PWAV	15	MO	15	MO
+11	Dioscorides	Dioscorid	NN	NN	nom|sg|*	15	SB	15	SB
+12	am	an	APPRART	APPRART	dat|sg|neut	15	MO	15	MO
+13	ersten	erster	ADJA	ADJA	dat|sg|neut|pos	14	NK	14	NK
+14	Buch	Buch	NN	NN	dat|sg|neut	12	NK	12	NK
+15	dasselbe	derselbe	VVFIN	VVFIN	sg|3|pres|subj	17	MO	17	MO
+16	zu	zu	PTKZU	PTKZU	17	PM	17	PM
+17	machen	machen	VVINF	VVINF	6	CJ	6	CJ
+18	beschreibt	beschreiben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+19	.	.	$.	$.	18	PUNC	18	PUNC
+
+1	Majoran	Majoran	NE	NE	nom|sg|*	2	SB	2	SB
+2	gesotten	gesotten	VVFIN	VVFIN	acc|sg|masc|pos	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	oder	oder	KON	KON	2	CD	2	CD
+5	das	der	ART	ART	nom|sg|neut	6	NK	6	NK
+6	Saft	Saft	NN	NN	nom|sg|neut	11	OA	11	OA
+7	davon	davon	PROAV	PROAV	11	MO	11	MO
+8	in	in	APPR	APPR	11	MO	11	MO
+9	die	der	ART	ART	acc|sg|fem	10	NK	10	NK
+10	Nase	Nase	NN	NN	acc|sg|fem	8	NK	8	NK
+11	geschnupft	schnupfen	VVPP	VVPP	4	CJ	4	CJ
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	stärkt	stärken	VVFIN	VVFIN	sg|3|pres|ind	7	RE	7	RE
+14	auch	auch	ADV	ADV	16	MO	16	MO
+15	das	der	ART	ART	nom|sg|neut	16	NK	16	NK
+16	Hirn	Hirn	NN	NN	nom|sg|neut	13	OA	13	OA
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	und	und	KON	KON	13	CD	13	CD
+19	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	18	CJ	18	CJ
+20	gut	gut	ADJD	ADJD	pos	19	PD	19	PD
+21	denen	der	PDS	PDS	dat|pl|*	20	DA	20	DA
+22	so	so	ADV	ADV	28	MO	28	MO
+23	den	der	ART	ART	acc|sg|masc	25	NK	25	NK
+24	fallenden	fallend	ADJA	ADJA	acc|sg|masc|pos	25	NK	25	NK
+25	Siechtagen	Siechtag	NN	NN	acc|sg|masc	26	OA	26	OA
+26	haben	haben	VAINF	VAINF	28	OC	28	OC
+27	.	.	$.	$.	26	PUNC	26	PUNC
+28	Reinigt	Reinigt	VVPP	VVPP	acc|sg|masc	19	SB	19	SB
+29	und	und	KON	KON	28	CD	28	CD
+30	taugt	taugen	VVFIN	VVFIN	sg|3|pres|ind	29	CJ	29	CJ
+31	wohl	wohl	ADV	ADV	30	MO	30	MO
+32	den	der	ART	ART	acc|sg|masc	33	NK	33	NK
+33	Nasenpfnüssel	Nasenpfnüssel	NN	NN	acc|sg|masc	30	OA	30	OA
+34	,	,	$,	$,	33	PUNC	33	PUNC
+35	oder	oder	KON	KON	33	CD	33	CD
+36	Schnupfen	Schnupfen	NN	NN	dat|pl|masc	35	CJ	35	CJ
+37	.	.	$.	$.	36	PUNC	36	PUNC
+
+1	Wen	wen	VAFIN	VAFIN	acc|sg|masc|3	12	MO	12	MO
+2	das	der	ART	ART	nom|sg|neut	3	NK	3	NK
+3	Paralysis	Paralysis	NN	NN	acc|sg|neut	1	SB	1	SB
+4	getroffen	treffen	VVPP	VVPP	1	OC	1	OC
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	und	und	KON	KON	1	CD	1	CD
+7	ihm	ihm	PPER	PPER	dat|sg|masc|3	10	DA	10	DA
+8	die	der	ART	ART	nom|sg|fem	9	NK	9	NK
+9	Sprache	Sprache	NN	NN	nom|sg|fem	6	CJ	6	CJ
+10	gelegen	liegen	VVPP	VVPP	9	OC	9	OC
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	soll	sollen	VMFIN	VMFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+13	man	man	PIS	PIS	nom|sg|*	12	SB	12	SB
+14	das	der	ART	ART	acc|sg|neut	15	NK	15	NK
+15	Wasser	Wasser	NN	NN	acc|sg|neut	19	OA	19	OA
+16	in	in	APPR	APPR	15	MNR	15	MNR
+17	den	der	ART	ART	acc|sg|masc	18	NK	18	NK
+18	Mund	Mund	NN	NN	acc|sg|masc	16	NK	16	NK
+19	geben	geben	VVINF	VVINF	12	OC	12	OC
+20	,	,	$,	$,	19	PUNC	19	PUNC
+
+1	bringt	bringen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	ihm	ihm	PPER	PPER	dat|sg|*|3	1	DA	1	DA
+3	die	der	ART	ART	nom|sg|fem	4	NK	4	NK
+4	Rede	Rede	NN	NN	nom|sg|fem	1	SB	1	SB
+5	wieder	wieder	ADV	ADV	1	MO	1	MO
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	eine	ein	ART	ART	nom|sg|fem	5	NK	5	NK
+4	kräftige	kräftig	ADJA	ADJA	nom|sg|fem|pos	5	NK	5	NK
+5	Stärkung	Stärkung	NN	NN	nom|sg|fem	2	PD	2	PD
+6	der	der	ART	ART	gen|pl|masc	7	NK	7	NK
+7	Geister	Geister	NN	NN	gen|pl|masc	5	AG	5	AG
+8	.	.	$.	$.	7	PUNC	7	PUNC
+
+1	Die	der	ART	ART	nom|pl|fem	2	NK	2	NK
+2	Bettrisen	Bettrise	NN	NN	nom|pl|masc	7	SB	7	SB
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	und	und	KON	KON	2	CD	2	CD
+5	Paralytiker	Paralytiker	NN	NN	nom|pl|masc	4	CJ	4	CJ
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	sollen	sollen	VMFIN	VMFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+8	dieses	dieser	PDAT	PDAT	acc|sg|neut	9	NK	9	NK
+9	Wassers	Wasser	NN	NN	gen|sg|neut	11	OA	11	OA
+10	viel	viel	ADV	ADV	11	MO	11	MO
+11	brauchen	brauchen	VVFIN	VVFIN	pl|3|pres|ind	7	OC	7	OC
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	7	CD	7	CD
+14	die	der	ART	ART	nom|pl|neut	15	NK	15	NK
+15	Glieder	Glied	NN	NN	nom|pl|neut	17	OA	17	OA
+16	damit	damit	PROAV	PROAV	17	MO	17	MO
+17	reiben	reiben	VVFIN	VVFIN	13	CJ	13	CJ
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	und	und	KON	KON	16	CD	16	CD
+20	von	von	APPR	APPR	24	MO	24	MO
+21	ihm	ihm	PPER	PPER	dat|sg|masc|3	20	NK	20	NK
+22	selbst	selbst	ADV	ADV	21	MNR	21	MNR
+23	lassen	lassen	VVFIN	VVFIN	pl|3|pres|ind	24	MO	24	MO
+24	trocken	trocken	VVINF	VVINF	25	OC	25	OC
+25	werden	werden	VAFIN	VAFIN	pl|3|pres|ind	19	CJ	19	CJ
+26	.	.	$.	$.	25	PUNC	25	PUNC
+
+1	Stärkt	stärken	VVFIN	VVFIN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	die	der	ART	ART	nom|sg|fem	3	NK	3	NK
+3	Memorie	Memorie	NN	NN	nom|sg|fem	1	SB	1	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	oder	oder	KON	KON	3	CD	3	CD
+6	Gedächtnis	Gedächtnis	NN	NN	nom|sg|neut	5	CJ	5	CJ
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	das	der	ART	ART	nom|sg|neut	9	NK	9	NK
+9	Hinterteil	Hinterteil	NN	NN	acc|sg|neut	13	OA	13	OA
+10	des	der	ART	ART	gen|sg|neut	11	NK	11	NK
+11	Haupts	Haupt	NN	NN	gen|sg|neut	9	AG	9	AG
+12	damit	damit	PROAV	PROAV	13	MO	13	MO
+13	überstrichen	überstrichen	VVINF	VVINF	1	OC	1	OC
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	oder	oder	KON	KON	12	CD	12	CD
+16	eine	ein	ART	ART	acc|sg|fem	17	NK	17	NK
+17	Lauge	Lauge	NN	NN	acc|sg|fem	19	OA	19	OA
+18	daraus	daraus	PROAV	PROAV	19	MO	19	MO
+19	gemacht	machen	VVPP	VVPP	15	CJ	15	CJ
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	und	und	KON	KON	18	CD	18	CD
+22	mit	mit	APPR	APPR	21	CJ	21	CJ
+23	gezwagen	gezwagen	VVINF	VVINF	22	NK	22	NK
+24	.	.	$.	$.	23	PUNC	23	PUNC
+
+1	Welche	welcher	PWAT	PWAT	nom|pl|fem	2	NK	2	NK
+2	Frauen	Frau	NN	NN	nom|pl|fem	8	SB	8	SB
+3	auch	auch	ADV	ADV	5	MO	5	MO
+4	das	der	ART	ART	acc|sg|neut	5	NK	5	NK
+5	Weiß	weiß	NN	NN	acc|sg|neut	8	OA	8	OA
+6	zu	zu	APPR	APPR	5	MNR	5	MNR
+7	viel	viel	PIS	PIS	*|*|*	6	NK	6	NK
+8	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	10	SB	10	SB
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	sollen	sollen	VMFIN	VMFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+11	dieses	dieser	PDAT	PDAT	acc|sg|neut	12	NK	12	NK
+12	Wassers	Wasser	NN	NN	gen|sg|neut	13	SB	13	SB
+13	brauchen	brauchen	VVFIN	VVFIN	pl|3|pres|ind	10	OC	10	OC
+14	bei	bei	APPR	APPR	13	MO	13	MO
+15	Zeiten	Zeit	NN	NN	dat|pl|fem	14	NK	14	NK
+16	.	.	$.	$.	15	PUNC	15	PUNC
+
+1	Legt	legen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	das	der	ART	ART	nom|sg|neut	3	NK	3	NK
+3	Hauptweh	Hauptweh	NN	NN	nom|sg|neut	1	SB	1	SB
+4	von	von	APPR	APPR	3	PG	3	PG
+5	kalten	kalt	ADJA	ADJA	dat|pl|masc|pos	6	NK	6	NK
+6	Flüssen	Fluß	NN	NN	dat|pl|masc	4	NK	4	NK
+7	und	und	KON	KON	6	CD	6	CD
+8	Ursachen	Ursache	NN	NN	dat|pl|fem	7	CJ	7	CJ
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Macht	Macht	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	weit	weit	ADJD	ADJD	pos	1	PD	1	PD
+3	um	um	APPR	APPR	2	MO	2	MO
+4	die	der	ART	ART	acc|sg|fem	5	NK	5	NK
+5	Brust	Brust	NN	NN	acc|sg|fem	3	NK	3	NK
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	und	und	KON	KON	2	CD	2	CD
+8	zerschneidet	zerschneiden	VVFIN	VVFIN	sg|3|pres|ind	7	CJ	7	CJ
+9	den	der	ART	ART	acc|sg|masc	10	NK	10	NK
+10	Koder	Koder	NN	NN	acc|sg|masc	8	OA	8	OA
+11	.	.	$.	$.	10	PUNC	10	PUNC
+
+1	Die	der	ART	ART	nom|sg|fem	2	NK	2	NK
+2	Schröpfhörnlein	Schröpfhörnlein	NE	NE	nom|sg|fem	6	SB	6	SB
+3	in	in	APPR	APPR	6	MO	6	MO
+4	diesem	dieser	PDAT	PDAT	dat|sg|neut	5	NK	5	NK
+5	Wasser	Wasser	NN	NN	dat|sg|neut	3	NK	3	NK
+6	benetzt	benetzen	VVFIN	VVFIN	sg|3|pres|ind	8	SB	8	SB
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	behütet	behüten	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+9	den	der	ART	ART	acc|sg|masc	10	NK	10	NK
+10	Menschen	Mensch	NN	NN	acc|sg|masc	8	OA	8	OA
+11	dass	dass	PROAV	PROAV	14	MO	14	MO
+12	nichts	nichts	PIAT	PIAT	*|*|neut	13	NK	13	NK
+13	Böses	böse	NN	NN	acc|sg|neut	14	SB	14	SB
+14	zuschlägt	zuschlagen	VVFIN	VVFIN	sg|3|pres|ind	8	MO	8	MO
+15	.	.	$.	$.	14	PUNC	14	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Saft	Saft	NN	NN	nom|sg|neut	3	SB	3	SB
+3	gestrichen	streichen	VVFIN	VVFIN	9	OC	9	OC
+4	über	über	APPR	APPR	3	OP	3	OP
+5	das	der	ART	ART	acc|sg|neut	7	NK	7	NK
+6	gelüfferte	gelüffert	ADJA	ADJA	acc|sg|neut|pos	7	NK	7	NK
+7	Blut	Blut	NN	NN	acc|sg|neut	4	NK	4	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	zerlässt	zerlässen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+10	es	es	PPER	PPER	nom|sg|neut|3	9	EP	9	EP
+11	.	.	$.	$.	10	PUNC	10	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Foment	Foment	NN	NN	nom|sg|neut	5	OA	5	OA
+3	davon	davon	PROAV	PROAV	2	MNR	2	MNR
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	reinigt	reinigen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	die	der	ART	ART	nom|sg|fem	7	NK	7	NK
+7	Mutter	Mutter	NN	NN	nom|sg|fem	5	SB	5	SB
+8	.	.	$.	$.	7	PUNC	7	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Kraut	Kraut	NN	NN	nom|sg|neut	6	SB	6	SB
+3	über	über	APPR	APPR	2	MNR	2	MNR
+4	den	der	ART	ART	acc|sg|masc	5	NK	5	NK
+5	Magen	Magen	NN	NN	acc|sg|masc	3	NK	3	NK
+6	gelegt	legen	VVFIN	VVFIN	-1	ROOT	-1	ROOT
+7	in	in	APPR	APPR	6	MO	6	MO
+8	ein	ein	ART	ART	acc|sg|neut	9	NK	9	NK
+9	Säcklein	Säcklein	NN	NN	acc|sg|neut	7	NK	7	NK
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	legt	legen	VVFIN	VVFIN	sg|3|pres|ind	6	CJ	6	CJ
+12	das	der	ART	ART	nom|sg|neut	13	NK	13	NK
+13	Magenweh	Magenweh	NN	NN	nom|sg|neut	11	SB	11	SB
+14	.	.	$.	$.	13	PUNC	13	PUNC
+15	In	in	APPR	APPR	18	MO	18	MO
+16	die	der	ART	ART	acc|sg|fem	17	NK	17	NK
+17	Speise	Speise	NN	NN	acc|sg|fem	15	NK	15	NK
+18	getan	tun	VVPP	VVPP	11	OC	11	OC
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	macht	machen	VVFIN	VVFIN	sg|3|pres|ind	11	CJ	11	CJ
+21	sie	sie	PPER	PPER	nom|sg|fem|3	20	SB	20	SB
+22	wohlschmeckend	wohlschmeckend	ADJD	ADJD	pos	20	MO	20	MO
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	und	und	KON	KON	20	CD	20	CD
+25	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	24	CJ	24	CJ
+26	gesund	gesund	ADJD	ADJD	pos	25	PD	25	PD
+27	.	.	$.	$.	26	PUNC	26	PUNC
+28	Legt	Legt	VVFIN	VVFIN	sg|3|pres|ind	25	CJ	25	CJ
+29	auch	auch	ADV	ADV	32	MO	32	MO
+30	das	der	ART	ART	nom|sg|neut	32	NK	32	NK
+31	geschwollene	geschwollen	ADJA	ADJA	nom|sg|neut|pos	32	NK	32	NK
+32	Milz	Milz	NN	NN	nom|sg|neut	28	OA	28	OA
+33	.	.	$.	$.	32	PUNC	32	PUNC
+
+1	Mausöhrlein	Mausöhrlein	NE	NE	nom|sg|*	-1	ROOT	-1	ROOT
+2	.	.	$.	$.	1	PUNC	1	PUNC
+
+1	¶	¶	KON	KON	2	CD	2	CD
+2	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+3	dem	der	ART	ART	dat|sg|masc	4	NK	4	NK
+4	Namen	Name	NN	NN	dat|sg|masc	2	NK	2	NK
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|masc	3	NK	3	NK
+2	merklicher	merklich	ADJA	ADJA	nom|sg|masc|pos	3	NK	3	NK
+3	Irrtum	Irrtum	NN	NN	nom|sg|masc	4	SB	4	SB
+4	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	hier	hier	ADV	ADV	6	MO	6	MO
+6	eingerissen	eingerissen	VVPP	VVPP	4	PD	4	PD
+7	in	in	APPR	APPR	6	MO	6	MO
+8	den	der	ART	ART	dat|pl|neut	10	NK	10	NK
+9	alten	alt	ADJA	ADJA	dat|pl|neut|pos	10	NK	10	NK
+10	Kräuterbüchern	Kräuterbücher	NN	NN	dat|pl|neut	7	NK	7	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	welche	welcher	PRELS	PRELS	nom|pl|neut	10	APP	10	APP
+13	gar	gar	ADV	ADV	14	MO	14	MO
+14	nahe	nahe	APPR	APPR	12	MNR	12	MNR
+15	alle	alle	PIS	PIS	acc|pl|*	14	NK	14	NK
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	das	der	PRELS	PRELS	nom|sg|neut	28	SB	28	SB
+18	Kräutlein	Kräutlein	NN	NN	nom|sg|masc	27	MO	27	MO
+19	Gauchheil	Gauchheil	NE	NE	nom|sg|masc	18	NK	18	NK
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	zu	zu	APPR	APPR	27	MO	27	MO
+22	Latein	Latein	NE	NE	nom|sg|masc	23	PNC	23	PNC
+23	Anagallis	Anagalli	NE	NE	dat|sg|masc	21	NK	21	NK
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	für	für	APPR	APPR	27	MO	27	MO
+26	Mausöhrlein	Mausöhrlein	NN	NN	acc|sg|neut	25	NK	25	NK
+27	ausgelegt	auslegen	VVPP	VVPP	28	OC	28	OC
+28	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	15	RC	15	RC
+29	.	.	$.	$.	28	PUNC	28	PUNC
+
+1	In	in	APPR	APPR	5	MO	5	MO
+2	welchen	welcher	PWAT	PWAT	dat|pl|fem	3	NK	3	NK
+3	Irrtum	Irrtum	NN	NN	dat|sg|masc	1	NK	1	NK
+4	sie	sie	PPER	PPER	nom|sg|fem|3	5	OA	5	OA
+5	geführt	führen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	der	der	ART	ART	nom|sg|masc	8	NK	8	NK
+7	alte	alt	ADJA	ADJA	nom|sg|masc|pos	8	NK	8	NK
+8	Abgott	Abgott	NN	NN	nom|sg|masc	5	SB	5	SB
+9	Avicenna	Avicenna	NE	NE	nom|sg|neut	8	NK	8	NK
+10	.	.	$.	$.	9	PUNC	9	PUNC
+
+1	Von	von	APPR	APPR	4	OP	4	OP
+2	diesem	dieser	PDAT	PDAT	dat|sg|masc	3	NK	3	NK
+3	Irrtum	Irrtum	NN	NN	dat|sg|masc	1	NK	1	NK
+4	disputiert	disputieren	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	weitläufig	weitläufig	ADJD	ADJD	pos	4	MO	4	MO
+6	der	der	ART	ART	nom|sg|masc	8	NK	8	NK
+7	hochgelehrte	hochgelehrt	ADJA	ADJA	nom|sg|masc|pos	8	NK	8	NK
+8	D.	Der	NN	NN	nom|sg|masc	4	SB	4	SB
+9	Leonhart	Leonhart	NE	NE	nom|sg|masc	10	PNC	10	PNC
+10	Fuchs	Fuchs	NE	NE	nom|sg|masc	8	NK	8	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	in	in	APPR	APPR	4	MO	4	MO
+13	seinem	sein	PPOSAT	PPOSAT	dat|sg|neut	14	NK	14	NK
+14	Büchlein	Büchlein	NN	NN	dat|sg|neut	12	NK	12	NK
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	das	der	PRELS	PRELS	acc|sg|neut	18	OA	18	OA
+17	er	er	PPER	PPER	nom|sg|masc|3	18	SB	18	SB
+18	geschrieben	schreiben	VVPP	VVPP	14	RC	14	RC
+19	von	von	APPR	APPR	18	MO	18	MO
+20	den	der	ART	ART	dat|pl|masc	21	NK	21	NK
+21	Irrtümern	Irrtümer	NN	NN	dat|pl|masc	19	NK	19	NK
+22	der	der	ART	ART	gen|pl|masc	23	NK	23	NK
+23	Ärzte	Ärzt	NN	NN	gen|pl|masc	21	AG	21	AG
+24	,	,	$,	$,	23	PUNC	23	PUNC
+
+1	gehört	gehören	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	für	für	APPR	APPR	1	MO	1	MO
+3	die	der	ART	ART	acc|pl|fem	4	NK	4	NK
+4	Gelehrten	Gelehrte	NN	NN	acc|pl|fem	2	NK	2	NK
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	dass	dass	KOUS	KOUS	8	CP	8	CP
+7	sie	sie	PPER	PPER	nom|pl|*|3	8	SB	8	SB
+8	demselbigen	demselbig	VVFIN	VVFIN	dat|pl|*	1	MO	1	MO
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	und	und	KON	KON	1	CD	1	CD
+11	deren	der	PDS	PDS	gen|pl|fem	12	SB	12	SB
+12	gleichen	gleich	VVFIN	VVFIN	nom|pl|neut|pos	10	CJ	10	CJ
+13	fleißiger	fleißig	ADJD	ADJD	comp	14	MO	14	MO
+14	nachsinnen	nachsinnen	VVINF	VVINF	12	OC	12	OC
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	damit	damit	KOUS	KOUS	23	CP	23	CP
+17	sie	sie	PPER	PPER	nom|pl|*|3	23	SB	23	SB
+18	nicht	nicht	PTKNEG	PTKNEG	23	NG	23	NG
+19	für	für	APPR	APPR	23	MO	23	MO
+20	und	und	KON	KON	19	CD	19	CD
+21	für	für	APPR	APPR	20	CJ	20	CJ
+22	also	also	ADV	ADV	21	NK	21	NK
+23	machen	machen	VVINF	VVINF	14	MO	14	MO
+24	,	,	$,	$,	23	PUNC	23	PUNC
+
+1	quid	quid	ADJD	ADJD	2	MO	2	MO
+2	pro	pro	FM	FM	-1	ROOT	-1	ROOT
+3	quo	--	FM	FM	2	UC	2	UC
+4	,	,	$,	$,	3	PUNC	3	PUNC
+
+1	Mäusedreck	Mäusedreck	NN	NN	nom|sg|masc	-1	ROOT	-1	ROOT
+2	für	für	APPR	APPR	1	MNR	1	MNR
+3	Pfeffer	Pfeffer	NN	NN	acc|pl|masc	2	NK	2	NK
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Kraut	Kraut	NN	NN	nom|sg|neut	4	SB	4	SB
+3	Mausöhrlein	Mausöhrlein	NE	NE	nom|sg|*	2	NK	2	NK
+4	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	8	OC	8	OC
+5	also	also	ADV	ADV	6	MO	6	MO
+6	genannt	nennen	VVPP	VVPP	4	OC	4	OC
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+9	Dioscorides	Dioscoride	NE	NE	nom|sg|*	8	SB	8	SB
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	darum	darum	PROAV	PROAV	8	MO	8	MO
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	dass	dass	KOUS	KOUS	19	CP	19	CP
+14	seine	sein	PPOSAT	PPOSAT	nom|sg|fem	15	NK	15	NK
+15	Blättlein	Blättlein	NN	NN	nom|sg|fem	19	SB	19	SB
+16	den	der	ART	ART	acc|sg|masc	17	NK	17	NK
+17	Mausöhrlein	Mausöhrlein	NN	NN	acc|sg|masc	19	PD	19	PD
+18	gleich	gleich	ADV	ADV	23	MO	23	MO
+19	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	11	RE	11	RE
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	Auricula	Auricula	NE	NE	nom|sg|fem	22	PNC	22	PNC
+22	muris	muris	NE	NE	nom|sg|masc	17	NK	17	NK
+23	genannt	nennen	VVPP	VVPP	22	--	22	--
+24	zu	zu	APPR	APPR	23	MO	23	MO
+25	Latein	Latein	NE	NE	dat|sg|neut	24	NK	24	NK
+26	.	.	$.	$.	25	PUNC	25	PUNC
+
+1	Geschlecht	Geschlecht	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	und	und	KON	KON	1	CD	1	CD
+3	Gestalt	Gestalt	NN	NN	nom|sg|fem	2	CJ	2	CJ
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Dioscorides	dioscorid	NE	NE	nom|sg|*	2	SB	2	SB
+2	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	dass	KOUS	KOUS	8	CP	8	CP
+5	dieses	dieser	PDAT	PDAT	nom|sg|neut	6	NK	6	NK
+6	Kraut	Kraut	NN	NN	nom|sg|neut	8	SB	8	SB
+7	zweierlei	zweierlei	PIS	PIS	*|*|*	8	PD	8	PD
+8	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	2	OC	2	OC
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	erste	erster	ADJA	ADJA	nom|sg|neut|pos	4	SB	4	SB
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	in	in	APPR	APPR	4	MO	4	MO
+6	den	der	ART	ART	dat|pl|neut	7	NK	7	NK
+7	Wäldern	Wald	NN	NN	dat|pl|neut	5	NK	5	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	und	und	KON	KON	4	CD	4	CD
+10	sandigen	sandig	VVFIN	VVFIN	dat|pl|masc|pos	9	CJ	9	CJ
+11	Orten	Ort	NN	NN	dat|pl|masc	10	SB	10	SB
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	Alsine	Alsine	NN	NN	acc|pl|masc	14	MO	14	MO
+14	genannt	nennen	VVPP	VVPP	11	PAR	11	PAR
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	10	OC	10	OC
+17	aber	aber	ADV	ADV	16	MO	16	MO
+18	heute	heute	ADV	ADV	16	MO	16	MO
+19	nicht	nicht	PTKNEG	PTKNEG	16	NG	16	NG
+20	bekannt	bekannt	ADJD	ADJD	pos	16	PD	16	PD
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	als	als	KOUS	KOUS	30	CP	30	CP
+23	Marcellus	Marcellus	NE	NE	nom|sg|masc	30	SB	30	SB
+24	Vergilius	Vergilius	NN	NN	nom|sg|masc	23	NK	23	NK
+25	,	,	$,	$,	24	PUNC	24	PUNC
+26	und	und	KON	KON	23	CD	23	CD
+27	die	der	ART	ART	nom|pl|masc	28	NK	28	NK
+28	Ausleger	Ausleger	NN	NN	nom|pl|masc	26	CJ	26	CJ
+29	Dioscorides	Dioscorid	NE	NE	gen|sg|*	28	AG	28	AG
+30	meinen	meinen	VVFIN	VVFIN	pl|3|pres|ind	16	MO	16	MO
+31	.	.	$.	$.	30	PUNC	30	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	andere	anderer	PIS	PIS	nom|sg|neut	7	SB	7	SB
+3	mit	mit	APPR	APPR	7	OP	7	OP
+4	vielen	vieler	PIAT	PIAT	dat|pl|masc	5	NK	5	NK
+5	Stängeln	Stängel	NN	NN	dat|pl|masc	3	NK	3	NK
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	wachsend	wachsend	ADJD	ADJD	pos	-1	ROOT	-1	ROOT
+8	aus	aus	APPR	APPR	7	MO	7	MO
+9	einer	ein	ART	ART	dat|sg|fem	10	NK	10	NK
+10	Wurzel	Wurzel	NN	NN	dat|sg|fem	8	NK	8	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	etwas	etwas	ADV	ADV	13	MO	13	MO
+13	rötlich	rötlich	ADJD	ADJD	pos	10	PAR	10	PAR
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	unten	unten	ADV	ADV	17	MO	17	MO
+16	zu	zu	PTKA	PTKA	17	MO	17	MO
+17	hohl	hohl	ADJD	ADJD	pos	13	CJ	13	CJ
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	mit	mit	APPR	APPR	8	CJ	8	CJ
+20	schmalen	schmal	ADJA	ADJA	dat|pl|neut|pos	23	NK	23	NK
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	länglichen	länglich	ADJA	ADJA	dat|sg|masc|pos	20	CJ	20	CJ
+23	Blättlein	Blättlein	NN	NN	dat|sg|neut	19	NK	19	NK
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	mit	mit	APPR	APPR	19	CJ	19	CJ
+26	einem	ein	ART	ART	dat|sg|neut	28	NK	28	NK
+27	scharfen	scharf	ADJA	ADJA	dat|sg|neut|pos	28	NK	28	NK
+28	Rücken	Rücken	NN	NN	dat|sg|neut	25	NK	25	NK
+29	,	,	$,	$,	28	PUNC	28	PUNC
+30	schwärzlich	schwärzlich	ADJD	ADJD	pos	25	CJ	25	CJ
+31	,	,	$,	$,	30	PUNC	30	PUNC
+32	je	je	ADV	ADV	33	MO	33	MO
+33	zwei	zwei	CARD	CARD	42	MO	42	MO
+34	und	und	KON	KON	33	CD	33	CD
+35	zwei	zwei	CARD	CARD	36	NK	36	NK
+36	zusammen	zusammen	PTKVZ	PTKVZ	34	CJ	34	CJ
+37	,	,	$,	$,	36	PUNC	36	PUNC
+38	durch	durch	APPR	APPR	42	MO	42	MO
+39	etliche	etlicher	PIAT	PIAT	acc|pl|fem	40	NK	40	NK
+40	Spatien	Spatien	NN	NN	acc|pl|fem	38	NK	38	NK
+41	voneinander	voneinander	ADV	ADV	42	MO	42	MO
+42	gesondert	sondern	VVPP	VVPP	30	CJ	30	CJ
+43	.	.	$.	$.	42	PUNC	42	PUNC
+
+1	Die	der	ART	ART	nom|sg|fem	2	NK	2	NK
+2	Wurzel	Wurzel	NN	NN	nom|sg|fem	3	SB	3	SB
+3	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	eines	ein	ART	ART	gen|sg|masc	5	NK	5	NK
+5	Fingers	Finger	NN	NN	gen|sg|masc	6	AMS	6	AMS
+6	dick	dick	ADJD	ADJD	pos	3	PD	3	PD
+7	.	.	$.	$.	6	PUNC	6	PUNC
+
+1	und	und	KON	KON	3	JU	3	JU
+2	also	also	ADV	ADV	3	MO	3	MO
+3	beschreibt	beschreiben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	sie	sie	PPER	PPER	nom|sg|fem|3	3	SB	3	SB
+5	Dioscorides	Dioscoride	NN	NN	acc|pl|neut	3	OA	3	OA
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Das	der	PDS	PDS	acc|sg|neut	5	OA	5	OA
+2	aber	aber	ADV	ADV	5	MO	5	MO
+3	wir	wir	PPER	PPER	nom|pl|*|1	5	SB	5	SB
+4	Mausöhrlein	Mausöhrlein	NN	NN	acc|sg|neut	5	OA	5	OA
+5	nennen	nennen	VVFIN	VVFIN	pl|1|pres|ind	7	SB	7	SB
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	16	RS	16	RS
+8	ein	ein	ART	ART	nom|sg|neut	10	NK	10	NK
+9	kleines	klein	ADJA	ADJA	nom|sg|neut|pos	10	NK	10	NK
+10	Kräutlein	Kräutlein	NN	NN	nom|sg|neut	7	PD	7	PD
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	mit	mit	APPR	APPR	10	MNR	10	MNR
+13	haarigen	haarig	ADJA	ADJA	dat|pl|neut|pos	14	NK	14	NK
+14	Blättern	Blatt	NN	NN	dat|pl|neut	12	NK	12	NK
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	flicht	flichen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+17	sich	sich	PRF	PRF	acc|sg|3	16	OA	16	OA
+18	auf	auf	APPR	APPR	16	MO	16	MO
+19	der	der	ART	ART	dat|sg|fem	20	NK	20	NK
+20	Erde	Erde	NN	NN	dat|sg|fem	18	NK	18	NK
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	auch	auch	ADV	ADV	23	MO	23	MO
+23	mit	mit	APPR	APPR	16	OP	16	OP
+24	einem	ein	ART	ART	dat|sg|masc	27	NK	27	NK
+25	kleinen	klein	ADJA	ADJA	dat|sg|masc|pos	27	NK	27	NK
+26	haarigen	haarig	ADJA	ADJA	dat|sg|masc|pos	27	NK	27	NK
+27	Stängelein	Stängelein	NN	NN	dat|sg|masc	23	NK	23	NK
+28	,	,	$,	$,	27	PUNC	27	PUNC
+29	und	und	KON	KON	23	CD	23	CD
+30	seine	sein	PPOSAT	PPOSAT	nom|sg|fem	31	NK	31	NK
+31	Blümlein	Blümlein	NN	NN	nom|sg|fem	32	OA	32	OA
+32	gelb	gelb	ADJD	ADJD	pos	29	CJ	29	CJ
+33	,	,	$,	$,	32	PUNC	32	PUNC
+34	wohlriechend	wohlriechend	ADJD	ADJD	pos	32	CJ	32	CJ
+35	.	.	$.	$.	34	PUNC	34	PUNC
+
+1	Auch	auch	ADV	ADV	2	MO	2	MO
+2	zweierlei	zweierlei	CARD	CARD	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	eins	eins	CARD	CARD	2	CJ	2	CJ
+5	mit	mit	APPR	APPR	4	MO	4	MO
+6	großen	groß	ADJA	ADJA	dat|pl|neut|pos	7	NK	7	NK
+7	Blättern	Blatt	NN	NN	dat|pl|neut	5	NK	5	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	das	der	PRELS	PRELS	acc|sg|neut	10	NK	10	NK
+10	andere	anderer	PIS	PIS	nom|pl|*	7	CJ	7	CJ
+11	mit	mit	APPR	APPR	10	MNR	10	MNR
+12	kleinen	klein	ADJA	ADJA	dat|pl|neut|pos	11	NK	11	NK
+13	,	,	$,	$,	12	PUNC	12	PUNC
+
+1	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+2	aber	aber	ADV	ADV	6	MO	6	MO
+3	beide	beide	PIS	PIS	nom|pl|masc	1	SB	1	SB
+4	ein	ein	ART	ART	acc|sg|neut	5	NK	5	NK
+5	Blümlein	Blümlein	NN	NN	acc|sg|neut	6	OA	6	OA
+6	gelb	gelb	VVPP	VVPP	1	OC	1	OC
+7	.	.	$.	$.	6	PUNC	6	PUNC
+
+1	Es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+2	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	auch	auch	ADV	ADV	4	MO	4	MO
+4	etliche	etlicher	ADJA	ADJA	nom|pl|fem	2	PD	2	PD
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	2	CJ	2	CJ
+7	Dioscorides	Dioscoride	NN	NN	nom|sg|*	6	OA	6	OA
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	die	der	PRELS	PRELS	nom|sg|fem	13	SB	13	SB
+10	dieses	dieser	PDAT	PDAT	acc|sg|neut	11	NK	11	NK
+11	Kraut	Kraut	NN	NN	acc|sg|neut	13	MO	13	MO
+12	Helxinem	Helxin	NN	NN	acc|sg|neut	13	OA	13	OA
+13	nennen	nennen	VVFIN	VVFIN	pl|3|pres|ind	7	RC	7	RC
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	von	von	APPR	APPR	25	OP	25	OP
+16	welchem	welcher	PRELS	PRELS	dat|sg|masc	15	NK	15	NK
+17	wir	wir	PPER	PPER	nom|pl|*|1	25	SB	25	SB
+18	geschrieben	schreiben	VVPP	VVPP	25	MO	25	MO
+19	in	in	APPR	APPR	25	MO	25	MO
+20	dem	der	ART	ART	dat|sg|neut	21	NK	21	NK
+21	Kraut	Kraut	NN	NN	dat|sg|neut	19	NK	19	NK
+22	Parietaria	Parietaria	NE	NE	nom|sg|neut	21	NK	21	NK
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	Sankt-Peterskraut	Sankt-Peterskraut	NE	NE	nom|sg|neut	22	CJ	22	CJ
+25	genannt	nennen	VVPP	VVPP	7	RC	7	RC
+26	.	.	$.	$.	25	PUNC	25	PUNC
+
+1	Complexion	Complexion	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	der	der	ART	ART	gen|sg|fem	4	NK	4	NK
+3	kleinen	klein	ADJA	ADJA	gen|sg|fem|pos	4	NK	4	NK
+4	Mausöhrlein	Mausöhrlein	NN	NN	gen|sg|fem	1	AG	1	AG
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Mausöhrlein	Mausöhrlein	ADJD	ADJD	nom|sg|neut	4	PD	4	PD
+2	das	der	PDS	PDS	nom|sg|neut	4	SB	4	SB
+3	da	da	ADV	ADV	4	MO	4	MO
+4	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	genannt	nennen	PDAT	PDAT	6	NK	6	NK
+6	Alsine	Alsine	NN	NN	nom|sg|fem	4	SB	4	SB
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	kühlt	kühlen	VVFIN	VVFIN	sg|3|pres|ind	6	CJ	6	CJ
+9	und	und	KON	KON	8	CD	8	CD
+10	feuchtet	feuchten	VVFIN	VVFIN	sg|3|pres|ind	9	CJ	9	CJ
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	gleich	gleich	ADV	ADV	23	MO	23	MO
+13	wie	wie	KOKOM	KOKOM	17	CM	17	CM
+14	die	der	ART	ART	nom|pl|masc	17	NK	17	NK
+15	oben	oben	ADV	ADV	16	MO	16	MO
+16	genannte	genannt	ADJA	ADJA	nom|pl|masc|pos	17	NK	17	NK
+17	Helxine	Helxine	NN	NN	nom|pl|masc	12	CC	12	CC
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	doch	doch	KON	KON	12	CD	12	CD
+20	ohne	ohne	APPR	APPR	19	CJ	19	CJ
+21	Stopfung	Stopfung	NN	NN	acc|sg|fem	20	NK	20	NK
+22	,	,	$,	$,	21	PUNC	21	PUNC
+23	kühlt	kühlen	VVFIN	VVFIN	sg|3|pres|ind	10	CJ	10	CJ
+24	die	der	ART	ART	acc|pl|fem	26	NK	26	NK
+25	cholerischen	cholerisch	ADJA	ADJA	acc|pl|fem|pos	26	NK	26	NK
+26	Apostemen	Apostemen	NN	NN	acc|pl|fem	23	OA	23	OA
+27	.	.	$.	$.	26	PUNC	26	PUNC
+
+1	¶	¶	KON	KON	3	CD	3	CD
+2	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	3	NK	3	NK
+3	Kräfte	Kraft	NN	NN	nom|pl|fem	-1	ROOT	-1	ROOT
+4	und	und	KON	KON	3	CD	3	CD
+5	Arzneien	Arznei	NN	NN	nom|pl|fem	4	CJ	4	CJ
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Dioscorides	dioscorid	NE	NE	nom|sg|*	2	SB	2	SB
+2	hält	halten	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	daß	KOUS	KOUS	8	CP	8	CP
+5	Mausöhrlein	Mausöhrlein	NE	NE	nom|sg|fem	7	AG	7	AG
+6	gleiche	gleich	ADJA	ADJA	nom|sg|fem|pos	7	NK	7	NK
+7	Kraft	Kraft	NN	NN	nom|sg|fem	8	SB	8	SB
+8	habe	haben	VAFIN	VAFIN	sg|3|pres|subj	2	OC	2	OC
+9	mit	mit	APPR	APPR	15	MO	15	MO
+10	dem	der	ART	ART	dat|sg|neut	11	NK	11	NK
+11	Kraut	Kraut	NN	NN	dat|sg|masc	9	NK	9	NK
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	Herba	Herba	NE	NE	nom|sg|masc	14	PNC	14	PNC
+14	mercurialis	mercurialis	NE	NE	nom|sg|masc	11	NK	11	NK
+15	genannt	nennen	VVPP	VVPP	8	OC	8	OC
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	oder	oder	KON	KON	8	CD	8	CD
+18	Sankt-Peterskraut	Sankt-Peterskraut	NN	NN	nom|sg|neut	17	CJ	17	CJ
+19	.	.	$.	$.	18	PUNC	18	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Wasser	Wasser	NN	NN	nom|sg|neut	6	OA	6	OA
+3	von	von	APPR	APPR	2	PG	2	PG
+4	diesem	dieser	PDAT	PDAT	dat|sg|neut	5	NK	5	NK
+5	Kraut	Kraut	NN	NN	dat|sg|neut	3	NK	3	NK
+6	braucht	brauchen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+7	der	der	ART	ART	nom|sg|masc	9	NK	9	NK
+8	hocherfahrene	hocherfahren	ADJA	ADJA	nom|sg|masc|pos	9	NK	9	NK
+9	Hieronymus	Hieronymus	NN	NN	nom|sg|masc	6	SB	6	SB
+10	von	von	APPR	APPR	9	PG	9	PG
+11	Braunschweig	Braunschweig	NE	NE	dat|sg|neut	10	NK	10	NK
+12	für	für	APPR	APPR	6	MO	6	MO
+13	das	der	ART	ART	acc|sg|neut	14	NK	14	NK
+14	Abnehmen	Abnehmen	NN	NN	acc|sg|neut	12	NK	12	NK
+15	.	.	$.	$.	14	PUNC	14	PUNC
+16	für	für	APPR	APPR	6	MO	6	MO
+17	den	der	ART	ART	acc|sg|masc	18	NK	18	NK
+18	Hauptschwindel	Hauptschwindel	NN	NN	acc|sg|masc	16	NK	16	NK
+19	.	.	$.	$.	18	PUNC	18	PUNC
+20	denen	der	PRELS	PRELS	dat|pl|neut	23	SB	23	SB
+21	so	so	ADV	ADV	23	MO	23	MO
+22	Blut	Blut	NN	NN	nom|sg|neut	23	OA	23	OA
+23	speien	speien	VVFIN	VVFIN	sg|3|past|ind	18	RC	18	RC
+24	.	.	$.	$.	23	PUNC	23	PUNC
+25	für	für	APPR	APPR	35	MO	35	MO
+26	alle	aller	PIAT	PIAT	acc|pl|fem	27	NK	27	NK
+27	Flecken	Flecken	NN	NN	acc|pl|fem	25	NK	25	NK
+28	der	der	ART	ART	gen|pl|*	29	NK	29	NK
+29	Augen	Auge	NN	NN	gen|pl|*	27	AG	27	AG
+30	.	.	$.	$.	29	PUNC	29	PUNC
+31	für	für	APPR	APPR	27	MNR	27	MNR
+32	das	der	ART	ART	acc|sg|neut	33	NK	33	NK
+33	Krümmen	Krümmen	NN	NN	acc|sg|neut	31	NK	31	NK
+34	.	.	$.	$.	33	PUNC	33	PUNC
+35	feuchtet	feuchten	VVFIN	VVFIN	sg|3|pres|ind	23	CJ	23	CJ
+36	die	der	ART	ART	acc|pl|neut	37	NK	37	NK
+37	Gebärmutter	Gebärmutter	NN	NN	acc|pl|neut	35	OA	35	OA
+38	.	.	$.	$.	37	PUNC	37	PUNC
+39	für	für	APPR	APPR	59	MO	59	MO
+40	das	der	ART	ART	acc|sg|neut	41	NK	41	NK
+41	Aufsteigen	aufsteigen	NN	NN	acc|sg|neut	39	NK	39	NK
+42	der	der	ART	ART	gen|pl|masc	43	NK	43	NK
+43	Gebärmutter	Gebärmutter	NN	NN	gen|pl|masc	41	AG	41	AG
+44	.	.	$.	$.	43	PUNC	43	PUNC
+45	für	für	APPR	APPR	41	MNR	41	MNR
+46	die	der	ART	ART	acc|pl|masc	47	NK	47	NK
+47	Spulwürmer	Spulwürmer	NN	NN	acc|pl|masc	45	NK	45	NK
+48	.	.	$.	$.	47	PUNC	47	PUNC
+49	für	für	APPR	APPR	59	MO	59	MO
+50	Geschwulst	Geschwulst	NN	NN	acc|sg|neut	49	NK	49	NK
+51	.	.	$.	$.	50	PUNC	50	PUNC
+52	für	für	APPR	APPR	59	MO	59	MO
+53	unnatürliche	unnatürlich	ADJA	ADJA	acc|pl|masc|pos	54	NK	54	NK
+54	Hitze	Hitze	NN	NN	acc|pl|masc	52	NK	52	NK
+55	,	,	$,	$,	54	PUNC	54	PUNC
+56	ein	ein	ART	ART	acc|sg|neut	57	NK	57	NK
+57	Tüchlein	Tüchlein	NN	NN	nom|sg|masc	37	APP	37	APP
+58	darin	darin	ADV	ADV	59	MO	59	MO
+59	genetzt	netzen	VVPP	VVPP	57	PD	57	PD
+60	.	.	$.	$.	59	PUNC	59	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|neut	3	NK	3	NK
+2	gewisses	gewiß	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Experiment	Experiment	NN	NN	nom|sg|neut	-1	ROOT	-1	ROOT
+4	wider	wider	APPR	APPR	3	MNR	3	MNR
+5	den	der	ART	ART	acc|sg|masc	6	NK	6	NK
+6	Bruch	Bruch	NN	NN	acc|sg|masc	4	NK	4	NK
+7	.	.	$.	$.	6	PUNC	6	PUNC
+
+1	Grabwurzel	Grabwurzel	NN	NN	nom|sg|masc	5	SB	5	SB
+2	und	und	KON	KON	1	CD	1	CD
+3	-kraut	-krauen	NN	NN	nom|sg|masc	2	CJ	2	CJ
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	dörre	dörren	VVFIN	VVFIN	sg|3|pres|subj	-1	ROOT	-1	ROOT
+6	sie	sie	PPER	PPER	nom|sg|fem|3	5	OA	5	OA
+7	,	,	$,	$,	6	PUNC	6	PUNC
+
+1	dieses	dieser	PDAT	PDAT	nom|sg|neut	2	NK	2	NK
+2	Pulver	Pulver	NN	NN	nom|sg|neut	3	SB	3	SB
+3	gib	geben	VVFIN	VVFIN	sg|3|past|ind	-1	ROOT	-1	ROOT
+4	den	der	ART	ART	dat|pl|neut	5	NK	5	NK
+5	Kindern	Kind	NN	NN	dat|pl|neut	3	DA	3	DA
+6	so	so	ADV	ADV	7	MO	7	MO
+7	gebrochen	brechen	VVPP	VVPP	3	MO	3	MO
+8	in	in	APPR	APPR	3	MO	3	MO
+9	der	der	ART	ART	dat|sg|fem	10	NK	10	NK
+10	Bappe	Bappe	NE	NE	dat|sg|fem	8	NK	8	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	den	der	ART	ART	dat|pl|neut	13	NK	13	NK
+13	alten	alt	ADJA	ADJA	dat|pl|neut|pos	10	APP	10	APP
+14	in	in	APPR	APPR	13	MNR	13	MNR
+15	der	der	ART	ART	dat|sg|fem	16	NK	16	NK
+16	Speise	Speise	NN	NN	dat|sg|fem	14	NK	14	NK
+17	.	.	$.	$.	16	PUNC	16	PUNC
+
+1	Item	item	NN	NN	nom|sg|neut	-1	ROOT	-1	ROOT
+2	für	für	APPR	APPR	1	MNR	1	MNR
+3	die	der	ART	ART	acc|sg|fem	4	NK	4	NK
+4	Gelbsucht	Gelbsucht	NN	NN	acc|sg|fem	2	NK	2	NK
+5	,	,	$,	$,	4	PUNC	4	PUNC
+
+1	siede	sied	ADJA	ADJA	nom|sg|masc|pos	2	NK	2	NK
+2	Mausöhrlein	Mausöhrlein	NN	NN	nom|sg|masc	-1	ROOT	-1	ROOT
+3	mit	mit	APPR	APPR	2	MNR	2	MNR
+4	Erdbeerkraut	Erdbeerkraut	NN	NN	dat|sg|fem	3	NK	3	NK
+5	in	in	APPR	APPR	4	MNR	4	MNR
+6	Wein	Wein	NN	NN	acc|sg|masc	5	NK	5	NK
+7	,	,	$,	$,	6	PUNC	6	PUNC
+
+1	und	und	KON	KON	2	JU	2	JU
+2	trink	trink	VVFIN	VVFIN	pos	-1	ROOT	-1	ROOT
+3	solchen	solcher	PIAT	PIAT	acc|sg|masc	4	NK	4	NK
+4	Trank	Trank	NN	NN	acc|sg|masc	2	OA	2	OA
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Soll	sollen	VMFIN	VMFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	auch	auch	ADV	ADV	4	MO	4	MO
+3	das	der	ART	ART	acc|sg|neut	4	NK	4	NK
+4	Kraut	Kraut	NN	NN	acc|sg|neut	1	SB	1	SB
+5	einem	ein	ART	ART	dat|sg|masc	7	NK	7	NK
+6	vernagelten	vernagelt	ADJA	ADJA	dat|sg|masc|pos	7	NK	7	NK
+7	Gaul	Gaul	NE	NE	dat|sg|masc	4	AG	4	AG
+8	sehr	sehr	ADV	ADV	9	MO	9	MO
+9	dienstlich	dienstlich	ADJD	ADJD	pos	10	PD	10	PD
+10	sein	sein	VAINF	VAINF	1	OC	1	OC
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	unter	unter	APPR	APPR	15	MO	15	MO
+13	das	der	ART	ART	acc|sg|neut	14	NK	14	NK
+14	Hufeisen	Hufeisen	NN	NN	acc|sg|neut	12	NK	12	NK
+15	gelegt	legen	VVPP	VVPP	4	MNR	4	MNR
+16	.	.	$.	$.	15	PUNC	15	PUNC
+
+1	Bingelkraut	Bingelkraut	NN	NN	-1	ROOT	-1	ROOT
+2	.	.	$.	$.	1	PUNC	1	PUNC
+
+1	¶	¶	KON	KON	2	CD	2	CD
+2	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+3	dem	der	ART	ART	dat|sg|masc	4	NK	4	NK
+4	Namen	Name	NN	NN	dat|sg|masc	2	NK	2	NK
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Bingelkraut	Bingelkraut	VVPP	VVPP	2	OC	2	OC
+2	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	auf	auf	APPR	APPR	6	MO	6	MO
+4	Griechisch	griechische	NE	NE	gen|sg|*	5	AG	5	AG
+5	Parthenion	Parthenion	NN	NN	dat|sg|fem	3	NK	3	NK
+6	genannt	nennen	VVPP	VVPP	2	OC	2	OC
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	gleich	gleich	KOUS	KOUS	28	CP	28	CP
+9	wie	wie	KOKOM	KOKOM	13	CM	13	CM
+10	etliche	etlicher	PIAT	PIAT	nom|pl|fem	13	NK	13	NK
+11	oben	oben	ADV	ADV	12	MO	12	MO
+12	genannte	genannt	ADJA	ADJA	nom|pl|masc|pos	13	NK	13	NK
+13	Kräuter	Kräuter	NN	NN	nom|pl|masc	1	MO	1	MO
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	bei	bei	APPR	APPR	22	MO	22	MO
+16	den	der	ART	ART	dat|pl|masc	18	NK	18	NK
+17	lateinischen	lateinisch	ADJA	ADJA	dat|pl|masc|pos	18	NK	18	NK
+18	Mercurialis	Mercurialis	NE	NE	dat|pl|masc	15	NK	15	NK
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	Mercuriuskraut	Mercuriuskraut	NN	NN	dat|sg|neut	18	APP	18	APP
+21	.	.	$.	$.	20	PUNC	20	PUNC
+22	darum	darum	PROAV	PROAV	13	PAR	13	PAR
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	dass	daß	KOUS	KOUS	28	CP	28	CP
+25	der	der	ART	ART	nom|sg|masc	26	NK	26	NK
+26	Abgott	Abgott	NN	NN	nom|sg|masc	28	SB	28	SB
+27	Merkur	Merkur	NE	NE	nom|sg|masc	26	NK	26	NK
+28	soll	sollen	VMFIN	VMFIN	sg|3|pres|ind	2	SB	2	SB
+29	das	der	PDS	PDS	acc|sg|neut	31	OA	31	OA
+30	erstlich	erstlich	ADJD	ADJD	pos	31	MO	31	MO
+31	erfunden	erfinden	VVINF	VVINF	28	OC	28	OC
+32	,	,	$,	$,	31	PUNC	31	PUNC
+33	und	und	KON	KON	28	CD	28	CD
+34	den	der	ART	ART	dat|pl|masc	35	NK	35	NK
+35	Menschen	Mensch	NN	NN	dat|pl|masc	38	DA	38	DA
+36	sein	sein	PPOSAT	PPOSAT	acc|sg|neut	37	NK	37	NK
+37	Nutzbarkeit	Nutzbarkeit	NN	NN	acc|sg|neut	38	OA	38	OA
+38	angezeigt	anzeigen	VVFIN	VVFIN	33	CJ	33	CJ
+39	,	,	$,	$,	38	PUNC	38	PUNC
+40	auf	auf	APPR	APPR	37	MNR	37	MNR
+41	Deutsch	Deutsch	NN	NN	acc|sg|masc	40	NK	40	NK
+42	,	,	$,	$,	41	PUNC	41	PUNC
+43	Bingelkraut	Bingelkraut	NN	NN	acc|sg|masc	41	CJ	41	CJ
+44	,	,	$,	$,	43	PUNC	43	PUNC
+45	Scheißkraut	Scheißkraut	NN	NN	acc|sg|masc	43	CJ	43	CJ
+46	,	,	$,	$,	45	PUNC	45	PUNC
+47	Mistmilt	Mistmilt	NN	NN	acc|sg|fem	45	CJ	45	CJ
+48	,	,	$,	$,	47	PUNC	47	PUNC
+49	Hundsmilt	Hundsmilt	NN	NN	acc|sg|masc	47	CJ	47	CJ
+50	,	,	$,	$,	49	PUNC	49	PUNC
+51	Milt	Milt	NN	NN	acc|sg|fem	49	CJ	49	CJ
+52	,	,	$,	$,	51	PUNC	51	PUNC
+53	Scheißmilt	Scheißmilt	NN	NN	acc|sg|masc	51	CJ	51	CJ
+54	,	,	$,	$,	53	PUNC	53	PUNC
+55	Speckmalten	Speckmalten	NN	NN	acc|sg|masc	53	CJ	53	CJ
+56	,	,	$,	$,	55	PUNC	55	PUNC
+57	Schoßmelden	Schoßmelden	NN	NN	acc|sg|masc	55	CJ	55	CJ
+58	,	,	$,	$,	57	PUNC	57	PUNC
+59	Kühwurz	Kühwurz	NN	NN	acc|sg|masc	57	CJ	57	CJ
+60	,	,	$,	$,	59	PUNC	59	PUNC
+
+1	deren	der	PDS	PDS	gen|sg|fem	5	SB	5	SB
+2	so	so	ADV	ADV	21	MO	21	MO
+3	deren	der	PDS	PDS	gen|pl|*	4	AG	4	AG
+4	Namen	Name	NN	NN	acc|pl|masc	21	OA	21	OA
+5	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	kein	kein	PIAT	PIAT	nom|sg|neut	7	NK	7	NK
+7	Ende	Ende	NN	NN	nom|sg|neut	5	PD	5	PD
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	vielleicht	vielleicht	ADV	ADV	21	MO	21	MO
+10	dass	daß	KOUS	KOUS	21	CP	21	CP
+11	es	es	PPER	PPER	nom|sg|neut|3	21	PAR	21	PAR
+12	ein	ein	ART	ART	nom|sg|neut	13	NK	13	NK
+13	Geschlecht	Geschlecht	NN	NN	nom|sg|neut	21	SB	21	SB
+14	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	13	SP	13	SP
+15	des	der	ART	ART	gen|sg|neut	16	NK	16	NK
+16	Milts	Milt	NN	NN	gen|sg|neut	13	AG	13	AG
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	und	und	KON	KON	13	CD	13	CD
+19	den	der	ART	ART	acc|sg|masc	20	NK	20	NK
+20	Stuhlgang	Stuhlgang	NN	NN	acc|sg|masc	18	CJ	18	CJ
+21	reizt	reizen	VVFIN	VVFIN	sg|3|pres|ind	1	RC	1	RC
+22	.	.	$.	$.	21	PUNC	21	PUNC
+
+1	Marcus	Marcus	NE	NE	nom|sg|masc	2	PNC	2	PNC
+2	Cato	Cato	NE	NE	nom|sg|masc	3	SB	3	SB
+3	rühmt	rühmen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	das	der	ART	ART	acc|sg|neut	5	NK	5	NK
+5	Kraut	Kraut	NN	NN	acc|sg|neut	3	OA	3	OA
+6	und	und	KON	KON	3	CD	3	CD
+7	befiehlt	befehlen	VVFIN	VVFIN	sg|3|pres|ind	6	CJ	6	CJ
+8	es	es	PPER	PPER	acc|sg|neut|3	7	OA	7	OA
+9	den	der	ART	ART	dat|pl|masc	10	NK	10	NK
+10	Dorfmeiern	Dorfmeier	NN	NN	dat|pl|masc	7	DA	7	DA
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	dass	dass	KOUS	KOUS	17	CP	17	CP
+13	sie	sie	PPER	PPER	nom|sg|fem|3	17	SB	17	SB
+14	sich	sich	PRF	PRF	acc|pl|3	16	OA	16	OA
+15	damit	damit	PROAV	PROAV	16	MO	16	MO
+16	laxieren	laxieren	VVINF	VVINF	17	OC	17	OC
+17	sollen	sollen	VMFIN	VMFIN	pl|3|pres|ind	7	MO	7	MO
+18	,	,	$,	$,	17	PUNC	17	PUNC
+
+1	doch	doch	ADV	ADV	4	MO	4	MO
+2	ziemlich	ziemlich	ADV	ADV	4	MO	4	MO
+3	zu	zu	PTKZU	PTKZU	4	PM	4	PM
+4	brauchen	brauchen	VVINF	VVINF	-1	ROOT	-1	ROOT
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+2	seiner	sein	PPOSAT	PPOSAT	dat|sg|fem	3	NK	3	NK
+3	Statt	Statt	NN	NN	dat|sg|fem	1	NK	1	NK
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Sein	sein	PPOSAT	PPOSAT	nom|sg|neut	2	NK	2	NK
+2	Statt	statt	NN	NN	nom|sg|neut	3	SB	3	SB
+3	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	fast	fast	ADV	ADV	5	MO	5	MO
+5	in	in	APPR	APPR	3	MO	3	MO
+6	den	der	ART	ART	dat|pl|masc	8	NK	8	NK
+7	gebauten	gebaut	ADJA	ADJA	dat|pl|masc|pos	8	NK	8	NK
+8	Orten	Ort	NN	NN	dat|pl|masc	5	NK	5	NK
+9	und	und	KON	KON	5	CD	5	CD
+10	in	in	APPR	APPR	9	CJ	9	CJ
+11	den	der	ART	ART	dat|pl|neut	12	NK	12	NK
+12	Reben	Reben	NN	NN	dat|pl|neut	10	NK	10	NK
+13	.	.	$.	$.	12	PUNC	12	PUNC
+
+1	Geschlecht	Geschlecht	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	und	und	KON	KON	1	CD	1	CD
+3	Gestalt	Gestalt	NN	NN	nom|sg|fem	2	CJ	2	CJ
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Dioscorides	dioscorid	NE	NE	nom|sg|*	2	SB	2	SB
+2	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	dass	KOUS	KOUS	9	CP	9	CP
+5	dieses	dieser	PDAT	PDAT	nom|sg|neut	6	NK	6	NK
+6	Kraut	Kraut	NN	NN	nom|sg|neut	9	SB	9	SB
+7	zweierlei	zweierlei	PIAT	PIAT	*|*|*	8	NK	8	NK
+8	Geschlecht	Geschlecht	NN	NN	nom|sg|neut	9	PD	9	PD
+9	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	2	OC	2	OC
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	männlich	männlich	ADJD	ADJD	pos	9	PD	9	PD
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	11	CD	11	CD
+14	weiblich	weiblich	ADJD	ADJD	pos	13	CJ	13	CJ
+15	,	,	$,	$,	14	PUNC	14	PUNC
+
+1	wachsend	wachsend	ADJD	ADJD	pos	5	MO	5	MO
+2	beide	beide	PIS	PIS	nom|pl|masc	-1	ROOT	-1	ROOT
+3	eines	ein	ART	ART	gen|sg|neut	4	NK	4	NK
+4	Ellenbogens	Ellenbogen	NN	NN	gen|sg|neut	2	AG	2	AG
+5	hoch	hoch	ADJD	ADJD	pos	2	PAR	2	PAR
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	und	und	KON	KON	2	CD	2	CD
+8	zweigen	zweigen	VVFIN	VVFIN	pl|3|pres|ind	7	CJ	7	CJ
+9	sich	sich	PRF	PRF	acc|pl|3	8	OA	8	OA
+10	.	.	$.	$.	9	PUNC	9	PUNC
+
+1	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	2	NK	2	NK
+2	Blättlein	Blättlein	NN	NN	nom|pl|neut	3	SB	3	SB
+3	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	gleich	gleich	ADV	ADV	3	MO	3	MO
+5	der	der	ART	ART	gen|pl|fem	6	NK	6	NK
+6	Basilien	Basilie	NN	NN	gen|pl|fem	3	PD	3	PD
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	und	und	KON	KON	3	CD	3	CD
+9	ziehen	ziehen	VVFIN	VVFIN	pl|3|pres|ind	8	CJ	8	CJ
+10	sich	sich	PRF	PRF	acc|pl|3	9	OA	9	OA
+11	auf	auf	APPR	APPR	9	MO	9	MO
+12	die	der	ART	ART	acc|sg|fem	13	NK	13	NK
+13	Art	Art	NN	NN	acc|sg|fem	11	NK	11	NK
+14	wie	wie	KOKOM	KOKOM	15	CM	15	CM
+15	Sankt-Peterskraut	Sankt-Peterskraut	NN	NN	nom|sg|neut	9	MO	9	MO
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	9	CJ	9	CJ
+18	aber	aber	ADV	ADV	17	MO	17	MO
+19	doch	doch	ADV	ADV	17	MO	17	MO
+20	minder	minder	ADJD	ADJD	17	PD	17	PD
+21	und	und	KON	KON	20	CD	20	CD
+22	kleiner	klein	ADJD	ADJD	comp	21	CJ	21	CJ
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	welche	welcher	PWS	PWS	nom|pl|masc	31	OA	31	OA
+25	sich	sich	PRF	PRF	acc|pl|3	31	OA	31	OA
+26	von	von	APPR	APPR	31	SBP	31	SBP
+27	dem	der	ART	ART	dat|sg|neut	28	NK	28	NK
+28	Stängel	Stängel	NN	NN	dat|sg|neut	26	NK	26	NK
+29	oben	oben	ADV	ADV	31	MO	31	MO
+30	hinaus	hinaus	ADV	ADV	31	MO	31	MO
+31	zweigen	zweigen	VVINF	VVINF	20	OC	20	OC
+32	,	,	$,	$,	31	PUNC	31	PUNC
+33	je	je	ADV	ADV	34	MO	34	MO
+34	Paar	Paar	NN	NN	nom|sg|*	17	SB	17	SB
+35	und	und	KON	KON	34	CD	34	CD
+36	Paar	Paar	NN	NN	nom|sg|*	35	CJ	35	CJ
+37	.	.	$.	$.	36	PUNC	36	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Weiblein	Weiblein	NN	NN	nom|sg|neut	4	SB	4	SB
+3	davon	davon	PROAV	PROAV	2	PG	2	PG
+4	besamt	besamen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	sich	sich	PRF	PRF	acc|sg|3	4	OA	4	OA
+6	wie	wie	KOKOM	KOKOM	8	CM	8	CM
+7	der	der	ART	ART	nom|sg|masc	8	NK	8	NK
+8	Milt	Milt	NN	NN	nom|sg|masc	4	MO	4	MO
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	und	und	KON	KON	4	CD	4	CD
+11	Guter	Guter	NE	NE	nom|sg|masc	12	PNC	12	PNC
+12	Heinrich	Heinrich	NE	NE	nom|sg|masc	10	CJ	10	CJ
+13	.	.	$.	$.	12	PUNC	12	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Männlein	Männlein	NN	NN	nom|sg|neut	3	SB	3	SB
+3	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	seinen	sein	PPOSAT	PPOSAT	acc|sg|masc	5	NK	5	NK
+5	Samen	Samen	NN	NN	acc|sg|masc	14	OA	14	OA
+6	an	an	APPR	APPR	5	MNR	5	MNR
+7	den	der	ART	ART	dat|pl|neut	8	NK	8	NK
+8	Blättern	Blatt	NN	NN	dat|pl|neut	6	NK	6	NK
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	klein	klein	ADJD	ADJD	pos	14	MO	14	MO
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	rund	rund	ADJD	ADJD	pos	10	CJ	10	CJ
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	gepaart	paaren	VVPP	VVPP	3	OC	3	OC
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	und	und	KON	KON	3	CD	3	CD
+17	wie	wie	PWAV	PWAV	20	MO	20	MO
+18	zwei	zwei	CARD	CARD	19	NK	19	NK
+19	Hödlein	Hödlein	NN	NN	*|*|neut	20	AMS	20	AMS
+20	hängend	hängend	ADJD	ADJD	pos	16	CJ	16	CJ
+21	.	.	$.	$.	20	PUNC	20	PUNC
+
+1	Hieronymus	Hieronymus	ADV	ADV	2	MO	2	MO
+2	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	daß	KOUS	KOUS	9	CP	9	CP
+5	noch	noch	ADV	ADV	9	MO	9	MO
+6	auch	auch	ADV	ADV	9	MO	9	MO
+7	ein	ein	ART	ART	nom|sg|masc	8	NK	8	NK
+8	Kraut	Kraut	NN	NN	nom|sg|masc	9	PD	9	PD
+9	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	2	OC	2	OC
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	Guter	Guter	NN	NN	nom|sg|masc	9	SB	9	SB
+12	Heinrich	Heinrich	NE	NE	nom|sg|masc	11	NK	11	NK
+13	genannt	nennen	VVPP	VVPP	9	OC	9	OC
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	oder	oder	KON	KON	11	CD	11	CD
+16	Schmerbel	Schmerbel	NE	NE	dat|sg|neut	15	CJ	15	CJ
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	13	OC	13	OC
+19	auch	auch	ADV	ADV	21	MO	21	MO
+20	ein	ein	ART	ART	nom|sg|masc	21	NK	21	NK
+21	Mercurialis	Mercurialis	NE	NE	nom|sg|masc	18	SB	18	SB
+22	.	.	$.	$.	21	PUNC	21	PUNC
+
+1	Die	der	ART	ART	nom|pl|*	2	NK	2	NK
+2	anderen	anderer	PIS	PIS	nom|pl|*	4	SB	4	SB
+3	aber	aber	ADV	ADV	4	MO	4	MO
+4	machen	machen	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+5	daraus	daraus	PROAV	PROAV	4	MO	4	MO
+6	ein	ein	ART	ART	acc|sg|neut	7	NK	7	NK
+7	Natterwurz	Natterwurz	NN	NN	acc|sg|neut	4	OA	4	OA
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	wie	wie	PWAV	PWAV	11	MO	11	MO
+10	oben	oben	ADV	ADV	11	MO	11	MO
+11	gesagt	sagen	VVPP	VVPP	4	MO	4	MO
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	Complexion	Complexion	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	.	.	$.	$.	1	PUNC	1	PUNC
+
+1	Averroes	Averro	NE	NE	nom|sg|*	2	SB	2	SB
+2	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	dass	dass	PROAV	PROAV	2	MO	2	MO
+4	Mercurialis	Mercurialis	NE	NE	gen|sg|*	5	SB	5	SB
+5	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	2	OC	2	OC
+6	warm	warm	ADJD	ADJD	pos	5	PD	5	PD
+7	und	und	KON	KON	6	CD	6	CD
+8	trocken	trocken	ADJD	ADJD	pos	7	CJ	7	CJ
+9	am	an	APPRART	APPRART	dat|sg|masc	8	MO	8	MO
+10	ersten	erster	ADJA	ADJA	dat|sg|masc|pos	11	NK	11	NK
+11	Grade	Grade	NN	NN	dat|sg|masc	9	NK	9	NK
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	5	CD	5	CD
+14	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	13	CJ	13	CJ
+15	zusammengesetzt	zusammensetzen	VVPP	VVPP	14	OC	14	OC
+16	aus	aus	APPR	APPR	15	MO	15	MO
+17	widerwärtiger	widerwärtig	ADJA	ADJA	dat|sg|fem|pos	18	NK	18	NK
+18	Substanz	Substanz	NN	NN	dat|sg|fem	16	NK	16	NK
+19	.	.	$.	$.	18	PUNC	18	PUNC
+20	das	der	PDS	PDS	nom|sg|neut	21	SB	21	SB
+21	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	14	CJ	14	CJ
+22	,	,	$,	$,	21	PUNC	21	PUNC
+23	aus	aus	APPR	APPR	21	MO	21	MO
+24	einer	ein	ART	ART	dat|sg|fem	25	NK	25	NK
+25	stopfenden	stopfend	ADJA	ADJA	dat|sg|fem|pos	23	NK	23	NK
+26	,	,	$,	$,	25	PUNC	25	PUNC
+27	scharfen	scherfen	ADJA	ADJA	dat|sg|fem|pos	25	CJ	25	CJ
+28	,	,	$,	$,	27	PUNC	27	PUNC
+29	und	und	KON	KON	27	CD	27	CD
+30	wässrigen	wässrig	VVFIN	VVFIN	pl|1|pres|ind	29	CJ	29	CJ
+31	.	.	$.	$.	30	PUNC	30	PUNC
+
+1	Und	und	KON	KON	8	JU	8	JU
+2	wenn	wenn	KOUS	KOUS	5	CP	5	CP
+3	solche	solcher	PIS	PIS	nom|sg|fem	5	SB	5	SB
+4	frisch	frisch	ADJD	ADJD	pos	5	PD	5	PD
+5	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	7	RE	7	RE
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	so	so	ADV	ADV	8	MO	8	MO
+8	laxiert	laxieren	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+9	sie	sie	PPER	PPER	nom|sg|fem|3	8	SB	8	SB
+10	sanft	sanft	ADJD	ADJD	pos	8	MO	8	MO
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	als	als	KOUS	KOUS	15	CP	15	CP
+13	viel	viel	PIS	PIS	*|*|*	15	SB	15	SB
+14	als	als	KOKOM	KOKOM	15	CM	15	CM
+15	in	in	APPR	APPR	8	MO	8	MO
+16	dem	der	ART	ART	dat|sg|neut	18	NK	18	NK
+17	ersten	erster	ADJA	ADJA	dat|sg|neut|pos	18	NK	18	NK
+18	Grade	Grade	NN	NN	dat|sg|neut	15	NK	15	NK
+19	.	.	$.	$.	18	PUNC	18	PUNC
+
+1	Mag	mögen	VMFIN	VMFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	gereicht	reichen	VVPP	VVPP	5	OC	5	OC
+3	und	und	KON	KON	2	CD	2	CD
+4	gegeben	geben	VVPP	VVPP	3	CJ	3	CJ
+5	werden	werden	VAINF	VAINF	pl|3|pres|ind	1	OC	1	OC
+6	im	in	APPRART	APPRART	dat|sg|masc	17	MO	17	MO
+7	Anfang	Anfang	NN	NN	dat|sg|masc	6	NK	6	NK
+8	der	der	ART	ART	gen|pl|masc	9	NK	9	NK
+9	Fieber	Fieber	NN	NN	gen|pl|masc	7	AG	7	AG
+10	an	an	APPR	APPR	7	MNR	7	MNR
+11	alle	aller	PIAT	PIAT	dat|sg|fem	12	NK	12	NK
+12	Dauung	Dauung	NN	NN	acc|sg|fem	10	NK	10	NK
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	gleich	gleich	ADV	ADV	17	MO	17	MO
+15	der	der	ART	ART	nom|sg|masc	17	NK	17	NK
+16	Cassia	Cassia	NE	NE	*|*|*	17	PNC	17	PNC
+17	fistula	Fistula	NE	NE	dat|sg|fem	1	PAR	1	PAR
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	und	und	KON	KON	1	CD	1	CD
+20	Tamarinde	Tamarinde	NN	NN	acc|pl|masc	19	CJ	19	CJ
+21	.	.	$.	$.	20	PUNC	20	PUNC
+
+1	Und	und	KON	KON	10	JU	10	JU
+2	wenn	wenn	KOUS	KOUS	7	CP	7	CP
+3	man	man	PIS	PIS	nom|sg|*	7	SB	7	SB
+4	ein	ein	ART	ART	acc|sg|neut	5	NK	5	NK
+5	Pflaster	Pflaster	NN	NN	acc|sg|neut	7	OA	7	OA
+6	daraus	daraus	PROAV	PROAV	7	MO	7	MO
+7	macht	machen	VVFIN	VVFIN	sg|3|pres|ind	9	RE	9	RE
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	so	so	ADV	ADV	10	MO	10	MO
+10	resolviert	resolvieren	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+11	sie	sie	PPER	PPER	nom|sg|fem|3	10	SB	10	SB
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	¶	¶	KON	KON	3	CD	3	CD
+2	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	3	NK	3	NK
+3	Kraft	Kraft	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+4	und	und	KON	KON	3	CD	3	CD
+5	Arzneien	Arznei	NN	NN	acc|pl|fem	4	CJ	4	CJ
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Beide	beide	PIAT	PIAT	nom|pl|neut	2	NK	2	NK
+2	Mercuriales	Mercurial	NN	NN	acc|sg|neut	8	OA	8	OA
+3	mag	mögen	VMFIN	VMFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	man	man	PIS	PIS	nom|sg|*	3	SB	3	SB
+5	in	in	APPR	APPR	8	MO	8	MO
+6	der	der	ART	ART	dat|sg|fem	7	NK	7	NK
+7	Speise	Speise	NN	NN	dat|sg|fem	5	NK	5	NK
+8	brauchen	brauchen	VVINF	VVINF	pl|3|pres|ind	3	OC	3	OC
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	den	der	ART	ART	acc|sg|masc	11	NK	11	NK
+11	Bauch	Bauch	NN	NN	acc|sg|masc	13	OA	13	OA
+12	damit	damit	PROAV	PROAV	13	MO	13	MO
+13	aufzutun	aufzutun	VVIZU	VVIZU	2	OC	2	OC
+14	.	.	$.	$.	13	PUNC	13	PUNC
+
+1	Kocht	Kocht	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	in	in	APPR	APPR	1	MNR	1	MNR
+3	Wasser	Wasser	NE	NE	dat|sg|neut	2	NK	2	NK
+4	,	,	$,	$,	3	PUNC	3	PUNC
+
+1	zieht	ziehen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	Cholera	Cholera	NN	NN	nom|sg|fem	1	SB	1	SB
+3	und	und	KON	KON	2	CD	2	CD
+4	Phlegma	Phlegma	NN	NN	dat|sg|neut	3	CJ	3	CJ
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Hippokrates	hippokrat	PIS	PIS	nom|sg|neut	6	SB	6	SB
+2	der	der	ART	ART	nom|sg|masc	4	NK	4	NK
+3	vornehmste	vornehm	ADJA	ADJA	nom|sg|masc|sup	4	NK	4	NK
+4	Medicus	Medicus	NN	NN	nom|sg|masc	1	AG	1	AG
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+7	etwa	etwa	ADV	ADV	12	MO	12	MO
+8	viel	viel	PIS	PIS	*|*|*	12	OA	12	OA
+9	von	von	APPR	APPR	12	OP	12	OP
+10	diesem	dieser	PDAT	PDAT	dat|sg|masc	11	NK	11	NK
+11	Kraut	Kraut	NN	NN	dat|sg|neut	9	NK	9	NK
+12	gehalten	halten	VVPP	VVPP	6	OC	6	OC
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	und	und	KON	KON	6	CD	6	CD
+15	es	es	PPER	PPER	nom|sg|neut|3	19	EP	19	EP
+16	gebraucht	brauchen	VVPP	VVPP	19	MO	19	MO
+17	wie	wie	KOKOM	KOKOM	18	CM	18	CM
+18	hiernach	hiernach	PROAV	PROAV	19	MO	19	MO
+19	folgt	folgen	VVFIN	VVFIN	sg|3|pres|ind	14	CJ	14	CJ
+20	.	.	$.	$.	19	PUNC	19	PUNC
+
+1	Man	man	PIS	PIS	nom|sg|*	2	SB	2	SB
+2	findet	finden	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	daß	KOUS	KOUS	7	CP	7	CP
+5	er	er	PPER	PPER	nom|sg|masc|3	7	SB	7	SB
+6	solches	solcher	PIS	PIS	acc|sg|neut	5	NK	5	NK
+7	vermischt	vermischen	VVFIN	VVFIN	sg|3|pres|ind	2	OC	2	OC
+8	mit	mit	APPR	APPR	7	MO	7	MO
+9	Rosenöl	Rosenöl	NN	NN	dat|sg|fem	8	NK	8	NK
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	oder	oder	KON	KON	9	CD	9	CD
+12	Gilgenöl	Gilgenöl	NE	NE	dat|sg|neut	11	CJ	11	CJ
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	gebraucht	brauchen	VVPP	VVPP	15	OC	15	OC
+15	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	7	CJ	7	CJ
+16	zu	zu	APPR	APPR	14	MO	14	MO
+17	der	der	ART	ART	dat|sg|fem	18	NK	18	NK
+18	Gebärmutter	Gebärmutter	NN	NN	dat|sg|fem	16	NK	16	NK
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	den	der	ART	ART	dat|pl|fem	21	NK	21	NK
+21	Frauen	Frau	NN	NN	dat|pl|fem	30	DA	30	DA
+22	ihre	ihr	PPOSAT	PPOSAT	acc|sg|fem	23	NK	23	NK
+23	Zeit	Zeit	NN	NN	acc|sg|fem	30	OA	30	OA
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	und	und	KON	KON	23	CD	23	CD
+26	die	der	ART	ART	acc|sg|fem	27	NK	27	NK
+27	Geburt	Geburt	NN	NN	acc|sg|fem	25	CJ	25	CJ
+28	damit	damit	PROAV	PROAV	27	MNR	27	MNR
+29	zu	zu	PTKZU	PTKZU	30	PM	30	PM
+30	treiben	treiben	VVINF	VVINF	18	OC	18	OC
+31	,	,	$,	$,	30	PUNC	30	PUNC
+32	vor	vor	APPR	APPR	35	MO	35	MO
+33	die	der	ART	ART	acc|sg|fem	34	NK	34	NK
+34	Scham	Scham	NN	NN	acc|sg|fem	32	NK	32	NK
+35	gelegt	legen	VVPP	VVPP	28	RE	28	RE
+36	.	.	$.	$.	35	PUNC	35	PUNC
+
+1	Er	er	PPER	PPER	nom|sg|masc|3	2	SB	2	SB
+2	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	auch	auch	ADV	ADV	5	MO	5	MO
+4	solches	solcher	PIAT	PIAT	acc|sg|neut	5	NK	5	NK
+5	Kraut	Kraut	NN	NN	acc|sg|neut	7	OA	7	OA
+6	zu	zu	PTKZU	PTKZU	7	PM	7	PM
+7	trinken	trinken	VVINF	VVINF	8	OC	8	OC
+8	gegeben	geben	VVPP	VVPP	2	OC	2	OC
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	und	und	KON	KON	2	CD	2	CD
+11	Fomenta	Fomenta	NE	NE	nom|sg|*	10	CJ	10	CJ
+12	daraus	daraus	PROAV	PROAV	13	MO	13	MO
+13	gemacht	machen	VVPP	VVPP	11	--	11	--
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	zu	zu	APPR	APPR	13	MO	13	MO
+16	den	der	ART	ART	dat|pl|masc	18	NK	18	NK
+17	genannten	genannt	ADJA	ADJA	dat|pl|masc|pos	18	NK	18	NK
+18	Bresten	Bresten	NN	NN	dat|pl|masc	15	NK	15	NK
+19	.	.	$.	$.	18	PUNC	18	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Saft	Saft	NN	NN	nom|sg|neut	4	OA	4	OA
+3	davon	davon	PROAV	PROAV	2	PG	2	PG
+4	pflegt	pflegen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	er	er	PPER	PPER	nom|sg|masc|3	4	SB	4	SB
+6	in	in	APPR	APPR	11	MO	11	MO
+7	die	der	ART	ART	acc|pl|fem	9	NK	9	NK
+8	tauben	tauben	ADJA	ADJA	acc|pl|neut|pos	9	NK	9	NK
+9	Ohren	Ohr	NN	NN	acc|pl|neut	6	NK	6	NK
+10	zu	zu	PTKZU	PTKZU	11	PM	11	PM
+11	tun	tun	VVINF	VVINF	4	OC	4	OC
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	4	CD	4	CD
+14	das	der	ART	ART	nom|sg|neut	15	NK	15	NK
+15	Gehör	Gehör	NN	NN	nom|sg|neut	17	OA	17	OA
+16	damit	damit	PROAV	PROAV	17	MO	17	MO
+17	wiederbringen	wiederbringen	VVFIN	VVFIN	13	CJ	13	CJ
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	mit	mit	APPR	APPR	22	MO	22	MO
+20	vornehmem	vornehm	ADJA	ADJA	dat|sg|masc|pos	21	NK	21	NK
+21	Wein	Wein	NN	NN	dat|sg|masc	19	NK	19	NK
+22	überstrichen	überstrichen	VVINF	VVINF	16	RE	16	RE
+23	.	.	$.	$.	22	PUNC	22	PUNC
+
+1	Seine	sein	PPOSAT	PPOSAT	acc|pl|neut	2	NK	2	NK
+2	Blätter	Blatt	NN	NN	nom|sg|masc	3	OA	3	OA
+3	legt	legen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	er	er	PPER	PPER	nom|sg|masc|3	3	SB	3	SB
+5	auf	auf	APPR	APPR	3	MO	3	MO
+6	den	der	ART	ART	acc|sg|masc	7	NK	7	NK
+7	Bauch	Bauch	NN	NN	acc|sg|masc	5	NK	5	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	und	und	KON	KON	5	CD	5	CD
+10	über	über	APPR	APPR	9	CJ	9	CJ
+11	die	der	ART	ART	acc|pl|fem	13	NK	13	NK
+12	triefenden	triefend	ADJA	ADJA	acc|pl|fem|pos	13	NK	13	NK
+13	Augen	Auge	NN	NN	nom|pl|neut	10	NK	10	NK
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	für	für	APPR	APPR	10	CJ	10	CJ
+16	die	der	ART	ART	acc|sg|fem	17	NK	17	NK
+17	Harnwinde	Harnwinde	NN	NN	acc|sg|fem	15	NK	15	NK
+18	und	und	KON	KON	15	CD	15	CD
+19	zu	zu	APPR	APPR	18	CJ	18	CJ
+20	dem	der	ART	ART	dat|sg|masc	21	NK	21	NK
+21	Bresten	Bresten	NN	NN	dat|sg|masc	19	NK	19	NK
+22	der	der	ART	ART	gen|sg|fem	23	NK	23	NK
+23	Blase	Blase	NN	NN	gen|sg|fem	21	AG	21	AG
+24	.	.	$.	$.	23	PUNC	23	PUNC
+
+1	Willst	willst	VMFIN	VMFIN	sg|2|pres|ind	8	RE	8	RE
+2	du	du	PPER	PPER	nom|sg|*|2	1	SB	1	SB
+3	eine	ein	ART	ART	acc|sg|fem	5	NK	5	NK
+4	gute	gut	ADJA	ADJA	acc|sg|fem|pos	5	NK	5	NK
+5	Solutiva	Solutiva	NN	NN	acc|sg|fem	6	OA	6	OA
+6	machen	machen	VVINF	VVINF	1	OC	1	OC
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	so	so	ADV	ADV	9	MO	9	MO
+9	nimm	nimm	APPRART	APPRART	dat|sg|masc	13	MO	13	MO
+10	Bingelkraut	Bingelkraut	NN	NN	dat|sg|neut	9	NK	9	NK
+11	eine	ein	ART	ART	acc|sg|fem	12	NK	12	NK
+12	Hand	Hand	NN	NN	acc|sg|fem	13	OA	13	OA
+13	voll	voll	ADJD	ADJD	pos	-1	ROOT	-1	ROOT
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	siede	sieden	KOUS	KOUS	sg|3|pres|subj	13	CJ	13	CJ
+16	das	der	PDS	PDS	nom|sg|neut	15	OA	15	OA
+17	in	in	APPR	APPR	16	MNR	16	MNR
+18	einer	ein	ART	ART	dat|sg|fem	19	NK	19	NK
+19	Hühnerbrühe	Hühnerbrühe	NN	NN	dat|sg|fem	17	NK	17	NK
+20	,	,	$,	$,	19	PUNC	19	PUNC
+
+1	trink	trink	ADJD	ADJD	pos	2	MO	2	MO
+2	dieselbige	dieselbigen	PDS	PDS	nom|pl|*	-1	ROOT	-1	ROOT
+3	.	.	$.	$.	2	PUNC	2	PUNC
+
+1	Etliche	etlicher	PIS	PIS	nom|pl|*	2	SB	2	SB
+2	tun	tun	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	Pappeln	Pappel	NN	NN	acc|pl|fem	2	OA	2	OA
+4	dazu	dazu	PROAV	PROAV	2	MO	2	MO
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	und	und	KON	KON	2	CD	2	CD
+7	Zucker	Zucker	NE	NE	nom|sg|masc	6	CJ	6	CJ
+8	.	.	$.	$.	7	PUNC	7	PUNC
+
+1	Die	der	ART	ART	nom|pl|*	2	NK	2	NK
+2	anderen	anderer	PIS	PIS	nom|pl|*	3	SB	3	SB
+3	sieden	sieden	VVFIN	VVFIN	pl|3|past|ind	-1	ROOT	-1	ROOT
+4	solches	solcher	PIAT	PIAT	acc|sg|neut	5	NK	5	NK
+5	Kraut	Kraut	NN	NN	acc|sg|neut	3	OA	3	OA
+6	in	in	APPR	APPR	5	MNR	5	MNR
+7	Kapaun	Kapaun	NE	NE	dat|sg|neut	6	NK	6	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	oder	oder	KON	KON	5	CD	5	CD
+10	eines	ein	ART	ART	gen|sg|masc	12	NK	12	NK
+11	alten	alt	ADJA	ADJA	gen|sg|masc|pos	12	NK	12	NK
+12	Hahnes	Hahn	NN	NN	gen|sg|masc	9	CJ	9	CJ
+13	Brühe	Brühe	NE	NE	nom|sg|fem	12	NK	12	NK
+14	,	,	$,	$,	13	PUNC	13	PUNC
+
+1	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	und	und	KON	KON	1	CD	1	CD
+3	mit	mit	APPR	APPR	6	MO	6	MO
+4	einem	ein	ART	ART	dat|sg|masc	5	NK	5	NK
+5	Zucker	Zucker	NN	NN	dat|sg|masc	3	NK	3	NK
+6	abbereitet	abbereiten	VVFIN	VVFIN	sg|3|pres|ind	2	CJ	2	CJ
+7	das	der	ART	ART	nom|sg|neut	8	NK	8	NK
+8	allerbeste	allerbeste	ADJA	ADJA	nom|sg|neut|sup	6	SB	6	SB
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Hieronymus	Hieronymus	ADV	ADV	2	MO	2	MO
+2	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	dass	KOUS	KOUS	11	CP	11	CP
+5	Bingelkrautwasser	Bingelkrautwasser	NN	NN	nom|pl|neut	11	SB	11	SB
+6	in	in	APPR	APPR	9	MO	9	MO
+7	die	der	ART	ART	acc|pl|fem	8	NK	8	NK
+8	Nasen	Nase	NN	NN	acc|pl|fem	6	NK	6	NK
+9	gezogen	ziehen	VVPP	VVPP	11	MO	11	MO
+10	etwa	etwa	ADV	ADV	11	MO	11	MO
+11	oft	oft	VVFIN	VVFIN	2	MO	2	MO
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	2	CJ	2	CJ
+14	gut	gut	ADV	ADV	pos	19	MO	19	MO
+15	dann	dann	ADV	ADV	19	MO	19	MO
+16	Haupt	Haupt	NN	NN	nom|sg|neut	13	SB	13	SB
+17	damit	damit	PROAV	PROAV	19	MO	19	MO
+18	zu	zu	PTKZU	PTKZU	19	PM	19	PM
+19	purgieren	purgieren	VVINF	VVINF	13	OC	13	OC
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	und	und	KON	KON	13	CD	13	CD
+22	hinterschlägt	hinterschlagen	VVFIN	VVFIN	sg|3|pres|ind	21	CJ	21	CJ
+23	die	der	ART	ART	acc|sg|fem	25	NK	25	NK
+24	absteigende	absteigend	ADJA	ADJA	nom|sg|fem|pos	25	NK	25	NK
+25	Flüsse	Fluß	NN	NN	nom|sg|fem	22	OA	22	OA
+26	,	,	$,	$,	25	PUNC	25	PUNC
+27	die	der	PRELS	PRELS	nom|sg|fem	29	SB	29	SB
+28	da	da	ADV	ADV	29	MO	29	MO
+29	fallen	fallen	VVFIN	VVFIN	pl|3|pres|ind	25	RC	25	RC
+30	in	in	APPR	APPR	29	MO	29	MO
+31	die	der	ART	ART	acc|pl|neut	32	NK	32	NK
+32	Augen	Auge	NN	NN	acc|pl|neut	30	NK	30	NK
+33	,	,	$,	$,	32	PUNC	32	PUNC
+34	Nase	Nase	NN	NN	acc|sg|fem	32	CJ	32	CJ
+35	,	,	$,	$,	34	PUNC	34	PUNC
+36	und	und	KON	KON	34	CD	34	CD
+37	Ohren	Ohr	NN	NN	acc|pl|neut	36	CJ	36	CJ
+38	.	.	$.	$.	37	PUNC	37	PUNC
+
+1	Über	über	APPR	APPR	9	MO	9	MO
+2	den	der	ART	ART	acc|sg|masc	3	NK	3	NK
+3	Brand	Brand	NN	NN	acc|sg|masc	1	NK	1	NK
+4	geschlagen	schlagen	ADJD	ADJD	9	MO	9	MO
+5	mit	mit	APPR	APPR	9	MO	9	MO
+6	einem	ein	ART	ART	dat|sg|masc	7	NK	7	NK
+7	Tüchlein	Tüchlein	NN	NN	dat|sg|masc	5	NK	5	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	heilt	heilen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+10	und	und	KON	KON	9	CD	9	CD
+11	löscht	löschen	VVFIN	VVFIN	sg|3|pres|ind	10	CJ	10	CJ
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	Mit	mit	APPR	APPR	3	MO	3	MO
+2	Wein	Wein	NN	NN	dat|sg|masc	1	NK	1	NK
+3	vermischt	vermischen	VVFIN	VVFIN	sg|3|pres|ind	5	SB	5	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	heilt	heilen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	offene	offen	ADJA	ADJA	acc|pl|masc|pos	7	NK	7	NK
+7	Schäden	Schaden	NN	NN	acc|pl|masc	5	OA	5	OA
+8	.	.	$.	$.	7	PUNC	7	PUNC
+
+1	Sankt-Jakobsblume	Sankt-Jakobsblume	NN	NN	nom|pl|masc	-1	ROOT	-1	ROOT
+2	.	.	$.	$.	1	PUNC	1	PUNC
+
+1	Ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	zum	zu	APPRART	APPRART	dat|sg|neut	1	MO	1	MO
+3	aufenthalten	aufenthalten	ADJA	ADJA	dat|sg|masc|pos	2	NK	2	NK
+4	der	der	ART	ART	nom|sg|masc	5	NK	5	NK
+5	Fistel	Fistel	NN	NN	nom|sg|masc	1	SB	1	SB
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	dass	dass	KOUS	KOUS	13	CP	13	CP
+8	sie	sie	PPER	PPER	nom|pl|masc|3	13	SB	13	SB
+9	nicht	nicht	PTKNEG	PTKNEG	13	NG	13	NG
+10	weiter	weiter	ADV	ADV	13	MO	13	MO
+11	um	um	APPR	APPR	13	OP	13	OP
+12	sich	sich	PRF	PRF	dat|pl|3	11	NK	11	NK
+13	esse	esse	VVFIN	VVFIN	sg|1|pres|ind	1	MO	1	MO
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	ein	ein	ART	ART	nom|sg|neut	17	NK	17	NK
+16	bewährtes	bewährt	ADJA	ADJA	nom|sg|neut|pos	17	NK	17	NK
+17	Stück	Stück	NN	NN	nom|sg|neut	1	PD	1	PD
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	die	der	ART	ART	acc|pl|masc	20	NK	20	NK
+20	Blätter	Blatt	NN	NN	acc|pl|masc	22	OA	22	OA
+21	dürr	dürr	ADJD	ADJD	pos	22	MO	22	MO
+22	gepulvert	pulvern	VVPP	VVPP	17	PAR	17	PAR
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	und	und	KON	KON	22	CD	22	CD
+25	darin	darin	PROAV	PROAV	26	MO	26	MO
+26	gesprengt	sprengen	VVPP	VVPP	24	CJ	24	CJ
+27	.	.	$.	$.	26	PUNC	26	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|neut	3	NK	3	NK
+2	sonderliches	sonderlich	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Wundkraut	Wundkraut	NN	NN	nom|sg|neut	-1	ROOT	-1	ROOT
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	auch	auch	ADV	ADV	8	MO	8	MO
+6	innerlich	innerlich	ADJD	ADJD	pos	8	MO	8	MO
+7	zu	zu	PTKZU	PTKZU	8	PM	8	PM
+8	gebrauchen	gebrauchen	VVINF	VVINF	3	MNR	3	MNR
+9	¶	¶	$.	$.	8	PUNC	8	PUNC
+
+1	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+2	der	der	ART	ART	dat|sg|fem	3	NK	3	NK
+3	Meisterwurz	Meisterwurz	NN	NN	dat|sg|fem	1	NK	1	NK
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	Angelica	Angelica	NE	NE	dat|sg|neut	3	CJ	3	CJ
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	und	und	KON	KON	1	CD	1	CD
+8	der	der	ART	ART	nom|sg|masc	9	NK	9	NK
+9	Heiligengeistwurz	Heiligengeistwurz	NN	NN	nom|sg|masc	7	CJ	7	CJ
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	oder	oder	KON	KON	9	CD	9	CD
+12	Brustwurz	Brustwurz	NN	NN	nom|sg|masc	11	CJ	11	CJ
+13	genannt	nennen	VVPP	VVPP	12	OC	12	OC
+14	.	.	$.	$.	13	PUNC	13	PUNC
+
+1	¶	¶	KON	KON	2	CD	2	CD
+2	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+3	dem	der	ART	ART	dat|sg|masc	4	NK	4	NK
+4	Namen	Name	NN	NN	dat|sg|masc	2	NK	2	NK
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Mit	mit	APPR	APPR	5	MO	5	MO
+2	diesen	dieser	PDAT	PDAT	acc|sg|masc	4	NK	4	NK
+3	zweien	zwei	ADJA	ADJA	acc|sg|masc|pos	4	NK	4	NK
+4	Wurzeln	Wurzel	NN	NN	dat|pl|fem	1	NK	1	NK
+5	bin	sein	VAFIN	VAFIN	sg|1|pres|ind	-1	ROOT	-1	ROOT
+6	ich	ich	PPER	PPER	nom|sg|*|1	5	SB	5	SB
+7	wohl	wohl	ADV	ADV	5	MO	5	MO
+8	drei	drei	CARD	CARD	11	NK	11	NK
+9	oder	oder	KON	KON	8	CD	8	CD
+10	vier	vier	CARD	CARD	9	CJ	9	CJ
+11	Jahr	Jahr	NN	NN	*|sg|neut	12	MO	12	MO
+12	umgangen	umgangen	VVPP	VVPP	5	PD	5	PD
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	mich	mich	PPER	PPER	acc|sg|*|1	16	OA	16	OA
+15	heftig	heftig	ADJD	ADJD	pos	16	MO	16	MO
+16	beworben	werben	VVPP	VVPP	12	CJ	12	CJ
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	und	und	KON	KON	16	CD	16	CD
+19	erfragt	erfragen	VVPP	VVPP	27	OC	27	OC
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	auf	auf	APPR	APPR	28	MO	28	MO
+22	welches	welcher	PWAT	PWAT	acc|sg|neut	23	NK	23	NK
+23	Kapitel	Kapitel	NN	NN	acc|sg|neut	21	NK	21	NK
+24	Dioscorides	Dioscoride	NN	NN	gen|sg|*	23	NK	23	NK
+25	solche	solcher	PIS	PIS	sg|1|pres|ind	27	SB	27	SB
+26	doch	doch	ADV	ADV	28	MO	28	MO
+27	möchten	möchten	VMFIN	VMFIN	pl|3|pres|ind	18	CJ	18	CJ
+28	gedeutet	deuten	VVPP	VVPP	29	OC	29	OC
+29	worden	werden	VAPP	VAPP	19	OC	19	OC
+30	,	,	$,	$,	29	PUNC	29	PUNC
+
+1	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+2	aber	aber	ADV	ADV	1	MO	1	MO
+3	gar	gar	ADV	ADV	4	MO	4	MO
+4	unbekannt	unbekannt	ADJD	ADJD	pos	1	PD	1	PD
+5	bei	bei	APPR	APPR	4	MO	4	MO
+6	den	der	ART	ART	dat|pl|fem	7	NK	7	NK
+7	Hochgelehrten	Hochgelehrt	NN	NN	dat|pl|fem	5	NK	5	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+
+1	bis	bis	APPR	APPR	6	MO	6	MO
+2	zuletzt	zuletzt	ADV	ADV	1	NK	1	NK
+3	mir	sich	PPER	PPER	dat|sg|*|1	2	DA	2	DA
+4	eine	ein	ART	ART	acc|sg|fem	5	NK	5	NK
+5	Meinung	Meinung	NN	NN	acc|sg|fem	6	OA	6	OA
+6	vorgeschlagen	vorschlagen	VVFIN	VVFIN	-1	ROOT	-1	ROOT
+7	der	der	ART	ART	nom|sg|masc	9	NK	9	NK
+8	wohlgelehrte	wohlgelehrt	ADJA	ADJA	nom|sg|masc|pos	9	NK	9	NK
+9	D.	Der	NN	NN	nom|sg|masc	6	SB	6	SB
+10	Hieronymus	Hieronymus	NE	NE	nom|sg|masc	11	PNC	11	PNC
+11	Bock	Bock	NE	NE	nom|sg|masc	9	NK	9	NK
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	ein	ein	ART	ART	nom|sg|masc	15	NK	15	NK
+14	sonderlicher	sonderlich	ADJA	ADJA	nom|sg|masc|pos	15	NK	15	NK
+15	Erfahrener	Erfahrener	NN	NN	nom|sg|masc	9	CJ	9	CJ
+16	der	der	ART	ART	gen|sg|fem	18	NK	18	NK
+17	Kräuter	Kräuter	ADJA	ADJA	gen|sg|fem|pos	18	NK	18	NK
+18	Kraft	Kraft	NN	NN	gen|sg|fem	15	AG	15	AG
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	und	und	KON	KON	15	CD	15	CD
+21	Arzt	Arzt	NN	NN	nom|sg|masc	20	CJ	20	CJ
+22	meines	mein	PPOSAT	PPOSAT	gen|sg|masc	24	NK	24	NK
+23	gnädigsten	gnädig	ADJA	ADJA	gen|pl|masc|sup	24	NK	24	NK
+24	Herren	Herr	NN	NN	gen|pl|masc	21	AG	21	AG
+25	zu	zu	APPR	APPR	24	MNR	24	MNR
+26	Zweinbrücken	Zweinbrück	NN	NN	dat|pl|neut	25	NK	25	NK
+27	,	,	$,	$,	26	PUNC	26	PUNC
+
+1	und	und	KON	KON	2	JU	2	JU
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	nämlich	nämlich	ADV	ADV	2	MO	2	MO
+4	diese	dieser	PDS	PDS	nom|sg|fem	2	PD	2	PD
+5	.	.	$.	$.	4	PUNC	4	PUNC
+6	dass	daß	KOUS	KOUS	8	CP	8	CP
+7	er	er	PPER	PPER	nom|sg|masc|3	8	SB	8	SB
+8	vermeint	vermeinen	VVFIN	VVFIN	sg|3|pres|ind	2	MO	2	MO
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	sie	sie	PPER	PPER	nom|pl|*|3	11	SB	11	SB
+11	seien	sein	VAFIN	VAFIN	pl|3|pres|subj	8	OC	8	OC
+12	von	von	APPR	APPR	11	PD	11	PD
+13	denen	der	PDAT	PDAT	dat|pl|masc	14	NK	14	NK
+14	Geschlechtern	Geschlechter	NN	NN	dat|pl|masc	12	NK	12	NK
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	die	der	ART	ART	nom|pl|masc	17	NK	17	NK
+17	Dioscorides	Dioscoride	NN	NN	nom|pl|masc	14	APP	14	APP
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	und	und	KON	KON	8	CD	8	CD
+20	Plinius	Plinius	NE	NE	nom|sg|masc	21	PNC	21	PNC
+21	Panaces	Panace	NE	NE	nom|sg|masc	22	SB	22	SB
+22	nennt	nennen	VVFIN	VVFIN	sg|3|pres|ind	19	CJ	19	CJ
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	die	der	ART	ART	acc|sg|fem	26	NK	26	NK
+25	allerköstlichste	allerköstlichster	ADJA	ADJA	acc|sg|fem|sup	26	NK	26	NK
+26	Wurzel	Wurzel	NN	NN	acc|sg|fem	29	OA	29	OA
+27	die	der	ART	ART	acc|sg|fem	28	NK	28	NK
+28	man	man	PIS	PIS	nom|sg|*	30	SB	30	SB
+29	haben	haben	VAINF	VAINF	30	OC	30	OC
+30	möge	mögen	VMFIN	VMFIN	sg|3|pres|subj	22	OC	22	OC
+31	.	.	$.	$.	30	PUNC	30	PUNC
+
+1	Und	und	KON	KON	2	JU	2	JU
+2	bewährt	bewähren	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	solches	solcher	PIS	PIS	nom|sg|neut	2	SB	2	SB
+4	aus	aus	APPR	APPR	3	MNR	3	MNR
+5	der	der	ART	ART	dat|sg|fem	6	NK	6	NK
+6	Deskription	Deskription	NN	NN	dat|sg|fem	4	NK	4	NK
+7	Panaces	Panaces	NE	NE	nom|sg|neut	6	NK	6	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	aus	aus	APPR	APPR	2	MO	2	MO
+10	dem	der	ART	ART	dat|sg|masc	11	NK	11	NK
+11	Geruch	Geruch	NN	NN	dat|sg|masc	9	NK	9	NK
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	Gummi	Gummi	NN	NN	nom|sg|masc	2	OA	2	OA
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	und	und	KON	KON	13	CD	13	CD
+16	Saft	Saft	NN	NN	nom|sg|fem	15	CJ	15	CJ
+17	von	von	APPR	APPR	16	PG	16	PG
+18	diesen	dieser	PDAT	PDAT	dat|pl|fem	19	NK	19	NK
+19	Wurzeln	Wurzel	NN	NN	dat|pl|fem	17	NK	17	NK
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	welche	welcher	PRELS	PRELS	nom|pl|*	22	NK	22	NK
+22	alle	aller	PIS	PIS	nom|pl|*	24	SB	24	SB
+23	überein	überein	ADJD	ADJD	pos	24	MO	24	MO
+24	kommen	kommen	VVFIN	VVFIN	pl|3|pres|ind	19	RC	19	RC
+25	mit	mit	APPR	APPR	24	MO	24	MO
+26	dem	der	ART	ART	dat|sg|masc	27	NK	27	NK
+27	Panaces	Panaces	NN	NN	dat|sg|masc	25	NK	25	NK
+28	.	.	$.	$.	27	PUNC	27	PUNC
+
+1	Das	der	PDS	PDS	acc|sg|neut	4	OA	4	OA
+2	ich	ich	PPER	PPER	nom|sg|*|1	4	SB	4	SB
+3	mir	sich	PRF	PRF	dat|sg|1	4	DA	4	DA
+4	lasse	lassen	VVFIN	VVFIN	sg|3|pres|subj	-1	ROOT	-1	ROOT
+5	dermaßen	dermaßen	ADV	ADV	7	MO	7	MO
+6	wohl	wohl	ADV	ADV	7	MO	7	MO
+7	gefallen	fallen	VVPP	VVPP	4	MO	4	MO
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	und	und	KON	KON	4	CD	4	CD
+10	achte	achten	VVFIN	VVFIN	sg|3|past|ind	9	CJ	9	CJ
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	es	es	PPER	PPER	nom|sg|neut|3	13	PH	13	PH
+13	werde	werden	VAFIN	VAFIN	sg|3|pres|subj	10	OC	10	OC
+14	sie	sie	PPER	PPER	nom|sg|fem|3	13	SB	13	SB
+15	keiner	keiner	PIS	PIS	nom|sg|masc	18	OA	18	OA
+16	bald	bald	ADV	ADV	18	MO	18	MO
+17	besser	gut	ADJD	ADJD	comp	18	MO	18	MO
+18	deuten	deuten	VVINF	VVINF	13	OC	13	OC
+19	.	.	$.	$.	18	PUNC	18	PUNC
+
+1	Doch	doch	KON	KON	2	JU	2	JU
+2	wollen	wollen	VMFIN	VMFIN	pl|1|pres|ind	-1	ROOT	-1	ROOT
+3	wir	wir	PPER	PPER	nom|pl|*|1	2	SB	2	SB
+4	hierin	hierin	ADV	ADV	2	MO	2	MO
+5	auch	auch	ADV	ADV	2	MO	2	MO
+6	nicht	nicht	PTKNEG	PTKNEG	2	NG	2	NG
+7	streitig	streitig	ADJD	ADJD	pos	8	PD	8	PD
+8	sein	sein	VAINF	VAINF	2	OC	2	OC
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	sondern	sondern	KON	KON	2	CD	2	CD
+11	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	10	CJ	10	CJ
+12	unser	unser	PPOSAT	PPOSAT	acc|sg|neut	13	NK	13	NK
+13	Gutdünken	Gutdünken	NN	NN	acc|sg|neut	14	OA	14	OA
+14	angezeigt	anzeigen	VVPP	VVPP	11	OC	11	OC
+15	.	.	$.	$.	14	PUNC	14	PUNC
+16	damit	damit	KOUS	KOUS	19	CP	19	CP
+17	die	der	ART	ART	nom|pl|masc	18	NK	18	NK
+18	Gelehrten	gelehrt	NN	NN	nom|pl|masc	19	SB	19	SB
+19	demselbigen	demselbig	VVFIN	VVFIN	pl|3|pres|ind	14	MO	14	MO
+20	weiter	weiter	ADV	ADV	21	MO	21	MO
+21	nachsinnen	nachsinnen	VVINF	VVINF	22	OC	22	OC
+22	möchten	möchten	VMFIN	VMFIN	pl|3|pres|ind	19	OC	19	OC
+23	.	.	$.	$.	22	PUNC	22	PUNC
+
+1	Etliche	etlicher	PIAT	PIAT	nom|pl|*	2	NK	2	NK
+2	andere	anderer	PIS	PIS	nom|pl|*	12	OA	12	OA
+3	die	der	ART	ART	nom|pl|*	4	NK	4	NK
+4	sagen	sagen	PPOSS	PPOSS	12	SB	12	SB
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	dass	dass	TRUNC	TRUNC	7	CJ	7	CJ
+7	weder	weder	KON	KON	8	CD	8	CD
+8	Dioscorides	Dioscoride	NN	NN	gen|sg|masc	12	VO	12	VO
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	noch	noch	ADV	ADV	11	MO	11	MO
+11	Plinius	Plinius	NN	NN	*|*|neut	12	SB	12	SB
+12	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+13	etwas	etwas	PIS	PIS	*|*|neut	12	SB	12	SB
+14	von	von	APPR	APPR	13	PG	13	PG
+15	diesen	dieser	PDAT	PDAT	dat|pl|fem	16	NK	16	NK
+16	Wurzeln	Wurzel	NN	NN	dat|pl|fem	14	NK	14	NK
+17	gewusst	gewusst	ADV	ADV	13	MNR	13	MNR
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	gleich	gleich	ADV	ADV	13	MNR	13	MNR
+20	wie	wie	KOKOM	KOKOM	21	CM	21	CM
+21	von	von	APPR	APPR	19	CC	19	CC
+22	der	der	ART	ART	dat|sg|fem	23	NK	23	NK
+23	Grasblume	Grasblume	NN	NN	dat|sg|fem	21	NK	21	NK
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	und	und	KON	KON	13	CD	13	CD
+26	etlichen	etlicher	PIAT	PIAT	dat|pl|masc	28	NK	28	NK
+27	anderen	anderer	ADJA	ADJA	dat|pl|masc|pos	28	NK	28	NK
+28	Simplicibus	Simplicibus	NN	NN	dat|pl|masc	25	CJ	25	CJ
+29	,	,	$,	$,	28	PUNC	28	PUNC
+30	die	der	PRELS	PRELS	nom|pl|masc	36	SB	36	SB
+31	erst	erst	ADV	ADV	32	MO	32	MO
+32	zu	zu	APPR	APPR	38	MO	38	MO
+33	den	der	ART	ART	dat|pl|fem	35	NK	35	NK
+34	letzten	letzter	ADJA	ADJA	dat|pl|fem|pos	35	NK	35	NK
+35	Zeiten	Zeit	NN	NN	dat|pl|fem	32	NK	32	NK
+36	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	28	RC	28	RC
+37	ausfindig	ausfindig	ADJD	ADJD	pos	38	PD	38	PD
+38	geworden	werden	VAPP	VAPP	36	OC	36	OC
+39	,	,	$,	$,	38	PUNC	38	PUNC
+40	und	und	KON	KON	36	CD	36	CD
+41	taufen	taufen	VVFIN	VVFIN	pl|3|pres|ind	40	CJ	40	CJ
+42	solche	solcher	PIAT	PIAT	acc|pl|fem	43	NK	43	NK
+43	Wurzeln	Wurzel	NN	NN	nom|pl|fem	41	SB	41	SB
+44	,	,	$,	$,	43	PUNC	43	PUNC
+45	die	der	PRELS	PRELS	nom|pl|fem	12	MO	12	MO
+46	eine	ein	ART	ART	nom|sg|fem	47	NK	47	NK
+47	Meisterwurz	Meisterwurz	NN	NN	nom|sg|fem	43	CJ	43	CJ
+48	Astrantia	Astrantia	NE	NE	nom|sg|fem	47	NK	47	NK
+49	,	,	$,	$,	48	PUNC	48	PUNC
+50	oder	oder	KON	KON	47	CD	47	CD
+51	Istericium	Istericium	NE	NE	dat|sg|neut	50	CJ	50	CJ
+52	,	,	$,	$,	51	PUNC	51	PUNC
+53	die	der	ART	ART	nom|pl|neut	55	NK	55	NK
+54	andere	anderer	ADJA	ADJA	acc|pl|fem|pos	55	NK	55	NK
+55	Angelica	Angelica	NE	NE	nom|sg|*	47	APP	47	APP
+56	,	,	$,	$,	55	PUNC	55	PUNC
+57	oder	oder	KON	KON	47	CD	47	CD
+58	Radicem	Radicem	NN	NN	nom|sg|masc	57	CJ	57	CJ
+59	spiritus	spiritus	NE	NE	nom|sg|masc	60	PNC	60	PNC
+60	sancti	Sancti	NE	NE	nom|sg|masc	58	NK	58	NK
+61	,	,	$,	$,	60	PUNC	60	PUNC
+62	beide	beide	PIS	PIS	acc|pl|*	58	APP	58	APP
+63	eines	ein	ART	ART	gen|sg|neut	64	NK	64	NK
+64	Wesens	Wesen	NN	NN	gen|sg|neut	62	AG	62	AG
+65	und	und	KON	KON	64	CD	64	CD
+66	Kraft	Kraft	NN	NN	acc|sg|fem	65	CJ	65	CJ
+67	,	,	$,	$,	66	PUNC	66	PUNC
+
+1	doch	doch	KON	KON	4	JU	4	JU
+2	das	der	ART	ART	nom|sg|neut	3	NK	3	NK
+3	Angelica	Angelica	NE	NE	nom|sg|neut	4	SB	4	SB
+4	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	-1	ROOT	-1	ROOT
+5	das	der	ART	ART	nom|sg|neut	6	NK	6	NK
+6	Weiblein	Weiblein	NN	NN	nom|sg|neut	4	PD	4	PD
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	und	und	KON	KON	6	CD	6	CD
+9	Meisterwurz	Meisterwurz	NN	NN	nom|sg|masc	8	CJ	8	CJ
+10	das	der	ART	ART	acc|sg|neut	11	NK	11	NK
+11	Männlein	Männlein	NN	NN	acc|sg|neut	9	OA	9	OA
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	Diese	dieser	PDAT	PDAT	nom|pl|masc	2	NK	2	NK
+2	Namen	Name	NN	NN	nom|pl|masc	3	SB	3	SB
+3	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	also	also	ADV	ADV	6	MO	6	MO
+5	überhand	überhand	ADV	ADV	6	MO	6	MO
+6	genommen	nehmen	VVPP	VVPP	3	OC	3	OC
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	und	und	KON	KON	6	CD	6	CD
+9	in	in	APPR	APPR	12	MO	12	MO
+10	einen	ein	ART	ART	acc|sg|masc	11	NK	11	NK
+11	Brauch	Brauch	NN	NN	acc|sg|masc	9	NK	9	NK
+12	gekommen	kommen	VVPP	VVPP	8	CJ	8	CJ
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	dass	dass	KOUS	KOUS	23	CP	23	CP
+15	sie	sie	PPER	PPER	nom|pl|*|3	23	SB	23	SB
+16	auch	auch	ADV	ADV	19	MO	19	MO
+17	kein	kein	PIAT	PIAT	nom|sg|neut	19	NK	19	NK
+18	altes	alt	ADJA	ADJA	nom|sg|neut|pos	19	NK	19	NK
+19	Synonym	Synonym	NN	NN	nom|sg|neut	23	OA	23	OA
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	oder	oder	KON	KON	19	CD	19	CD
+22	Beinamen	Beiname	NN	NN	nom|pl|neut	21	CJ	21	CJ
+23	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	25	RE	25	RE
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	daraus	daraus	PROAV	PROAV	12	OP	12	OP
+26	man	man	PIS	PIS	nom|sg|*	29	SB	29	SB
+27	ihnen	ihnen	PPER	PPER	dat|pl|*|3	30	DA	30	DA
+28	weiter	weiter	ADV	ADV	29	MO	29	MO
+29	möchte	möchten	VMFIN	VMFIN	sg|3|pres|ind	23	CJ	23	CJ
+30	nachstapfen	nachstapfen	VVINF	VVINF	29	OC	29	OC
+31	.	.	$.	$.	30	PUNC	30	PUNC
+
+1	Die	der	ART	ART	nom|pl|fem	2	NK	2	NK
+2	Allergelehrtesten	Allergelehrtest	NN	NN	nom|pl|fem	12	SB	12	SB
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	die	der	PRELS	PRELS	acc|pl|fem	6	OA	6	OA
+5	ich	ich	PPER	PPER	nom|sg|*|1	7	SB	7	SB
+6	gehört	gehören	VVPP	VVPP	7	OC	7	OC
+7	habe	haben	VAFIN	VAFIN	sg|1|pres|ind	2	RC	2	RC
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	die	der	PDS	PDS	nom|pl|*	10	SB	10	SB
+10	halten	halten	VVFIN	VVFIN	pl|3|pres|ind	2	RC	2	RC
+11	es	es	PPER	PPER	nom|sg|neut|3	10	OA	10	OA
+12	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	-1	ROOT	-1	ROOT
+13	das	der	ART	ART	nom|sg|neut	14	NK	14	NK
+14	Meu	Meu	NN	NN	nom|sg|neut	12	PD	12	PD
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	davon	davon	PROAV	PROAV	21	MO	21	MO
+17	Dioscorides	Dioscorid	NE	NE	nom|sg|neut	21	SB	21	SB
+18	am	an	APPRART	APPRART	dat|sg|neut	21	MO	21	MO
+19	ersten	erster	ADJA	ADJA	dat|sg|neut|pos	20	NK	20	NK
+20	Buch	Buch	NN	NN	dat|sg|neut	18	NK	18	NK
+21	schreibt	schreiben	VVFIN	VVFIN	sg|3|pres|ind	11	RE	11	RE
+22	.	.	$.	$.	21	PUNC	21	PUNC
+
+1	reimt	reimen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	sich	sich	PRF	PRF	acc|sg|3	1	OA	1	OA
+3	aber	aber	ADV	ADV	1	MO	1	MO
+4	eben	eben	ADV	ADV	1	MO	1	MO
+5	darauf	darauf	PROAV	PROAV	1	OP	1	OP
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	wie	wie	KOKOM	KOKOM	9	CM	9	CM
+8	ein	ein	ART	ART	nom|sg|masc	9	NK	9	NK
+9	Faust	Faust	NN	NN	nom|sg|masc	5	RE	5	RE
+10	auf	auf	APPR	APPR	9	MNR	9	MNR
+11	ein	ein	ART	ART	acc|sg|neut	12	NK	12	NK
+12	Auge	Auge	NN	NN	acc|sg|neut	10	NK	10	NK
+13	.	.	$.	$.	12	PUNC	12	PUNC
+
+1	Der	der	ART	ART	nom|sg|masc	3	NK	3	NK
+2	wohlerfahrene	wohlerfahren	ADJA	ADJA	nom|sg|masc|pos	3	NK	3	NK
+3	Hieronymus	Hieronymus	NN	NN	nom|sg|masc	7	SB	7	SB
+4	von	von	APPR	APPR	3	PG	3	PG
+5	Braunschweig	Braunschweig	NE	NE	dat|sg|neut	4	NK	4	NK
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+8	auch	auch	ADV	ADV	10	MO	10	MO
+9	eine	ein	ART	ART	nom|sg|fem	10	NK	10	NK
+10	Meinung	Meinung	NN	NN	nom|sg|fem	7	OA	7	OA
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	und	und	KON	KON	7	CD	7	CD
+13	redet	reden	VVFIN	VVFIN	sg|3|pres|ind	12	CJ	12	CJ
+14	davon	davon	PTKVZ	PTKVZ	13	SVP	13	SVP
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	auf	auf	APPR	APPR	13	MO	13	MO
+17	diese	dieser	PDAT	PDAT	acc|sg|fem	18	NK	18	NK
+18	Weise	Weise	NN	NN	acc|sg|fem	16	NK	16	NK
+19	.	.	$.	$.	18	PUNC	18	PUNC
+
+1	Von	von	APPR	APPR	13	MO	13	MO
+2	diesem	dieser	PDAT	PDAT	dat|sg|masc	3	NK	3	NK
+3	Kraut	Kraut	NN	NN	dat|sg|masc	1	NK	1	NK
+4	Angelica	Angelica	NE	NE	nom|sg|masc	5	PNC	5	PNC
+5	-LRB-	-LRB-	NE	NE	nom|sg|masc	3	PUNC	3	PUNC
+6	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+7	er	er	PPER	PPER	nom|sg|masc|3	6	SB	6	SB
+8	-RRB-	-RRB-	$LRB 	$LRB 	7	PUNC	7	PUNC
+9	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	6	OC	6	OC
+10	kein	kein	PIAT	PIAT	nom|sg|masc	12	NK	12	NK
+11	alter	alt	ADJA	ADJA	nom|sg|masc|pos	12	NK	12	NK
+12	Philosoph	Philosoph	NN	NN	nom|sg|masc	9	SB	9	SB
+13	geschrieben	schreiben	VVPP	VVPP	9	OC	9	OC
+14	.	.	$.	$.	13	PUNC	13	PUNC
+15	darum	darum	PROAV	PROAV	24	MO	24	MO
+16	sein	sein	PPOSAT	PPOSAT	nom|sg|masc	18	NK	18	NK
+17	lateinischer	lateinisch	ADJA	ADJA	nom|sg|masc|pos	18	NK	18	NK
+18	Namen	Name	NN	NN	nom|sg|masc	24	PD	24	PD
+19	von	von	APPR	APPR	18	MNR	18	MNR
+20	den	der	ART	ART	dat|pl|*	21	NK	21	NK
+21	Deutschen	deutsche	NN	NN	dat|pl|*	19	NK	19	NK
+22	in	in	APPR	APPR	21	MNR	21	MNR
+23	Übung	Übung	NE	NE	dat|sg|fem	22	NK	22	NK
+24	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	13	OC	13	OC
+25	,	,	$,	$,	24	PUNC	24	PUNC
+26	Angelica	Angelica	NE	NE	nom|sg|fem	24	SVP	24	SVP
+27	,	,	$,	$,	26	PUNC	26	PUNC
+28	von	von	APPR	APPR	31	SBP	31	SBP
+29	etlichen	etlicher	PIAT	PIAT	dat|pl|*|pos	30	NK	30	NK
+30	anderen	anderer	PIS	PIS	dat|pl|*	28	NK	28	NK
+31	genannt	nennen	VVPP	VVPP	32	PD	32	PD
+32	Heiligengeistwurz	Heiligengeistwurz	NN	NN	acc|sg|neut	24	PD	24	PD
+33	,	,	$,	$,	32	PUNC	32	PUNC
+34	oder	oder	KON	KON	32	CD	32	CD
+35	Brustwurz	Brustwurz	NN	NN	nom|sg|masc	34	CJ	34	CJ
+36	,	,	$,	$,	35	PUNC	35	PUNC
+37	und	und	KON	KON	24	CD	24	CD
+38	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	37	CJ	37	CJ
+39	ein	ein	ART	ART	nom|sg|neut	40	NK	40	NK
+40	Geschlecht	Geschlecht	NN	NN	nom|sg|neut	38	PD	38	PD
+41	der	der	ART	ART	gen|sg|fem	42	NK	42	NK
+42	Meisterwurz	Meisterwurz	NN	NN	gen|sg|fem	40	AG	40	AG
+43	,	,	$,	$,	42	PUNC	42	PUNC
+44	so	so	ADV	ADV	45	MO	45	MO
+45	von	von	APPR	APPR	38	CJ	38	CJ
+46	den	der	ART	ART	dat|pl|masc	49	NK	49	NK
+47	lateinischen	lateinisch	ADJA	ADJA	dat|pl|masc|pos	49	NK	49	NK
+48	genannt	nennen	ADJA	ADJA	49	NK	49	NK
+49	Istericium	Istericium	NN	NN	acc|sg|neut	45	NK	45	NK
+50	.	.	$.	$.	49	PUNC	49	PUNC
+
+1	Aber	aber	KON	KON	4	JU	4	JU
+2	Angelica	Angelica	NE	NE	nom|sg|fem	3	AG	3	AG
+3	Geschlecht	Geschlecht	NN	NN	pos	4	SB	4	SB
+4	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	zweierlei	zweierlei	CARD	CARD	*|*|*	7	NK	7	NK
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	wilde	wilden	NN	NN	pos	4	PD	4	PD
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	und	und	KON	KON	4	CD	4	CD
+10	zahme	zahmen	VVFIN	VVFIN	sg|3|pres|subj	9	CJ	9	CJ
+11	.	.	$.	$.	10	PUNC	10	PUNC
+
+1	Kraut	Kraut	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	und	und	KON	KON	1	CD	1	CD
+3	Stängel	Stangel	NN	NN	acc|pl|masc	2	CJ	2	CJ
+4	in	in	APPR	APPR	1	MNR	1	MNR
+5	der	der	ART	ART	dat|sg|fem	6	NK	6	NK
+6	Länge	Länge	NN	NN	dat|sg|fem	4	NK	4	NK
+7	zweier	zwei	ADJA	ADJA	gen|pl|fem|pos	8	NK	8	NK
+8	Ellenbogen	Ellenbogen	NN	NN	gen|pl|fem	6	AG	6	AG
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	das	der	ART	ART	acc|sg|neut	2	NK	2	NK
+2	viele	vieler	PIS	PIS	nom|pl|*	7	OA	7	OA
+3	von	von	APPR	APPR	7	MO	7	MO
+4	den	der	ART	ART	dat|pl|*	6	NK	6	NK
+5	Deutschen	deutsch	ADJA	ADJA	acc|sg|masc|pos	6	NK	6	NK
+6	Buchhalter	Buchhalter	NN	NN	acc|sg|masc	3	NK	3	NK
+7	nennen	nennen	VVINF	VVINF	-1	ROOT	-1	ROOT
+8	.	.	$.	$.	7	PUNC	7	PUNC
+
+1	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	2	NK	2	NK
+2	Wurzel	Wurzel	NN	NN	nom|sg|fem	3	SB	3	SB
+3	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	keinen	kein	PIAT	PIAT	acc|sg|masc	5	NK	5	NK
+5	Geschmack	Geschmack	NN	NN	acc|sg|masc	3	OA	3	OA
+6	,	,	$,	$,	5	PUNC	5	PUNC
+
+1	des	der	PDS	PDS	gen|sg|neut	6	OA	6	OA
+2	werden	werden	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	dann	dann	ADV	ADV	6	MO	6	MO
+4	die	der	ART	ART	nom|pl|*	5	NK	5	NK
+5	Leute	Leute	NN	NN	nom|pl|*	2	SB	2	SB
+6	betrogen	betrügen	VVPP	VVPP	2	OC	2	OC
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	dass	daß	KOUS	KOUS	21	CP	21	CP
+9	ihnen	ihnen	PPER	PPER	dat|pl|masc|3	21	DA	21	DA
+10	etliche	etlicher	PIAT	PIAT	acc|pl|fem	12	NK	12	NK
+11	falsche	falsch	ADJA	ADJA	acc|pl|fem|pos	12	NK	12	NK
+12	Wurzeln	Wurzel	NN	NN	acc|pl|fem	21	OA	21	OA
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	der	der	ART	ART	nom|sg|masc	16	NK	16	NK
+15	wilden	wild	ADJA	ADJA	gen|pl|*|pos	16	NK	16	NK
+16	Angelica	Angelica	NN	NN	gen|pl|*	12	CJ	12	CJ
+17	für	für	APPR	APPR	16	MNR	16	MNR
+18	die	der	ART	ART	acc|sg|fem	20	NK	20	NK
+19	rechte	rechter	ADJA	ADJA	acc|sg|fem|pos	20	NK	20	NK
+20	Angelica	Angelica	NN	NN	acc|sg|fem	17	NK	17	NK
+21	verkaufen	verkaufen	VVINF	VVINF	30	CJ	30	CJ
+22	.	.	$.	$.	21	PUNC	21	PUNC
+23	Aber	aber	KON	KON	30	CD	30	CD
+24	die	der	ART	ART	nom|sg|fem	26	NK	26	NK
+25	rechte	rechter	ADJA	ADJA	nom|sg|fem|pos	26	NK	26	NK
+26	Angelica	Angelica	NN	NN	nom|sg|fem	30	SB	30	SB
+27	an	an	APPR	APPR	26	MNR	26	MNR
+28	wilden	wild	ADJA	ADJA	dat|pl|neut|pos	29	NK	29	NK
+29	Enden	Ende	NN	NN	dat|pl|neut	27	NK	27	NK
+30	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	5	RC	5	RC
+31	,	,	$,	$,	30	PUNC	30	PUNC
+32	als	als	KOKOM	KOKOM	33	CM	33	CM
+33	in	in	APPR	APPR	26	CC	26	CC
+34	Gebirgen	Gebirg	NN	NN	dat|pl|neut	33	NK	33	NK
+35	,	,	$,	$,	34	PUNC	34	PUNC
+36	und	und	KON	KON	2	CD	2	CD
+37	Gärten	Garten	NN	NN	acc|pl|fem	39	SB	39	SB
+38	da	da	ADV	ADV	39	MO	39	MO
+39	sie	sie	PPER	PPER	nom|sg|fem|3	41	SB	41	SB
+40	eingepflanzt	einpflanzen	VVPP	VVPP	41	OC	41	OC
+41	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	36	CJ	36	CJ
+42	.	.	$.	$.	41	PUNC	41	PUNC
+
+1	Bis	bis	APPR	APPR	3	MO	3	MO
+2	hierher	hierher	PROAV	PROAV	1	NK	1	NK
+3	Hieronymus	Hieronymus	NN	NN	nom|sg|masc	-1	ROOT	-1	ROOT
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	An	an	APPR	APPR	15	MO	15	MO
+2	einem	ein	ART	ART	dat|sg|masc	4	NK	4	NK
+3	anderen	anderer	ADJA	ADJA	dat|sg|masc|pos	4	NK	4	NK
+4	Ort	Ort	NN	NN	dat|sg|masc	1	NK	1	NK
+5	in	in	APPR	APPR	4	MNR	4	MNR
+6	der	der	ART	ART	dat|sg|fem	7	NK	7	NK
+7	Beschreibung	Beschreibung	NN	NN	dat|sg|fem	5	NK	5	NK
+8	des	der	ART	ART	gen|sg|neut	9	NK	9	NK
+9	Krauts	Kraut	NN	NN	gen|sg|neut	7	AG	7	AG
+10	Melisse	Melisse	NE	NE	nom|sg|*	9	NK	9	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	oder	oder	KON	KON	7	CD	7	CD
+13	Mutterkraut	Mutterkraut	NN	NN	dat|sg|fem	12	CJ	12	CJ
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	sagt	sagen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+16	er	er	PPER	PPER	nom|sg|masc|3	15	SB	15	SB
+17	von	von	APPR	APPR	15	MO	15	MO
+18	der	der	ART	ART	dat|sg|fem	19	NK	19	NK
+19	Meisterwurz	Meisterwurz	NN	NN	dat|sg|fem	17	NK	17	NK
+20	also	also	ADV	ADV	15	MO	15	MO
+21	.	.	$.	$.	20	PUNC	20	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|neut	3	NK	3	NK
+2	anderes	anderer	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Kraut	Kraut	NN	NN	nom|sg|neut	4	SB	4	SB
+4	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	auch	auch	ADV	ADV	7	MO	7	MO
+6	Herzwurz	Herzwurz	ADJD	ADJD	nom|sg|neut	7	MO	7	MO
+7	genannt	nennen	VVPP	VVPP	4	PD	4	PD
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	in	in	APPR	APPR	7	MO	7	MO
+10	Latein	Latein	NE	NE	dat|sg|neut	11	PNC	11	PNC
+11	Istericium	Istericium	NE	NE	dat|sg|neut	9	NK	9	NK
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	wiewohl	wiewohl	KOUS	KOUS	17	CP	17	CP
+14	der	der	ART	ART	nom|sg|masc	16	NK	16	NK
+15	deutsche	deutsch	ADJA	ADJA	nom|sg|masc|pos	16	NK	16	NK
+16	Herbarius	Herbarius	NN	NN	nom|sg|masc	17	SB	17	SB
+17	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	7	MO	7	MO
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	dass	daß	KOUS	KOUS	22	CP	22	CP
+20	Meu	Meu	NE	NE	nom|sg|*	7	--	7	--
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	7	MO	7	MO
+23	Istericium	Istericium	NN	NN	nom|sg|neut	22	SB	22	SB
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	Meisterwurz	Meisterwurz	NN	NN	nom|sg|fem	23	CJ	23	CJ
+26	,	,	$,	$,	25	PUNC	25	PUNC
+27	oder	oder	KON	KON	22	CD	22	CD
+28	Herzwurz	Herzwurz	NE	NE	nom|sg|neut	27	CJ	27	CJ
+29	.	.	$.	$.	28	PUNC	28	PUNC
+
+1	|	|	XY	XY	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	aber	aber	ADV	ADV	2	MO	2	MO
+4	falsch	falsch	ADJD	ADJD	pos	2	PD	2	PD
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Denn	denn	KON	KON	4	JU	4	JU
+2	Meu	Meu	NE	NE	nom|sg|masc	4	SB	4	SB
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	Anethum	Anethum	NN	NN	nom|sg|masc	4	PD	4	PD
+6	agreste	agrest	NE	NE	nom|sg|neut|sup	5	NK	5	NK
+7	,	,	$,	$,	6	PUNC	6	PUNC
+
+1	das	der	PDS	PDS	nom|sg|neut	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	wilder	wild	ADJA	ADJA	nom|sg|masc|pos	5	NK	5	NK
+5	Dill	Dill	NN	NN	nom|sg|masc	2	PD	2	PD
+6	,	,	$,	$,	5	PUNC	5	PUNC
+
+1	und	und	KON	KON	2	JU	2	JU
+2	gleicht	gleichen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	sein	sein	PPOSAT	PPOSAT	acc|sg|neut	4	NK	4	NK
+4	Kraut	Kraut	NN	NN	acc|sg|neut	2	SB	2	SB
+5	und	und	KON	KON	4	CD	4	CD
+6	Stängel	Stängel	NN	NN	nom|pl|masc	5	CJ	5	CJ
+7	dem	der	ART	ART	dat|sg|masc	8	NK	8	NK
+8	Fenchel	Fenchel	NN	NN	dat|sg|masc	2	DA	2	DA
+9	und	und	KON	KON	8	CD	8	CD
+10	dem	der	ART	ART	dat|sg|masc	11	NK	11	NK
+11	Dill	Dill	NN	NN	dat|sg|masc	9	CJ	9	CJ
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	Aber	aber	KON	KON	4	JU	4	JU
+2	die	der	ART	ART	nom|sg|fem	3	NK	3	NK
+3	Meisterwurz	Meisterwurz	NN	NN	nom|sg|fem	4	SB	4	SB
+4	gleicht	gleichen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	sich	sich	PRF	PRF	acc|sg|3	4	OA	4	OA
+6	der	der	ART	ART	nom|sg|masc	7	NK	7	NK
+7	Angelika	Angelika	NN	NN	nom|sg|masc	4	SB	4	SB
+8	Kraut	Kraut	NE	NE	nom|sg|masc	7	NK	7	NK
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Wahr	Wahr	ADJD	ADJD	pos	2	PD	2	PD
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	dass	dass	KOUS	KOUS	12	CP	12	CP
+6	die	der	ART	ART	nom|pl|fem	7	NK	7	NK
+7	Wurzeln	Wurzel	NN	NN	nom|pl|fem	12	SB	12	SB
+8	in	in	APPR	APPR	7	MNR	7	MNR
+9	der	der	ART	ART	dat|sg|fem	10	NK	10	NK
+10	Tugend	Tugend	NN	NN	dat|sg|fem	8	NK	8	NK
+11	sich	sich	PRF	PRF	acc|sg|3	12	OA	12	OA
+12	vergleichen	vergleichen	VVFIN	VVFIN	pl|3|past|ind	3	RE	3	RE
+13	in	in	APPR	APPR	12	MO	12	MO
+14	etlichen	etlich	ADJA	ADJA	dat|pl|fem|pos	15	NK	15	NK
+15	Kräften	Kraft	NN	NN	dat|pl|fem	13	NK	13	NK
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	darum	darum	PROAV	PROAV	12	OP	12	OP
+18	eine	ein	ART	ART	acc|sg|fem	24	SB	24	SB
+19	für	für	APPR	APPR	23	MO	23	MO
+20	die	der	ART	ART	acc|sg|fem	21	NK	21	NK
+21	andere	anderer	PIS	PIS	acc|sg|fem|pos	19	NK	19	NK
+22	oft	oft	ADV	ADV	23	MO	23	MO
+23	genommen	nehmen	VVPP	VVPP	24	OC	24	OC
+24	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	17	RE	17	RE
+25	.	.	$.	$.	24	PUNC	24	PUNC
+
+1	siehst	sehen	VVFIN	VVFIN	sg|2|pres|ind	-1	ROOT	-1	ROOT
+2	du	du	PPER	PPER	nom|sg|*|2	1	SB	1	SB
+3	hier	hier	ADV	ADV	1	MO	1	MO
+4	lieber	lieber	ADV	ADV	nom|sg|masc|pos	1	MO	1	MO
+5	Leser	Leser	NN	NN	nom|sg|masc	1	OA	1	OA
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	wie	wie	PWAV	PWAV	13	MO	13	MO
+8	wir	wir	PPER	PPER	nom|pl|*|1	12	SB	12	SB
+9	sogar	sogar	ADV	ADV	10	MO	10	MO
+10	von	von	APPR	APPR	13	MO	13	MO
+11	Erkenntnis	Erkenntnis	NN	NN	dat|sg|fem	10	NK	10	NK
+12	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	1	CJ	1	CJ
+13	gekommen	kommen	VVPP	VVPP	17	MO	17	MO
+14	auch	auch	ADV	ADV	17	MO	17	MO
+15	der	der	ART	ART	nom|sg|masc	17	NK	17	NK
+16	allergemeinsten	allergemeinster	ADJA	ADJA	nom|sg|masc|pos	17	NK	17	NK
+17	Kräuter	Kräuter	NN	NN	nom|sg|masc	12	PD	12	PD
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	wie	wie	PWAV	PWAV	22	MO	22	MO
+20	wir	wir	PPER	PPER	nom|pl|*|1	22	SB	22	SB
+21	darum	darum	PROAV	PROAV	22	OP	22	OP
+22	gingen	gehen	VVFIN	VVFIN	pl|1|pres|ind	17	MNR	17	MNR
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	und	und	KON	KON	17	CD	17	CD
+25	unser	unser	PPOSAT	PPOSAT	nom|sg|neut	26	NK	26	NK
+26	Gutdünken	Gutdünken	NN	NN	nom|sg|neut	24	CJ	24	CJ
+27	hierfür	hierfür	PTKZU	PTKZU	28	PM	28	PM
+28	bringen	bringen	VVINF	VVINF	26	OC	26	OC
+29	,	,	$,	$,	28	PUNC	28	PUNC
+
+1	und	und	KON	KON	6	JU	6	JU
+2	wenn	wenn	KOUS	KOUS	6	CP	6	CP
+3	wir	wir	PPER	PPER	nom|pl|*|1	6	OA	6	OA
+4	schon	schon	ADV	ADV	6	MO	6	MO
+5	lang	lang	ADJD	ADJD	pos	6	MO	6	MO
+6	geraten	geraten	VVPP	VVPP	-1	ROOT	-1	ROOT
+7	und	und	KON	KON	3	CD	3	CD
+8	vermeinen	vermeinen	VVFIN	VVFIN	pl|3|pres|ind	7	CJ	7	CJ
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	so	so	ADV	ADV	17	MO	17	MO
+11	sollen	sollen	VMFIN	VMFIN	pl|1|pres|ind	8	OC	8	OC
+12	wir	wir	PPER	PPER	nom|pl|*|1	11	SB	11	SB
+13	dennoch	dennoch	ADV	ADV	17	MO	17	MO
+14	wohl	wohl	ADV	ADV	17	MO	17	MO
+15	gar	gar	ADV	ADV	16	MO	16	MO
+16	nichts	nichts	PIS	PIS	*|*|neut	17	OA	17	OA
+17	getroffen	treffen	VVPP	VVPP	18	OC	18	OC
+18	haben	haben	VAINF	VAINF	11	OC	11	OC
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	oder	oder	KON	KON	11	CD	11	CD
+21	wie	wie	PWAV	PWAV	23	MO	23	MO
+22	man	man	PIS	PIS	nom|sg|*	23	SB	23	SB
+23	sagt	sagen	VVFIN	VVFIN	sg|3|pres|ind	20	CJ	20	CJ
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	bei	bei	APPR	APPR	28	MO	28	MO
+26	einem	ein	ART	ART	dat|sg|masc	27	NK	27	NK
+27	Bauernschuh	Bauernschuh	NN	NN	dat|sg|masc	25	NK	25	NK
+28	getroffen	treffen	VVPP	VVPP	23	CJ	23	CJ
+29	.	.	$.	$.	28	PUNC	28	PUNC
+
+1	¶	¶	ADJA	ADJA	nom|pl|fem|pos	2	NK	2	NK
+2	Kräfte	Kraft	NN	NN	nom|pl|fem	-1	ROOT	-1	ROOT
+3	der	der	ART	ART	gen|sg|fem	4	NK	4	NK
+4	Angelica	Angelica	NE	NE	gen|sg|fem	2	AG	2	AG
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Dieweil	dieweil	KOUS	KOUS	7	CP	7	CP
+2	wir	wir	PPER	PPER	nom|pl|*|1	7	SB	7	SB
+3	aber	aber	ADV	ADV	7	MO	7	MO
+4	nun	nun	ADV	ADV	7	MO	7	MO
+5	nichts	nichts	PIAT	PIAT	*|*|*	6	NK	6	NK
+6	Gewisses	Gewis	NN	NN	acc|sg|neut	7	OA	7	OA
+7	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+8	von	von	APPR	APPR	7	MO	7	MO
+9	den	der	ART	ART	dat|pl|masc	12	NK	12	NK
+10	rechten	rechter	ADJA	ADJA	dat|pl|masc|pos	12	NK	12	NK
+11	natürlichen	natürlich	ADJA	ADJA	acc|sg|masc|pos	12	NK	12	NK
+12	Namen	Name	NN	NN	acc|sg|masc	8	NK	8	NK
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	und	und	KON	KON	8	CD	8	CD
+15	Substanz	Substanz	NN	NN	acc|sg|fem	14	CJ	14	CJ
+16	dieser	dieser	PDAT	PDAT	gen|pl|fem	18	NK	18	NK
+17	beider	beide	PIAT	PIAT	gen|pl|fem	18	NK	18	NK
+18	Wurzeln	Wurzel	NN	NN	gen|pl|fem	15	AG	15	AG
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	sondern	sondern	KON	KON	8	CD	8	CD
+21	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	20	CJ	20	CJ
+22	allein	allein	ADV	ADV	21	MO	21	MO
+23	Meinungen	Meinung	NN	NN	nom|pl|fem	21	PD	21	PD
+24	und	und	KON	KON	23	CD	23	CD
+25	Gutdünken	Gutdünken	NN	NN	nom|pl|masc	24	CJ	24	CJ
+26	,	,	$,	$,	25	PUNC	25	PUNC
+27	so	so	ADV	ADV	28	MO	28	MO
+28	wollen	wollen	VMFIN	VMFIN	pl|1|pres|ind	21	CJ	21	CJ
+29	wir	wir	PPER	PPER	nom|pl|*|1	28	SB	28	SB
+30	dennoch	dennoch	ADV	ADV	28	MO	28	MO
+31	die	der	ART	ART	acc|pl|fem	33	NK	33	NK
+32	gemeinen	gemein	ADJA	ADJA	acc|pl|fem|pos	33	NK	33	NK
+33	Erfahrungen	Erfahrung	NN	NN	acc|pl|fem	28	OA	28	OA
+34	,	,	$,	$,	33	PUNC	33	PUNC
+35	so	so	ADV	ADV	36	MO	36	MO
+36	bis	bis	APPR	APPR	41	MO	41	MO
+37	hier	hier	ADV	ADV	36	NK	36	NK
+38	von	von	APPR	APPR	41	SBP	41	SBP
+39	etlichen	etlich	ADJA	ADJA	dat|pl|neut|pos	40	NK	40	NK
+40	Empiricis	Empiricis	NN	NN	gen|sg|*	38	NK	38	NK
+41	wahrgenommen	wahrnehmen	VVPP	VVPP	33	PAR	33	PAR
+42	,	,	$,	$,	41	PUNC	41	PUNC
+43	nicht	nicht	PTKNEG	PTKNEG	44	NG	44	NG
+44	unterlassen	unterlassen	VVPP	VVPP	41	CJ	41	CJ
+45	,	,	$,	$,	44	PUNC	44	PUNC
+46	bis	bis	KOUS	KOUS	56	CP	56	CP
+47	dass	dass	ADV	ADV	48	MO	48	MO
+48	wir	wir	PPER	PPER	nom|pl|*|1	56	SB	56	SB
+49	der	der	ART	ART	nom|sg|masc	50	NK	50	NK
+50	Tag	Tag	NN	NN	nom|sg|masc	56	DA	56	DA
+51	einst	einst	ADV	ADV	56	MO	56	MO
+52	gar	gar	ADV	ADV	56	MO	56	MO
+53	auf	auf	APPR	APPR	56	MO	56	MO
+54	den	der	ART	ART	acc|sg|masc	55	NK	55	NK
+55	Grund	Grund	NN	NN	acc|sg|masc	53	NK	53	NK
+56	kommen	kommen	VVFIN	VVFIN	pl|3|pres|ind	44	MO	44	MO
+57	.	.	$.	$.	56	PUNC	56	PUNC
+
+1	Angelicawasser	Angelicawasser	NN	NN	nom|sg|neut	3	PD	3	PD
+2	,	,	$,	$,	1	PUNC	1	PUNC
+3	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	das	der	PDS	PDS	nom|sg|neut	3	SB	3	SB
+5	aller	aller	PIAT	PIAT	gen|pl|neut	7	NK	7	NK
+6	edelste	edel	ADJA	ADJA	acc|pl|neut|pos	7	NK	7	NK
+7	Wasser	Wasser	NN	NN	gen|pl|neut	1	CJ	1	CJ
+8	für	für	APPR	APPR	7	MNR	7	MNR
+9	die	der	ART	ART	acc|sg|fem	10	NK	10	NK
+10	Pestilenz	Pestilenz	NN	NN	acc|sg|fem	8	NK	8	NK
+11	das	der	PDS	PDS	acc|sg|neut	7	APP	7	APP
+12	man	man	PIS	PIS	nom|sg|*	14	SB	14	SB
+13	haben	haben	VAINF	VAINF	14	OC	14	OC
+14	mag	mögen	VMFIN	VMFIN	sg|3|pres|ind	11	RC	11	RC
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	alle	aller	PIAT	PIAT	acc|pl|fem	17	NK	17	NK
+17	Morgen	Morgen	NN	NN	acc|pl|fem	13	OA	13	OA
+18	davon	davon	PROAV	PROAV	17	MNR	17	MNR
+19	ein	ein	ART	ART	acc|sg|neut	20	NK	20	NK
+20	Löffel	Löffel	NN	NN	acc|sg|neut	22	OA	22	OA
+21	voll	voll	ADJD	ADJD	pos	22	MO	22	MO
+22	getrunken	trinken	VVPP	VVPP	18	RE	18	RE
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	für	für	APPR	APPR	22	MO	22	MO
+25	ein	ein	ART	ART	acc|sg|neut	26	NK	26	NK
+26	Präservativum	Präservativum	NN	NN	acc|sg|neut	24	NK	24	NK
+27	.	.	$.	$.	26	PUNC	26	PUNC
+
+1	So	so	ADV	ADV	2	MO	2	MO
+2	einen	ein	PIS	PIS	acc|sg|masc	9	SB	9	SB
+3	die	der	ART	ART	nom|sg|fem	4	NK	4	NK
+4	Pestilenz	Pestilenz	NN	NN	nom|sg|fem	2	AG	2	AG
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	oder	oder	KON	KON	2	CD	2	CD
+7	pestilenzische	pestilenzisch	ADJA	ADJA	nom|pl|masc|pos	8	NK	8	NK
+8	Fieber	Fieber	NN	NN	nom|sg|masc	6	CJ	6	CJ
+9	anstösst	anstösst	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	der	der	PDS	PDS	nom|sg|masc	12	SB	12	SB
+12	nehme	nehmen	VVFIN	VVFIN	sg|3|pres|subj	9	OC	9	OC
+13	des	der	ART	ART	gen|sg|neut	14	NK	14	NK
+14	Wassers	Wasser	NN	NN	gen|sg|neut	12	DA	12	DA
+15	zwei	zwei	CARD	CARD	16	NK	16	NK
+16	Lot	Lot	NN	NN	*|*|neut	12	MO	12	MO
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	Theriack	Theriack	NN	NN	nom|sg|masc	9	VO	9	VO
+19	ein	ein	ART	ART	acc|sg|neut	20	NK	20	NK
+20	Quäntlein	Quäntlein	NN	NN	acc|sg|neut	9	OA	9	OA
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	Essig	Essig	PRELS	PRELS	nom|sg|neut	9	OA2	9	OA2
+23	ein	ein	ART	ART	acc|sg|neut	25	NK	25	NK
+24	halbes	halb	ADJA	ADJA	acc|sg|neut|pos	25	NK	25	NK
+25	Lot	Lot	NN	NN	acc|sg|neut	22	AG	22	AG
+26	,	,	$,	$,	25	PUNC	25	PUNC
+27	und	und	KON	KON	36	CD	36	CD
+28	meng	meng	NE	NE	pos	29	AG	29	AG
+29	das	der	PDS	PDS	nom|sg|neut	32	OA	32	OA
+30	untereinander	untereinander	ADV	ADV	28	MO	28	MO
+31	,	,	$,	$,	30	PUNC	30	PUNC
+32	trink	trink	KOUS	KOUS	sg|3|pres|ind	27	CJ	27	CJ
+33	es	es	PPER	PPER	nom|sg|neut|3	29	NK	29	NK
+34	ehe	ehe	ADV	ADV	35	MO	35	MO
+35	dann	dann	ADV	ADV	38	MO	38	MO
+36	er	er	PPER	PPER	nom|sg|masc|3	9	DA	9	DA
+37	anfange	anfange	ADV	ADV	38	MO	38	MO
+38	schlafen	schlafen	VVINF	VVINF	33	RE	33	RE
+39	.	.	$.	$.	38	PUNC	38	PUNC
+40	lass	lass	KOUS	KOUS	45	CP	45	CP
+41	ihm	ihm	PPER	PPER	dat|sg|masc|3	45	DA	45	DA
+42	auch	auch	ADV	ADV	44	MO	44	MO
+43	ein	ein	ART	ART	nom|sg|masc	44	NK	44	NK
+44	Ader	Ader	NN	NN	nom|sg|masc	45	SB	45	SB
+45	sprengen	sprengen	VVFIN	VVFIN	35	RE	35	RE
+46	,	,	$,	$,	45	PUNC	45	PUNC
+47	und	und	KON	KON	45	CD	45	CD
+48	lege	legen	VVFIN	VVFIN	sg|3|pres|subj	47	CJ	47	CJ
+49	sich	sich	PRF	PRF	acc|sg|3	53	OA	53	OA
+50	alsdann	alsdann	ADV	ADV	48	MO	48	MO
+51	nieder	nieder	ADV	ADV	48	MO	48	MO
+52	zu	zu	PTKZU	PTKZU	53	PM	53	PM
+53	schwitzen	schwitzen	VVINF	VVINF	48	OC	48	OC
+54	,	,	$,	$,	53	PUNC	53	PUNC
+
+1	es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	einen	ein	ART	ART	acc|sg|masc	5	NK	5	NK
+4	gewisse	gewiß	ADJA	ADJA	nom|sg|fem|pos	5	NK	5	NK
+5	Arznei	Arznei	NN	NN	nom|sg|fem	2	PD	2	PD
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Alles	alle	NE	NE	nom|sg|neut	6	SB	6	SB
+2	was	was	PIS	PIS	nom|sg|neut	6	PD	6	PD
+3	an	an	APPR	APPR	2	MNR	2	MNR
+4	dieser	dieser	PDAT	PDAT	dat|sg|fem	5	NK	5	NK
+5	Wurzel	Wurzel	NN	NN	dat|sg|fem	3	NK	3	NK
+6	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	21	OC	21	OC
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	Wasser	Wasser	NN	NN	dat|sg|neut	6	APP	6	APP
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	Saft	Saft	NN	NN	dat|sg|fem	8	CJ	8	CJ
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	oder	oder	KON	KON	10	CD	10	CD
+13	Pulver	Pulver	NN	NN	acc|sg|masc	12	CJ	12	CJ
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	6	CJ	6	CJ
+16	alles	alle	PIS	PIS	nom|sg|neut	15	SB	15	SB
+17	gut	gut	ADJD	ADJD	pos	15	PD	15	PD
+18	für	für	APPR	APPR	17	MO	17	MO
+19	Vergiftung	Vergiftung	NN	NN	acc|sg|fem	18	NK	18	NK
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	räumt	räumen	VVFIN	VVFIN	sg|3|pres|ind	33	OC	33	OC
+22	und	und	KON	KON	21	CD	21	CD
+23	macht	machen	VVFIN	VVFIN	sg|3|pres|ind	22	CJ	22	CJ
+24	weit	weit	ADJD	ADJD	pos	23	MO	23	MO
+25	um	um	APPR	APPR	23	MO	23	MO
+26	die	der	ART	ART	acc|sg|fem	27	NK	27	NK
+27	Brust	Brust	NN	NN	acc|sg|fem	25	NK	25	NK
+28	,	,	$,	$,	27	PUNC	27	PUNC
+29	daut	dauen	ADV	ADV	30	MO	30	MO
+30	wohl	wohl	ADV	ADV	23	MO	23	MO
+31	ab	ab	PTKVZ	PTKVZ	23	SVP	23	SVP
+32	,	,	$,	$,	31	PUNC	31	PUNC
+33	stärkt	stärken	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+34	das	der	ART	ART	nom|sg|neut	35	NK	35	NK
+35	Herz	Herz	NN	NN	nom|sg|neut	33	SB	33	SB
+36	,	,	$,	$,	35	PUNC	35	PUNC
+37	und	und	KON	KON	35	CD	35	CD
+38	den	der	ART	ART	acc|sg|masc	40	NK	40	NK
+39	ganzen	ganz	ADJA	ADJA	acc|sg|masc|pos	40	NK	40	NK
+40	Leib	Leib	NN	NN	acc|sg|masc	37	CJ	37	CJ
+41	.	.	$.	$.	40	PUNC	40	PUNC
+
+1	Ich	ich	PPER	PPER	nom|sg|*|1	2	SB	2	SB
+2	glaube	glauben	VVFIN	VVFIN	sg|1|pres|ind	-1	ROOT	-1	ROOT
+3	auch	auch	ADV	ADV	2	MO	2	MO
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	dass	daß	KOUS	KOUS	10	CP	10	CP
+6	diese	dieser	PDAT	PDAT	nom|sg|fem	7	NK	7	NK
+7	Wurzel	Wurzel	NN	NN	dat|sg|neut	10	SB	10	SB
+8	alle	aller	PIAT	PIAT	acc|pl|neut	9	NK	9	NK
+9	Dinge	Ding	NN	NN	acc|pl|neut	10	OA	10	OA
+10	vermöge	vermögen	VVFIN	VVFIN	sg|3|pres|subj	2	OC	2	OC
+11	so	so	ADV	ADV	10	MO	10	MO
+12	Dioscorides	Dioscoride	NN	NN	acc|pl|neut	10	SB	10	SB
+13	und	und	KON	KON	12	CD	12	CD
+14	Plinius	Plinius	NN	NN	acc|sg|masc	13	CJ	13	CJ
+15	zugegeben	zugeben	APPR	APPR	pl|3|pres|ind	10	MO	10	MO
+16	der	der	ART	ART	nom|sg|masc	17	NK	17	NK
+17	Panaces	Panaces	NN	NN	gen|pl|neut	15	NK	15	NK
+18	.	.	$.	$.	17	PUNC	17	PUNC
+
+1	¶	¶	ADJA	ADJA	nom|pl|fem|pos	2	NK	2	NK
+2	Kräfte	Kraft	NN	NN	nom|pl|fem	-1	ROOT	-1	ROOT
+3	der	der	ART	ART	gen|sg|fem	4	NK	4	NK
+4	Meisterwurz	Meisterwurz	NN	NN	gen|sg|fem	2	AG	2	AG
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Meisterwurz	Meisterwurz	NN	NN	nom|sg|fem	2	SB	2	SB
+2	gesotten	gesotten	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	in	in	APPR	APPR	2	MO	2	MO
+4	Wasser	Wasser	NN	NN	dat|sg|neut	3	NK	3	NK
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	und	und	KON	KON	2	CD	2	CD
+7	getrunken	trinken	VVPP	VVPP	6	CJ	6	CJ
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	däut	däut	VVIMP	VVIMP	25	MO	25	MO
+10	gleich	gleich	ADV	ADV	9	MO	9	MO
+11	wohl	wohl	ADV	ADV	9	MO	9	MO
+12	ab	ab	PTKVZ	PTKVZ	9	SVP	9	SVP
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	und	und	KON	KON	9	CD	9	CD
+15	treibt	treiben	VVFIN	VVFIN	sg|3|pres|ind	14	CJ	14	CJ
+16	aus	aus	APPR	APPR	21	MO	21	MO
+17	alle	aller	PIAT	PIAT	acc|pl|fem	19	NK	19	NK
+18	phlegmatischen	phlegmatisch	ADJA	ADJA	acc|pl|fem|pos	19	NK	19	NK
+19	Feuchtigkeiten	Feuchtigkeit	NN	NN	acc|pl|fem	16	NK	16	NK
+20	.	.	$.	$.	19	PUNC	19	PUNC
+21	vertreibt	vertreiben	VVFIN	VVFIN	sg|3|pres|ind	15	OC	15	OC
+22	das	der	ART	ART	nom|sg|neut	23	NK	23	NK
+23	Lendenweh	Lendenweh	NN	NN	nom|sg|neut	21	SB	21	SB
+24	.	.	$.	$.	23	PUNC	23	PUNC
+25	reinigt	reinigen	VVFIN	VVFIN	sg|3|pres|ind	7	OC	7	OC
+26	die	der	ART	ART	nom|sg|fem	27	NK	27	NK
+27	Mutter	Mutter	NN	NN	nom|sg|fem	25	SB	25	SB
+28	,	,	$,	$,	27	PUNC	27	PUNC
+
+1	nimm	nimm	ADJD	ADJD	3	MO	3	MO
+2	dazu	dazu	PROAV	PROAV	3	MO	3	MO
+3	Melisse	Melisse	NN	NN	nom|pl|masc	-1	ROOT	-1	ROOT
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	und	und	KON	KON	3	CD	3	CD
+6	Beifuß	Beifuß	NN	NN	acc|sg|masc	5	CJ	5	CJ
+7	.	.	$.	$.	6	PUNC	6	PUNC
+
+1	Benimmt	benehmen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	die	der	ART	ART	nom|sg|fem	3	NK	3	NK
+3	Geschwulst	Geschwulst	NN	NN	nom|sg|fem	1	SB	1	SB
+4	des	der	ART	ART	gen|sg|masc	5	NK	5	NK
+5	Magens	Magen	NN	NN	gen|sg|masc	3	AG	3	AG
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	Mit	mit	APPR	APPR	3	MO	3	MO
+2	Tausendgüldenkraut	Tausendgüldenkraut	NN	NN	dat|sg|fem	1	NK	1	NK
+3	getrunken	trinken	VVPP	VVPP	5	MO	5	MO
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	vertreibt	vertreiben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	die	der	ART	ART	nom|sg|fem	7	NK	7	NK
+7	Missfarbe	Missfarbe	NN	NN	nom|sg|fem	5	SB	5	SB
+8	.	.	$.	$.	7	PUNC	7	PUNC
+
+1	Mit	mit	APPR	APPR	3	MO	3	MO
+2	Gerstenmehl	Gerstenmehl	NN	NN	dat|sg|fem	1	NK	1	NK
+3	gesotten	gesotten	VVPP	VVPP	14	OC	14	OC
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	gestoßen	stoßen	VVPP	VVPP	3	CJ	3	CJ
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	und	und	KON	KON	5	CD	5	CD
+8	über	über	APPR	APPR	12	MO	12	MO
+9	die	der	ART	ART	acc|pl|fem	11	NK	11	NK
+10	schwarzen	schwarz	ADJA	ADJA	acc|pl|fem|pos	11	NK	11	NK
+11	Blattern	Blatter	NN	NN	acc|pl|fem	8	NK	8	NK
+12	gelegt	legen	VVPP	VVPP	7	CJ	7	CJ
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	weicht	weichen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+15	und	und	KON	KON	14	CD	14	CD
+16	heilt	heilen	VVFIN	VVFIN	sg|3|pres|ind	15	CJ	15	CJ
+17	sie	sie	PPER	PPER	nom|sg|fem|3	16	OA	16	OA
+18	.	.	$.	$.	17	PUNC	17	PUNC
+
+1	Über	über	APPR	APPR	4	OP	4	OP
+2	diese	dieser	PDAT	PDAT	acc|sg|fem	3	NK	3	NK
+3	Wurzel	Wurzel	NN	NN	acc|sg|fem	1	NK	1	NK
+4	getrunken	trinken	VVPP	VVPP	6	MO	6	MO
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	vertreibt	vertreiben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+7	das	der	ART	ART	nom|sg|neut	9	NK	9	NK
+8	alltägliche	alltäglich	ADJA	ADJA	nom|sg|neut|pos	9	NK	9	NK
+9	Fieber	Fieber	NN	NN	nom|sg|neut	6	SB	6	SB
+10	.	.	$.	$.	9	PUNC	9	PUNC
+
+1	In	in	APPR	APPR	4	MO	4	MO
+2	den	der	ART	ART	acc|sg|masc	3	NK	3	NK
+3	Mund	Mund	NN	NN	acc|sg|masc	1	NK	1	NK
+4	gehebt	geheben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	und	und	KON	KON	4	CD	4	CD
+7	gekaut	gekaut	ADJD	ADJD	pos	8	MO	8	MO
+8	zieht	ziehen	VVFIN	VVFIN	sg|3|pres|ind	6	CJ	6	CJ
+9	Feuchtigkeit	Feuchtigkeit	NN	NN	nom|sg|fem	8	SB	8	SB
+10	von	von	APPR	APPR	8	MO	8	MO
+11	dem	der	ART	ART	dat|sg|masc	12	NK	12	NK
+12	Kopf	Kopf	NN	NN	dat|sg|masc	10	NK	10	NK
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	und	und	KON	KON	8	CD	8	CD
+15	reinigt	reinigen	VVFIN	VVFIN	sg|3|pres|ind	14	CJ	14	CJ
+16	das	der	ART	ART	acc|sg|neut	17	NK	17	NK
+17	Hirn	Hirn	NN	NN	acc|sg|neut	15	OA	15	OA
+18	.	.	$.	$.	17	PUNC	17	PUNC
+19	macht	machen	VVFIN	VVFIN	sg|3|pres|ind	15	CJ	15	CJ
+20	weit	weit	ADJD	ADJD	pos	19	MO	19	MO
+21	um	um	APPR	APPR	29	MO	29	MO
+22	die	der	ART	ART	acc|sg|fem	23	NK	23	NK
+23	Brust	Brust	NN	NN	acc|sg|fem	21	NK	21	NK
+24	.	.	$.	$.	23	PUNC	23	PUNC
+25	und	und	KON	KON	21	CD	21	CD
+26	in	in	APPR	APPR	25	CJ	25	CJ
+27	Sonderheit	Sonderheit	NN	NN	dat|sg|fem	26	NK	26	NK
+28	,	,	$,	$,	27	PUNC	27	PUNC
+29	gekaut	gekaut	VVPP	VVPP	19	MO	19	MO
+30	,	,	$,	$,	29	PUNC	29	PUNC
+31	und	und	KON	KON	19	CD	19	CD
+32	die	der	ART	ART	acc|pl|masc	33	NK	33	NK
+33	Wurzel	Wurzel	NN	NN	acc|pl|masc	34	OA	34	OA
+34	gegessen	gegessen	VVPP	VVPP	36	OC	36	OC
+35	,	,	$,	$,	34	PUNC	34	PUNC
+36	däut	däut	VVFIN	VVFIN	pl|2|imp	31	CJ	31	CJ
+37	überaus	überaus	ADV	ADV	36	MO	36	MO
+38	,	,	$,	$,	37	PUNC	37	PUNC
+39	was	was	PWS	PWS	acc|sg|neut	43	OA	43	OA
+40	der	der	ART	ART	nom|sg|masc	41	NK	41	NK
+41	Magen	Magen	NN	NN	nom|sg|masc	43	SB	43	SB
+42	Undauliches	undauliche	NE	NE	nom|sg|neut	41	NK	41	NK
+43	empfangen	empfangen	VVFIN	VVFIN	36	SB	36	SB
+44	.	.	$.	$.	43	PUNC	43	PUNC
+
+1	Weggras	Weggras	NN	NN	gen|sg|neut	-1	ROOT	-1	ROOT
+2	,	,	$,	$,	1	PUNC	1	PUNC
+3	Wegtritt	Wegtritt	NN	NN	acc|sg|masc	1	CJ	1	CJ
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	Denngras	Denngras	NN	NN	acc|sg|neut	3	CJ	3	CJ
+6	.	.	$.	$.	5	PUNC	5	PUNC
+
+1	¶	¶	KON	KON	2	CD	2	CD
+2	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+3	dem	der	ART	ART	dat|sg|masc	4	NK	4	NK
+4	Namen	Name	NN	NN	dat|sg|masc	2	NK	2	NK
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Plinius	Plinius	NE	NE	nom|sg|masc	2	SB	2	SB
+2	schreibt	schreiben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	dass	daß	KOUS	KOUS	8	CP	8	CP
+5	es	es	PPER	PPER	nom|sg|neut|3	8	SB	8	SB
+6	noch	noch	ADV	ADV	8	MO	8	MO
+7	wahr	wahr	ADJD	ADJD	pos	8	PD	8	PD
+8	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	2	OC	2	OC
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	dass	dass	KOUS	KOUS	17	CP	17	CP
+11	wir	wir	PPER	PPER	nom|pl|*|1	17	SB	17	SB
+12	die	der	ART	ART	acc|pl|fem	14	NK	14	NK
+13	allerbesten	allerbester	ADJA	ADJA	gen|pl|masc|sup	14	NK	14	NK
+14	Kräuter	Kräuter	NN	NN	nom|sg|masc	17	OA	17	OA
+15	mit	mit	APPR	APPR	17	MO	17	MO
+16	Füßen	Fuß	NN	NN	dat|pl|masc	15	NK	15	NK
+17	treten	treten	VVFIN	VVFIN	pl|3|pres|ind	5	RE	5	RE
+18	,	,	$,	$,	17	PUNC	17	PUNC
+
+1	welcher	welcher	PWAT	PWAT	nom|sg|masc	2	NK	2	NK
+2	Kräfte	Kraft	NN	NN	acc|pl|fem	5	OA	5	OA
+3	wo	wo	PWAV	PWAV	5	MO	5	MO
+4	wir	wir	PPER	PPER	nom|pl|*|1	5	SB	5	SB
+5	wüssten	wüssten	VVFIN	VVFIN	pl|1|pres|ind	13	MO	13	MO
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	würden	werden	VAFIN	VAFIN	pl|1|pres|ind	-1	ROOT	-1	ROOT
+8	wir	wir	PPER	PPER	nom|pl|*|1	7	SB	7	SB
+9	sie	sie	PPER	PPER	acc|*|*|3	13	OA	13	OA
+10	in	in	APPR	APPR	13	MO	13	MO
+11	den	der	ART	ART	acc|sg|masc	12	NK	12	NK
+12	Himmel	Himmel	NN	NN	acc|sg|masc	10	NK	10	NK
+13	heben	heben	VVINF	VVINF	7	OC	7	OC
+14	.	.	$.	$.	13	PUNC	13	PUNC
+
+1	Laufen	laufen	VVFIN	VVFIN	nom|pl|fem	-1	ROOT	-1	ROOT
+2	in	in	APPR	APPR	8	MO	8	MO
+3	Arabien	Arabien	NE	NE	dat|sg|neut	2	NK	2	NK
+4	und	und	KON	KON	3	CD	3	CD
+5	Indien	Indien	NE	NE	dat|sg|neut	4	CJ	4	CJ
+6	Arzneien	Arznei	NN	NN	acc|pl|fem	8	OA	8	OA
+7	zu	zu	PTKZU	PTKZU	8	PM	8	PM
+8	suchen	suchen	VVINF	VVINF	1	OC	1	OC
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	und	und	KON	KON	1	CD	1	CD
+11	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	10	CJ	10	CJ
+12	es	es	PPER	PPER	nom|sg|neut|3	11	EP	11	EP
+13	vor	vor	APPR	APPR	11	MO	11	MO
+14	der	der	ART	ART	dat|sg|fem	15	NK	15	NK
+15	Tür	Tür	NN	NN	dat|sg|fem	13	NK	13	NK
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	das	der	PRELS	PRELS	acc|sg|neut	19	OA	19	OA
+18	wir	wir	PPER	PPER	nom|pl|*|1	19	SB	19	SB
+19	bedürfen	bedürfen	VVFIN	VVFIN	pl|1|pres|ind	15	RC	15	RC
+20	.	.	$.	$.	19	PUNC	19	PUNC
+
+1	Was	was	PWS	PWS	nom|sg|neut	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	verächtlicheres	verächtlich	PIS	PIS	nom|sg|neut	2	PD	2	PD
+4	weder	weder	KON	KON	6	CD	6	CD
+5	das	der	ART	ART	nom|sg|neut	6	NK	6	NK
+6	Weggras	Weggras	NN	NN	nom|sg|neut	3	AG	3	AG
+7	:	:	$.	$.	6	PUNC	6	PUNC
+
+1	Aber	aber	KON	KON	8	JU	8	JU
+2	seines	sein	PPOSAT	PPOSAT	gen|sg|masc	3	NK	3	NK
+3	Lobs	Lob	NN	NN	nom|sg|neut	8	SB	8	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	und	und	KON	KON	3	CD	3	CD
+6	seiner	sein	PPOSAT	PPOSAT	dat|sg|fem	7	NK	7	NK
+7	Kraft	Kraft	NN	NN	dat|sg|fem	5	CJ	5	CJ
+8	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+9	kein	kein	PIAT	PIAT	nom|sg|neut	10	NK	10	NK
+10	Ende	Ende	NN	NN	nom|sg|neut	8	PD	8	PD
+11	.	.	$.	$.	10	PUNC	10	PUNC
+
+1	Dieweil	dieweil	KOUS	KOUS	5	CP	5	CP
+2	es	es	PPER	PPER	nom|sg|neut|3	5	SB	5	SB
+3	nicht	nicht	PTKNEG	PTKNEG	4	NG	4	NG
+4	gepflanzt	pflanzen	VVPP	VVPP	5	OC	5	OC
+5	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	12	RE	12	RE
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	oder	oder	KON	KON	5	CD	5	CD
+8	nicht	nicht	PTKNEG	PTKNEG	9	NG	9	NG
+9	fremd	fremd	ADJD	ADJD	pos	10	MO	10	MO
+10	hergeführt	herführen	VVPP	VVPP	7	CJ	7	CJ
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	so	so	ADV	ADV	13	MO	13	MO
+13	achtet	achten	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+14	männiglich	männiglich	ADJD	ADJD	pos	15	PD	15	PD
+15	sein	sein	VAINF	VAINF	13	SB	13	SB
+16	nicht	nicht	PTKNEG	PTKNEG	13	NG	13	NG
+17	.	.	$.	$.	16	PUNC	16	PUNC
+
+1	Weggras	Weggras	NE	NE	nom|sg|neut	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	das	der	ART	ART	nom|sg|neut	5	NK	5	NK
+4	rechte	rechter	ADJA	ADJA	nom|sg|neut|pos	5	NK	5	NK
+5	Gras	Gras	NN	NN	nom|sg|neut	2	PD	2	PD
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	und	und	KON	KON	2	CD	2	CD
+8	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	7	CJ	7	CJ
+9	zu	zu	APPR	APPR	11	MO	11	MO
+10	Latein	Latein	NE	NE	dat|sg|neut	9	NK	9	NK
+11	genannt	nennen	VVPP	VVPP	8	OC	8	OC
+12	Centumnodia	Centumnodia	NE	NE	acc|sg|neut	8	SB	8	SB
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	oder	oder	KON	KON	12	CD	12	CD
+15	Proserpinatia	Proserpinatia	NN	NN	nom|pl|neut	14	CJ	14	CJ
+16	bei	bei	APPR	APPR	15	MNR	15	MNR
+17	dem	der	ART	ART	dat|sg|masc	18	NK	18	NK
+18	Dioscorides	Dioscoride	NN	NN	dat|sg|masc	16	NK	16	NK
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	auf	auf	APPR	APPR	16	CJ	16	CJ
+21	Griechisch	griechisch	NN	NN	acc|sg|neut	20	NK	20	NK
+22	Polygonion	Polygonion	NN	NN	nom|sg|fem	21	NK	21	NK
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	und	und	KON	KON	21	CD	21	CD
+25	Gramen	Gramen	NN	NN	acc|pl|neut	24	CJ	24	CJ
+26	.	.	$.	$.	25	PUNC	25	PUNC
+
+1	darum	darum	PROAV	PROAV	5	MO	5	MO
+2	wo	wo	PWAV	PWAV	5	MO	5	MO
+3	man	man	NE	NE	nom|sg|*	4	PNC	4	PNC
+4	Gras	Gras	NE	NE	nom|sg|*	5	SB	5	SB
+5	nennt	nennen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	in	in	APPR	APPR	5	MO	5	MO
+7	der	der	ART	ART	dat|sg|fem	8	NK	8	NK
+8	Arznei	Arznei	NN	NN	dat|sg|fem	6	NK	6	NK
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	so	so	ADV	ADV	11	MO	11	MO
+11	soll	sollen	VMFIN	VMFIN	sg|3|pres|ind	5	CJ	5	CJ
+12	man	man	PIS	PIS	nom|sg|*	11	SB	11	SB
+13	allerwegen	allerwegen	ADV	ADV	11	MO	11	MO
+14	dies	dieser	PDS	PDS	acc|sg|neut	15	OA	15	OA
+15	nehmen	nehmen	VVINF	VVINF	11	OC	11	OC
+16	.	.	$.	$.	15	PUNC	15	PUNC
+
+1	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	2	NK	2	NK
+2	Statt	statt	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+3	.	.	$.	$.	2	PUNC	2	PUNC
+
+1	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	2	NK	2	NK
+2	Statt	statt	NN	NN	nom|sg|fem	3	SB	3	SB
+3	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	auf	auf	APPR	APPR	3	MO	3	MO
+5	den	der	ART	ART	dat|pl|masc	6	NK	6	NK
+6	Kirchhöfen	Kirchhof	NN	NN	dat|pl|masc	4	NK	4	NK
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	auf	auf	APPR	APPR	4	CJ	4	CJ
+9	den	der	ART	ART	acc|sg|masc	10	NK	10	NK
+10	Wegen	Weg	NN	NN	dat|pl|masc	8	NK	8	NK
+11	und	und	KON	KON	10	CD	10	CD
+12	Straßen	Straße	NN	NN	dat|pl|fem	11	CJ	11	CJ
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	an	an	APPR	APPR	8	CJ	8	CJ
+15	den	der	ART	ART	acc|sg|masc	16	NK	16	NK
+16	Mauern	Mauer	NN	NN	acc|sg|masc	14	NK	14	NK
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	allenthalben	allenthalben	ADV	ADV	14	MO	14	MO
+19	,	,	$,	$,	18	PUNC	18	PUNC
+
+1	sät	säen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	sich	sich	PRF	PRF	acc|sg|3	1	OA	1	OA
+3	selbst	selbst	ADV	ADV	2	MNR	2	MNR
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Geschlecht	Geschlecht	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	und	und	KON	KON	1	CD	1	CD
+3	Gestalt	Gestalt	NN	NN	nom|sg|fem	2	CJ	2	CJ
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Dioscorides	Dioscorid	PWS	PWS	nom|sg|neut	6	SB	6	SB
+2	in	in	APPR	APPR	6	MO	6	MO
+3	dem	der	ART	ART	dat|sg|neut	5	NK	5	NK
+4	vierten	vierter	ADJA	ADJA	dat|sg|neut|pos	5	NK	5	NK
+5	Buch	Buch	NN	NN	dat|sg|neut	2	NK	2	NK
+6	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	das	der	PRELS	PRELS	nom|sg|neut	6	OA2	6	OA2
+
+1	dies	dieser	PDS	PDS	nom|sg|neut	2	AG	2	AG
+2	Kraut	Kraut	NN	NN	nom|sg|masc	3	SB	3	SB
+3	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	-1	ROOT	-1	ROOT
+4	zweierlei	zweierlei	PIS	PIS	*|*|*	3	PD	3	PD
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	Männlein	Männlein	NN	NN	nom|sg|*	4	APP	4	APP
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	und	und	KON	KON	3	CD	3	CD
+9	Weiblein	Weiblein	NE	NE	nom|sg|*	8	CJ	8	CJ
+10	.	.	$.	$.	9	PUNC	9	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Männlein	Männlein	NN	NN	nom|sg|neut	4	SB	4	SB
+3	-LRB-	-LRB-	NE	NE	nom|sg|*	2	PUNC	2	PUNC
+4	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	er	er	PPER	PPER	nom|sg|masc|3	4	OA	4	OA
+6	-RRB-	-RRB-	$LRB 	$LRB 	5	PUNC	5	PUNC
+7	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	4	CJ	4	CJ
+8	viele	vieler	PIAT	PIAT	acc|pl|fem	9	NK	9	NK
+9	Ästlein	Ästlein	NN	NN	acc|pl|masc	16	OA	16	OA
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	zart	zaren	ADJD	ADJD	9	PAR	9	PAR
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	11	CD	11	CD
+14	mit	mit	APPR	APPR	16	MO	16	MO
+15	Knöpflein	Knöpflein	NN	NN	dat|sg|masc	14	NK	14	NK
+16	unterschieden	unterscheiden	VVPP	VVPP	7	OC	7	OC
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	kriecht	kriechen	ADJD	ADJD	pos	13	CJ	13	CJ
+19	auf	auf	APPR	APPR	18	MO	18	MO
+20	der	der	ART	ART	dat|sg|fem	21	NK	21	NK
+21	Erde	Erde	NN	NN	dat|sg|fem	19	NK	19	NK
+22	wie	wie	KON	KON	21	CD	21	CD
+23	das	der	ART	ART	nom|sg|neut	25	NK	25	NK
+24	gemeine	gemein	ADJA	ADJA	nom|sg|neut|pos	25	NK	25	NK
+25	Gras	Gras	NN	NN	nom|sg|neut	22	CJ	22	CJ
+26	.	.	$.	$.	25	PUNC	25	PUNC
+
+1	Und	und	KON	KON	4	JU	4	JU
+2	seine	sein	PPOSAT	PPOSAT	nom|sg|fem	3	NK	3	NK
+3	Blättlein	Blättlein	NN	NN	nom|pl|masc	4	SB	4	SB
+4	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+5	gleich	gleich	ADV	ADV	7	MO	7	MO
+6	der	der	ART	ART	nom|sg|masc	7	NK	7	NK
+7	Rauten	Raut	NN	NN	nom|sg|masc	11	AMS	11	AMS
+8	Blättlein	Blättlein	NE	NE	nom|sg|masc	7	NK	7	NK
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	doch	doch	ADV	ADV	11	MO	11	MO
+11	länger	lang	ADJD	ADJD	comp	4	PD	4	PD
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	11	CD	11	CD
+14	auch	auch	ADV	ADV	15	MO	15	MO
+15	weicher	weich	ADJD	ADJD	comp	13	CJ	13	CJ
+16	.	.	$.	$.	15	PUNC	15	PUNC
+
+1	und	und	KON	KON	5	JU	5	JU
+2	einem	ein	ART	ART	dat|sg|masc	4	NK	4	NK
+3	jeden	jeder	PIAT	PIAT	dat|sg|masc	4	NK	4	NK
+4	Blättlein	Blättlein	NN	NN	dat|sg|neut	5	SB	5	SB
+5	hängt	hängen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+6	an	an	APPR	APPR	5	OP	5	OP
+7	seine	sein	PPOSAT	PPOSAT	acc|sg|fem	8	NK	8	NK
+8	Sämlein	Sämlein	NN	NN	acc|sg|fem	6	NK	6	NK
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	derenthalben	derenthalben	VVFIN	VVFIN	5	CJ	5	CJ
+11	es	es	PPER	PPER	acc|sg|neut|3	10	OA	10	OA
+12	das	der	ART	ART	nom|sg|neut	13	NK	13	NK
+13	Männlein	Männlein	NN	NN	nom|sg|neut	14	SB	14	SB
+14	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	11	RE	11	RE
+15	genannt	nennen	VVPP	VVPP	14	OC	14	OC
+16	.	.	$.	$.	15	PUNC	15	PUNC
+
+1	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	2	NK	2	NK
+2	Blümlein	Blümlein	NN	NN	nom|pl|masc	3	SB	3	SB
+3	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	weißlich	weißlich	ADJD	ADJD	pos	3	PD	3	PD
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	ein	ein	ART	ART	nom|sg|masc	7	NK	7	NK
+7	Teil	Teil	NN	NN	nom|sg|masc	3	CJ	3	CJ
+8	braunfarbig	braunfarbig	ADJD	ADJD	pos	7	PD	7	PD
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Weggras	Weggras	PWS	PWS	nom|sg|*	4	SB	4	SB
+2	das	der	ART	ART	acc|sg|neut	3	NK	3	NK
+3	Weiblein	Weiblein	NN	NN	acc|sg|neut	4	OA	4	OA
+4	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	auch	auch	ADV	ADV	8	MO	8	MO
+6	einen	ein	ART	ART	acc|sg|masc	8	NK	8	NK
+7	kleinen	klein	ADJA	ADJA	acc|sg|masc|pos	8	NK	8	NK
+8	Stängel	Stängel	NN	NN	acc|sg|masc	4	OA	4	OA
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	zart	zaren	TRUNC	TRUNC	8	CJ	8	CJ
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	gleich	gleich	ADV	ADV	14	MO	14	MO
+13	einem	ein	ART	ART	dat|sg|neut	14	NK	14	NK
+14	Rohre	Rohr	NN	NN	dat|sg|neut	10	APP	10	APP
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	oder	oder	KON	KON	10	CD	10	CD
+17	Binse	Binse	NE	NE	nom|sg|*	34	SB	34	SB
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	auch	auch	ADV	ADV	20	MO	20	MO
+20	mit	mit	APPR	APPR	17	CJ	17	CJ
+21	Knöpflein	Knöpflein	NN	NN	dat|sg|neut	20	NK	20	NK
+22	,	,	$,	$,	21	PUNC	21	PUNC
+23	und	und	KON	KON	20	CD	20	CD
+24	bei	bei	APPR	APPR	23	CJ	23	CJ
+25	den	der	ART	ART	acc|sg|masc	27	NK	27	NK
+26	selbigen	selbig	ADJA	ADJA	acc|sg|masc|pos	27	NK	27	NK
+27	Knöpflein	Knöpflein	NN	NN	acc|sg|masc	24	NK	24	NK
+28	runde	rund	ADJA	ADJA	nom|sg|neut|pos	29	NK	29	NK
+29	Blättlein	Blättlein	NN	NN	nom|sg|masc	27	AG	27	AG
+30	wie	wie	KOKOM	KOKOM	32	CM	32	CM
+31	eines	ein	ART	ART	gen|sg|masc	32	NK	32	NK
+32	Harzbaumes	Harzbaum	NN	NN	gen|sg|masc	29	CC	29	CC
+33	.	.	$.	$.	32	PUNC	32	PUNC
+34	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	16	CJ	16	CJ
+35	gern	gern	ADV	ADV	34	MO	34	MO
+36	an	an	APPR	APPR	34	MO	34	MO
+37	den	der	ART	ART	acc|sg|masc	39	NK	39	NK
+38	feuchten	feucht	ADJA	ADJA	acc|sg|masc|pos	39	NK	39	NK
+39	Stätten	Stätte	NN	NN	acc|sg|masc	36	NK	36	NK
+40	.	.	$.	$.	39	PUNC	39	PUNC
+
+1	Complexion	Complexion	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	.	.	$.	$.	1	PUNC	1	PUNC
+
+1	Weggras	Weggras	NE	NE	nom|sg|*	2	SB	2	SB
+2	wiewohl	wiewohl	VVFIN	VVFIN	sg|3|past|ind	-1	ROOT	-1	ROOT
+3	es	es	PPER	PPER	acc|sg|neut|3	2	OA	2	OA
+4	ein	ein	ART	ART	acc|sg|neut	6	NK	6	NK
+5	winzig	winzig	ADJD	ADJD	pos	6	MO	6	MO
+6	stopft	stopfen	VVFIN	VVFIN	sg|3|pres|ind	2	MO	2	MO
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	so	so	ADV	ADV	12	MO	12	MO
+9	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	6	CJ	6	CJ
+10	es	es	PPER	PPER	nom|sg|neut|3	9	SB	9	SB
+11	doch	doch	ADV	ADV	9	MO	9	MO
+12	mehr	mehr	PIS	PIS	*|*|*	9	OA	9	OA
+13	von	von	APPR	APPR	12	PG	12	PG
+14	der	der	ART	ART	dat|sg|fem	16	NK	16	NK
+15	wässrigen	wässrig	ADJA	ADJA	dat|sg|fem|pos	16	NK	16	NK
+16	Feuchtigkeit	Feuchtigkeit	NN	NN	dat|sg|fem	13	NK	13	NK
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	also	also	ADV	ADV	21	MO	21	MO
+19	dass	dass	KOUS	KOUS	21	CP	21	CP
+20	es	es	PPER	PPER	nom|sg|neut|3	21	SB	21	SB
+21	kühlt	kühlen	VVFIN	VVFIN	sg|3|pres|ind	12	MO	12	MO
+22	bis	bis	APPR	APPR	23	AC	23	AC
+23	auf	auf	APPR	APPR	21	MO	21	MO
+24	den	der	ART	ART	acc|sg|masc	25	NK	25	NK
+25	Anfang	Anfang	NN	NN	acc|sg|masc	23	NK	23	NK
+26	des	der	ART	ART	gen|sg|masc	28	NK	28	NK
+27	dritten	dritter	ADJA	ADJA	gen|sg|masc|pos	28	NK	28	NK
+28	Grads	Grad	NN	NN	gen|sg|masc	25	AG	25	AG
+29	.	.	$.	$.	28	PUNC	28	PUNC
+
+1	¶	¶	KON	KON	9	JU	9	JU
+2	Seine	sein	PPOSAT	PPOSAT	nom|sg|fem	3	NK	3	NK
+3	Kräfte	Kraft	NN	NN	nom|pl|fem	9	DA	9	DA
+4	und	und	KON	KON	3	CD	3	CD
+5	Arzneien	Arznei	NN	NN	acc|pl|fem	4	CJ	4	CJ
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	so	so	ADV	ADV	9	MO	9	MO
+8	ihm	ihm	PPER	PPER	dat|sg|masc|3	9	DA	9	DA
+9	zugibt	zugeben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+10	Dioscorides	Dioscoride	NE	NE	nom|sg|*	9	SB	9	SB
+11	.	.	$.	$.	10	PUNC	10	PUNC
+
+1	Weggras	Weggras	NE	NE	nom|sg|*	2	SB	2	SB
+2	stopft	stopfen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	und	und	KON	KON	2	CD	2	CD
+4	kühlt	kühlen	VVFIN	VVFIN	sg|3|pres|ind	3	CJ	3	CJ
+5	,	,	$,	$,	4	PUNC	4	PUNC
+
+1	deshalb	deshalb	PROAV	PROAV	2	MO	2	MO
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	23	SB	23	SB
+3	es	es	PPER	PPER	nom|sg|neut|3	2	SB	2	SB
+4	bequem	bequem	ADJD	ADJD	pos	21	MO	21	MO
+5	denen	der	PDS	PDS	dat|pl|*	21	DA	21	DA
+6	die	der	ART	ART	nom|sg|fem	9	SB	9	SB
+7	da	da	ADV	ADV	9	MO	9	MO
+8	Blut	Blut	NN	NN	acc|sg|neut	9	OA	9	OA
+9	speien	speien	VVFIN	VVFIN	sg|3|past|ind	5	RC	5	RC
+10	.	.	$.	$.	9	PUNC	9	PUNC
+11	Ist	sein	VAFIN	VAFIN	sg|3|pres|ind	21	MO	21	MO
+12	auch	auch	ADV	ADV	11	MO	11	MO
+13	gut	gut	ADJD	ADJD	pos	11	PD	11	PD
+14	für	für	APPR	APPR	13	MO	13	MO
+15	die	der	ART	ART	acc|sg|fem	17	NK	17	NK
+16	tote	tot	ADJA	ADJA	acc|sg|fem|pos	17	NK	17	NK
+17	Ruhr	Ruhr	NN	NN	acc|sg|fem	14	NK	14	NK
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	das	der	ART	ART	acc|sg|neut	20	NK	20	NK
+20	Saft	Saft	NN	NN	acc|sg|neut	21	OA	21	OA
+21	getrunken	trinken	VVPP	VVPP	3	RE	3	RE
+22	.	.	$.	$.	21	PUNC	21	PUNC
+23	dient	dienen	VVFIN	VVFIN	sg|3|pres|ind	34	SB	34	SB
+24	den	der	ART	ART	dat|pl|masc	25	NK	25	NK
+25	Cholerikern	Choleriker	NN	NN	dat|pl|masc	23	DA	23	DA
+26	,	,	$,	$,	25	PUNC	25	PUNC
+27	und	und	KON	KON	23	CD	23	CD
+28	denen	der	PRELS	PRELS	dat|pl|masc	32	DA	32	DA
+29	so	so	ADV	ADV	32	MO	32	MO
+30	der	der	ART	ART	nom|sg|masc	31	NK	31	NK
+31	Harn	Harn	NN	NN	nom|sg|masc	32	SB	32	SB
+32	tröpfelt	tröpfeln	VVFIN	VVFIN	sg|3|pres|ind	27	CJ	27	CJ
+33	.	.	$.	$.	32	PUNC	32	PUNC
+34	zieht	ziehen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+35	stark	stark	ADJD	ADJD	pos	34	MO	34	MO
+36	den	der	ART	ART	acc|sg|masc	37	NK	37	NK
+37	Harn	Harn	NN	NN	acc|sg|masc	34	OA	34	OA
+38	.	.	$.	$.	37	PUNC	37	PUNC
+39	mit	mit	APPR	APPR	41	MO	41	MO
+40	Wein	Wein	NN	NN	dat|sg|masc	39	NK	39	NK
+41	getrunken	trinken	VVPP	VVPP	34	OC	34	OC
+42	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	41	OC	41	OC
+43	gut	gut	ADJD	ADJD	pos	42	PD	42	PD
+44	für	für	APPR	APPR	43	MO	43	MO
+45	giftige	giftig	ADJA	ADJA	acc|pl|fem|pos	46	NK	46	NK
+46	Bisse	Bis	NN	NN	acc|pl|fem	44	NK	44	NK
+47	.	.	$.	$.	46	PUNC	46	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	3	NK	3	NK
+2	gebrannte	gebrannt	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Wasser	Wasser	NN	NN	nom|sg|neut	4	SB	4	SB
+4	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	19	OC	19	OC
+5	gut	gut	ADJD	ADJD	pos	9	MO	9	MO
+6	für	für	APPR	APPR	9	MO	9	MO
+7	das	der	ART	ART	acc|sg|neut	8	NK	8	NK
+8	Fieber	Fieber	NN	NN	acc|sg|neut	6	NK	6	NK
+9	getrunken	trinken	VVPP	VVPP	4	OC	4	OC
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	eine	ein	ART	ART	acc|sg|fem	12	NK	12	NK
+12	Stunde	Stunde	NN	NN	acc|sg|fem	17	OA	17	OA
+13	ehe	ehe	FM	FM	12	MNR	12	MNR
+14	denn	denn	FM	FM	13	UC	13	UC
+15	es	es	PPER	PPER	nom|sg|neut|3	17	SB	17	SB
+16	einen	ein	PIS	PIS	acc|sg|masc	17	DA	17	DA
+17	ankommt	ankommen	VVFIN	VVFIN	sg|3|pres|ind	4	RC	4	RC
+18	.	.	$.	$.	17	PUNC	17	PUNC
+19	stillt	stillen	VVFIN	VVFIN	sg|3|pres|ind	23	SB	23	SB
+20	die	der	ART	ART	nom|sg|fem	21	NK	21	NK
+21	Menstrua	Menstrua	NE	NE	nom|sg|fem	19	SB	19	SB
+22	.	.	$.	$.	21	PUNC	21	PUNC
+23	heilt	heilen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+24	die	der	ART	ART	acc|pl|neut	25	NK	25	NK
+25	Ohren	Ohr	NN	NN	acc|pl|neut	23	OA	23	OA
+26	so	so	ADV	ADV	28	MO	28	MO
+27	Eiter	Eiter	NN	NN	acc|sg|masc	28	OA	28	OA
+28	schwären	schwären	VVINF	VVINF	23	OC	23	OC
+29	.	.	$.	$.	28	PUNC	28	PUNC
+30	in	in	APPR	APPR	34	MO	34	MO
+31	Wein	Wein	NN	NN	acc|sg|masc	30	NK	30	NK
+32	und	und	KON	KON	31	CD	31	CD
+33	Honig	Honig	NN	NN	acc|sg|masc	32	CJ	32	CJ
+34	gesotten	gesotten	VVPP	VVPP	35	MO	35	MO
+35	heilt	heilen	VVFIN	VVFIN	sg|3|pres|ind	28	OC	28	OC
+36	die	der	ART	ART	acc|pl|masc	37	NK	37	NK
+37	Schäden	Schaden	NN	NN	acc|pl|masc	35	OA	35	OA
+38	an	an	APPR	APPR	37	MNR	37	MNR
+39	dem	der	ART	ART	dat|sg|masc	41	NK	41	NK
+40	heimlichen	heimlich	ADJA	ADJA	dat|sg|masc|pos	41	NK	41	NK
+41	Ort	Ort	NN	NN	dat|sg|masc	38	NK	38	NK
+42	.	.	$.	$.	41	PUNC	41	PUNC
+43	löscht	löschen	VVFIN	VVFIN	sg|3|pres|ind	35	SB	35	SB
+44	das	der	ART	ART	nom|sg|neut	46	NK	46	NK
+45	heilige	heilig	ADJA	ADJA	nom|sg|neut|pos	46	NK	46	NK
+46	Feuer	Feuer	NN	NN	nom|sg|neut	43	SB	43	SB
+47	,	,	$,	$,	46	PUNC	46	PUNC
+48	hitzige	hitzig	ADJA	ADJA	acc|pl|neut|pos	49	NK	49	NK
+49	Geschwüre	Geschwür	NN	NN	acc|pl|neut	46	CJ	46	CJ
+50	und	und	KON	KON	49	CD	49	CD
+51	Wunden	Wunde	NN	NN	acc|pl|fem	50	CJ	50	CJ
+52	.	.	$.	$.	51	PUNC	51	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	2	NK	2	NK
+2	Weiblein	Weiblein	NN	NN	nom|sg|neut	3	SB	3	SB
+3	hat	haben	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	alle	aller	PIAT	PIAT	acc|pl|fem	5	NK	5	NK
+5	Kräfte	Kraft	NN	NN	acc|pl|fem	3	OA	3	OA
+6	wie	wie	KOKOM	KOKOM	8	CM	8	CM
+7	das	der	ART	ART	nom|sg|neut	8	NK	8	NK
+8	Männlein	Männlein	NE	NE	nom|sg|neut	5	CC	5	CC
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Welsche	welsch	ADJA	ADJA	nom|pl|fem|pos	2	NK	2	NK
+2	Bohnen	Bohnen	NN	NN	nom|pl|fem	-1	ROOT	-1	ROOT
+3	.	.	$.	$.	2	PUNC	2	PUNC
+
+1	¶	¶	KON	KON	2	CD	2	CD
+2	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+3	dem	der	ART	ART	dat|sg|masc	4	NK	4	NK
+4	Namen	Name	NN	NN	dat|sg|masc	2	NK	2	NK
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Diese	dieser	PDAT	PDAT	nom|pl|fem	2	NK	2	NK
+2	Bohnen	Bohne	NN	NN	nom|pl|fem	3	SB	3	SB
+3	bedürfen	bedürfen	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	auch	auch	ADV	ADV	5	MO	5	MO
+5	wohl	wohl	ADV	ADV	3	MO	3	MO
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	dass	daß	KOUS	KOUS	13	CP	13	CP
+8	man	man	PIS	PIS	nom|sg|*	13	SB	13	SB
+9	ihnen	ihnen	PPER	PPER	dat|pl|*|3	13	DA	13	DA
+10	einen	ein	ART	ART	acc|sg|masc	12	NK	12	NK
+11	anderen	anderer	ADJA	ADJA	acc|sg|masc|pos	12	NK	12	NK
+12	Namen	Name	NN	NN	acc|sg|masc	13	OA	13	OA
+13	gebe	geben	VVFIN	VVFIN	sg|3|pres|subj	3	OC	3	OC
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	weder	weder	KON	KON	3	CD	3	CD
+16	welsche	welsch	ADJA	ADJA	nom|pl|fem|pos	17	NK	17	NK
+17	Bohnen	Bohnen	NN	NN	nom|pl|fem	19	SB	19	SB
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	15	CJ	15	CJ
+20	auch	auch	ADV	ADV	22	MO	22	MO
+21	erst	erst	ADV	ADV	22	MO	22	MO
+22	aufgekommen	aufnekmen	VVPP	VVPP	19	PD	19	PD
+23	in	in	APPR	APPR	22	MO	22	MO
+24	kurzen	kurz	ADJA	ADJA	dat|pl|neut|pos	25	NK	25	NK
+25	Jahren	Jahr	NN	NN	dat|pl|neut	23	NK	23	NK
+26	in	in	APPR	APPR	22	MO	22	MO
+27	unseren	unser	PPOSAT	PPOSAT	dat|pl|neut	28	NK	28	NK
+28	Landen	Lande	NN	NN	dat|pl|neut	26	NK	26	NK
+29	,	,	$,	$,	28	PUNC	28	PUNC
+30	also	also	ADV	ADV	41	MO	41	MO
+31	,	,	$,	$,	30	PUNC	30	PUNC
+32	dass	dass	KOUS	KOUS	41	CP	41	CP
+33	sie	sie	PPER	PPER	nom|pl|*|3	41	SB	41	SB
+34	jetzt	jetzt	ADV	ADV	40	MO	40	MO
+35	und	und	KON	KON	34	CD	34	CD
+36	allenthalben	allenthalben	ADV	ADV	35	CJ	35	CJ
+37	in	in	APPR	APPR	40	MO	40	MO
+38	den	der	ART	ART	dat|pl|masc	39	NK	39	NK
+39	Gärten	Garten	NN	NN	dat|pl|masc	37	NK	37	NK
+40	gezogen	ziehen	VVPP	VVPP	41	OC	41	OC
+41	werden	werden	VAFIN	VAFIN	pl|3|pres|ind	22	MO	22	MO
+42	.	.	$.	$.	41	PUNC	41	PUNC
+
+1	D.	Der	KOUS	KOUS	7	CP	7	CP
+2	Hieronymus	Hieronymus	NE	NE	nom|sg|masc	3	PNC	3	PNC
+3	Bock	Bock	NE	NE	nom|sg|masc	7	SB	7	SB
+4	von	von	APPR	APPR	3	MNR	3	MNR
+5	Zweienbrücken	Zweienbrück	NE	NE	dat|pl|masc	6	PNC	6	PNC
+6	-LRB-	-LRB-	NE	NE	nom|sg|masc	4	PUNC	4	PUNC
+7	welchem	welcher	VVFIN	VVFIN	dat|sg|masc	-1	ROOT	-1	ROOT
+8	ich	ich	PPER	PPER	nom|sg|*|1	7	SB	7	SB
+9	den	der	ART	ART	acc|sg|masc	10	NK	10	NK
+10	Preis	Preis	NN	NN	acc|sg|masc	11	OA	11	OA
+11	gebe	geben	VVFIN	VVFIN	sg|3|pres|subj	7	OC	7	OC
+12	für	für	APPR	APPR	11	MO	11	MO
+13	alle	aller	PIAT	PIAT	acc|pl|fem	14	NK	14	NK
+14	Gelehrten	Gelehrt	NN	NN	acc|pl|fem	12	NK	12	NK
+15	so	so	ADV	ADV	11	MO	11	MO
+16	noch	noch	ADV	ADV	15	CC	15	CC
+17	bei	bei	APPR	APPR	16	CJ	16	CJ
+18	dem	der	ART	ART	dat|sg|neut	19	NK	19	NK
+19	Leben	Leben	NN	NN	dat|sg|neut	17	NK	17	NK
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	und	und	KON	KON	17	CD	17	CD
+22	mir	sich	PPER	PPER	dat|sg|*|1	23	DA	23	DA
+23	bekannt	bekannt	ADJD	ADJD	pos	34	PD	34	PD
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	in	in	APPR	APPR	32	MO	32	MO
+26	Erfahrung	Erfahrung	NN	NN	dat|sg|fem	25	NK	25	NK
+27	und	und	KON	KON	26	CD	26	CD
+28	Erkenntnis	Erkenntnis	NN	NN	dat|sg|fem	27	CJ	27	CJ
+29	der	der	ART	ART	gen|pl|masc	30	NK	30	NK
+30	Kräuter	Kräuter	NN	NN	gen|pl|masc	26	AG	26	AG
+31	-RRB-	-RRB-	$LRB 	$LRB 	30	PUNC	30	PUNC
+32	sagt	sagen	VVFIN	VVFIN	sg|3|pres|ind	21	CJ	21	CJ
+33	es	es	PPER	PPER	nom|sg|neut|3	32	SB	32	SB
+34	sei	sein	VAFIN	VAFIN	sg|3|pres|subj	32	OC	32	OC
+35	Smylax	Smylax	NE	NE	nom|sg|masc	36	PNC	36	PNC
+36	hortensis	hortensis	NE	NE	nom|sg|masc	34	SB	34	SB
+37	,	,	$,	$,	36	PUNC	36	PUNC
+38	davon	davon	PROAV	PROAV	34	MO	34	MO
+39	Dioscorides	Dioscoride	NE	NE	nom|sg|neut	40	SB	40	SB
+40	schreibt	schreiben	VVFIN	VVFIN	sg|3|pres|ind	33	RE	33	RE
+41	an	an	APPR	APPR	40	MO	40	MO
+42	dem	der	ART	ART	dat|sg|neut	44	NK	44	NK
+43	zweiten	zweiter	ADJA	ADJA	dat|sg|neut|pos	44	NK	44	NK
+44	Buch	Buch	NN	NN	dat|sg|neut	41	NK	41	NK
+45	.	.	$.	$.	44	PUNC	44	PUNC
+
+1	Wir	wir	PPER	PPER	nom|pl|*|1	2	SB	2	SB
+2	haben	haben	VAFIN	VAFIN	pl|1|pres|ind	-1	ROOT	-1	ROOT
+3	auch	auch	ADV	ADV	4	MO	4	MO
+4	beide	beide	PIS	PIS	acc|pl|*	12	OA	12	OA
+5	das	der	ART	ART	nom|sg|neut	6	NK	6	NK
+6	Kapitel	Kapitel	NN	NN	nom|sg|neut	4	AG	4	AG
+7	Dioscorides	Dioscoride	NN	NN	nom|sg|neut	6	NK	6	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	mit	mit	APPR	APPR	12	MO	12	MO
+10	diesen	dieser	PDAT	PDAT	dat|pl|fem	11	NK	11	NK
+11	Bohnen	Bohnen	NN	NN	dat|pl|fem	9	NK	9	NK
+12	konferiert	konferieren	VVPP	VVPP	2	OC	2	OC
+13	,	,	$,	$,	12	PUNC	12	PUNC
+
+1	und	und	KON	KON	2	JU	2	JU
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	nichts	nichts	PIS	PIS	*|*|neut	2	SB	2	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	da	da	KOUS	KOUS	9	CP	9	CP
+6	sie	sie	PPER	PPER	nom|sg|fem|3	9	SB	9	SB
+7	nicht	nicht	PTKNEG	PTKNEG	9	NG	9	NG
+8	miteinander	miteinander	ADV	ADV	9	MO	9	MO
+9	zusagen	zusagen	VVFIN	VVFIN	pl|3|pres|ind	2	MO	2	MO
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	und	und	KON	KON	2	CD	2	CD
+12	übereinkommen	übereinkommen	ADJD	ADJD	11	CJ	11	CJ
+13	.	.	$.	$.	12	PUNC	12	PUNC
+
+1	Ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	auch	auch	ADV	ADV	4	MO	4	MO
+3	ein	ein	ART	ART	nom|sg|neut	4	NK	4	NK
+4	Problem	Problem	NN	NN	nom|sg|neut	1	SB	1	SB
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	welches	welcher	PWS	PWS	acc|sg|neut	7	NK	7	NK
+7	wir	wir	PPER	PPER	nom|pl|*|1	9	SB	9	SB
+8	für	für	APPR	APPR	6	MO	6	MO
+9	wollen	wollen	VMFIN	VMFIN	pl|1|pres|ind	4	PAR	4	PAR
+10	gehalten	halten	VVPP	VVPP	11	OC	11	OC
+11	haben	haben	VAINF	VAINF	pl|3|pres|ind	9	OC	9	OC
+12	den	der	ART	ART	acc|sg|masc	13	NK	13	NK
+13	Gelehrten	Gelehrt	NN	NN	acc|sg|masc	11	OA	11	OA
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	dasselbige	dasselbig	ADJA	ADJA	sg|3|pres|subj	18	OA	18	OA
+16	weiter	weiter	ADV	ADV	18	MO	18	MO
+17	zu	zu	PTKZU	PTKZU	18	PM	18	PM
+18	bedenken	bedenken	VVINF	VVINF	13	OC	13	OC
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	und	und	KON	KON	18	CD	18	CD
+21	zu	zu	PTKZU	PTKZU	22	PM	22	PM
+22	disputieren	disputieren	VVINF	VVINF	20	CJ	20	CJ
+23	.	.	$.	$.	22	PUNC	22	PUNC
+
+1	Beschreibung	Beschreibung	NN	NN	nom|sg|fem	-1	ROOT	-1	ROOT
+2	der	der	ART	ART	gen|pl|fem	4	NK	4	NK
+3	Welschen	welsch	ADJA	ADJA	gen|pl|fem|pos	4	NK	4	NK
+4	Bohnen	Bohnen	NN	NN	gen|pl|fem	1	AG	1	AG
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Welsche	welsch	ADJA	ADJA	nom|pl|fem|pos	2	NK	2	NK
+2	Bohnen	Bohnen	NN	NN	nom|pl|fem	3	SB	3	SB
+3	wachsen	wachsen	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	in	in	APPR	APPR	3	MO	3	MO
+5	die	der	ART	ART	acc|sg|fem	6	NK	6	NK
+6	Höhe	Höhe	NN	NN	acc|sg|fem	4	NK	4	NK
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	und	und	KON	KON	3	CD	3	CD
+9	flechten	flechen	VVFIN	VVFIN	pl|3|past|subj	8	CJ	8	CJ
+10	sich	sich	PRF	PRF	acc|pl|3	9	OA	9	OA
+11	aus	aus	PTKVZ	PTKVZ	9	SVP	9	SVP
+12	wie	wie	KOKOM	KOKOM	14	CM	14	CM
+13	die	der	ART	ART	nom|pl|neut	14	NK	14	NK
+14	Weinreben	Weinreben	NN	NN	nom|pl|neut	9	MO	9	MO
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	Hopfen	Hopfen	NN	NN	nom|pl|neut	14	CJ	14	CJ
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	und	und	KON	KON	16	CD	16	CD
+19	Geißblatt	Geißblatt	NN	NN	dat|sg|neut	18	CJ	18	CJ
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	also	also	ADV	ADV	30	MO	30	MO
+22	,	,	$,	$,	21	PUNC	21	PUNC
+23	dass	daß	KOUS	KOUS	30	CP	30	CP
+24	man	man	PIS	PIS	nom|sg|*	30	SB	30	SB
+25	auch	auch	ADV	ADV	30	MO	30	MO
+26	eine	ein	ART	ART	acc|sg|fem	27	NK	27	NK
+27	Halde	Halde	NN	NN	acc|sg|fem	29	OA	29	OA
+28	daraus	daraus	PROAV	PROAV	29	MO	29	MO
+29	machen	machen	VVINF	VVINF	30	OC	30	OC
+30	möchte	möchten	VMFIN	VMFIN	sg|3|pres|ind	19	PAR	19	PAR
+31	,	,	$,	$,	30	PUNC	30	PUNC
+32	und	und	KON	KON	19	CD	19	CD
+33	kleine	klein	ADJA	ADJA	acc|pl|neut|pos	34	NK	34	NK
+34	Zelte	Zelt	NN	NN	nom|pl|neut	32	CJ	32	CJ
+35	,	,	$,	$,	34	PUNC	34	PUNC
+36	oder	oder	KON	KON	34	CD	34	CD
+37	Hüttlein	Hüttlein	NE	NE	nom|sg|*	39	OA	39	OA
+38	damit	damit	PROAV	PROAV	39	MO	39	MO
+39	überziehen	überziehen	VVINF	VVINF	36	CJ	36	CJ
+40	und	und	KON	KON	39	CD	39	CD
+41	überleiten	überleiten	VVINF	VVINF	40	CJ	40	CJ
+42	.	.	$.	$.	41	PUNC	41	PUNC
+
+1	Die	der	ART	ART	nom|pl|neut	2	NK	2	NK
+2	Blätter	Blatt	NN	NN	nom|pl|neut	3	SB	3	SB
+3	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	Epheus	Epheus	NN	NN	nom|pl|neut	3	PD	3	PD
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	aber	aber	KON	KON	3	CD	3	CD
+7	groß	groß	ADJD	ADJD	pos	11	MO	11	MO
+8	.	.	$.	$.	7	PUNC	7	PUNC
+9	die	der	ART	ART	nom|sg|fem	10	NK	10	NK
+10	Blümlein	Blümlein	NN	NN	nom|sg|fem	11	SB	11	SB
+11	weiß	weiß	VVFIN	VVFIN	sg|3|pres|ind	23	MO	23	MO
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	wie	wie	KOKOM	KOKOM	16	CM	16	CM
+14	einer	ein	ART	ART	dat|sg|fem	16	NK	16	NK
+15	anderen	anderer	ADJA	ADJA	dat|sg|fem|pos	16	NK	16	NK
+16	Bohne	Bohne	NN	NN	dat|sg|fem	11	MO	11	MO
+17	.	.	$.	$.	16	PUNC	16	PUNC
+18	und	und	KON	KON	11	CD	11	CD
+19	die	der	ART	ART	acc|pl|masc	20	NK	20	NK
+20	Stängel	Stängel	NN	NN	acc|pl|masc	21	OA	21	OA
+21	zart	zaren	VVFIN	VVFIN	sg|3|pres|ind	18	CJ	18	CJ
+22	,	,	$,	$,	21	PUNC	21	PUNC
+23	hängen	hängen	VVFIN	VVFIN	pl|3|pres|ind	6	CJ	6	CJ
+24	sich	sich	PRF	PRF	acc|pl|3	23	OA	23	OA
+25	allenthalben	allenthalben	ADV	ADV	23	MO	23	MO
+26	an	an	PTKVZ	PTKVZ	23	SVP	23	SVP
+27	mit	mit	APPR	APPR	23	MO	23	MO
+28	seinem	sein	PPOSAT	PPOSAT	dat|sg|masc	29	NK	29	NK
+29	Gelenk	Gelenk	NN	NN	dat|sg|masc	27	NK	27	NK
+30	,	,	$,	$,	29	PUNC	29	PUNC
+31	was	was	PRELS	PRELS	acc|sg|neut	33	OA	33	OA
+32	es	es	PPER	PPER	nom|sg|neut|3	34	SB	34	SB
+33	erreichen	erreichen	VVINF	VVINF	34	OC	34	OC
+34	mag	mögen	VMFIN	VMFIN	sg|3|pres|ind	29	RC	29	RC
+35	.	.	$.	$.	34	PUNC	34	PUNC
+
+1	Bringt	bringen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	zuletzt	zuletzt	ADV	ADV	1	MO	1	MO
+3	Schiffe	Schiff	NN	NN	acc|pl|neut	1	SB	1	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	in	in	APPR	APPR	10	MO	10	MO
+6	welchen	welcher	PRELS	PRELS	dat|pl|neut	5	NK	5	NK
+7	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	3	CJ	3	CJ
+8	Bohnen	Bohnen	NN	NN	nom|pl|fem	7	SB	7	SB
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	geformt	formen	VVPP	VVPP	7	OC	7	OC
+11	wie	wie	KOKOM	KOKOM	13	CM	13	CM
+12	die	der	ART	ART	nom|pl|fem	13	NK	13	NK
+13	Nieren	Niere	NN	NN	nom|pl|fem	8	CC	8	CC
+14	der	der	ART	ART	gen|pl|neut	15	NK	15	NK
+15	Tiere	Tier	NN	NN	gen|pl|neut	13	AG	13	AG
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	allerlei	allerlei	PIAT	PIAT	*|*|*	18	NK	18	NK
+18	Farben	Farbe	NN	NN	nom|pl|fem	13	CJ	13	CJ
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	gelb	gelb	ADJD	ADJD	pos	18	CJ	18	CJ
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	grau	grau	ADJD	ADJD	pos	20	CJ	20	CJ
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	weiß	weiß	ADJD	ADJD	sg|3|pres|ind	22	CJ	22	CJ
+25	,	,	$,	$,	24	PUNC	24	PUNC
+26	braun	braun	ADJD	ADJD	pos	24	CJ	24	CJ
+27	,	,	$,	$,	26	PUNC	26	PUNC
+28	gesprenkelt	sprenkeln	ADJD	ADJD	26	CJ	26	CJ
+29	.	.	$.	$.	28	PUNC	28	PUNC
+
+1	Und	und	KON	KON	3	JU	3	JU
+2	also	also	ADV	ADV	3	MO	3	MO
+3	lautet	lauten	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	auch	auch	ADV	ADV	6	MO	6	MO
+5	gar	gar	ADV	ADV	6	MO	6	MO
+6	genau	genau	ADJD	ADJD	pos	3	MO	3	MO
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	die	der	ART	ART	nom|sg|fem	9	NK	9	NK
+9	Beschreibung	Beschreibung	NN	NN	nom|sg|fem	3	SB	3	SB
+10	des	der	ART	ART	gen|sg|masc	12	NK	12	NK
+11	Smylax	Smylax	NE	NE	*|*|*	12	PNC	12	PNC
+12	hortensis	hortensis	NE	NE	gen|sg|*	9	AG	9	AG
+13	bei	bei	APPR	APPR	3	MO	3	MO
+14	dem	der	ART	ART	dat|sg|masc	15	NK	15	NK
+15	Dioscorides	Dioscoride	NN	NN	dat|sg|masc	13	NK	13	NK
+16	.	.	$.	$.	15	PUNC	15	PUNC
+
+1	¶	¶	ADJA	ADJA	nom|pl|fem|pos	2	NK	2	NK
+2	Kräfte	Kraft	NN	NN	nom|pl|fem	-1	ROOT	-1	ROOT
+3	dieser	dieser	PDAT	PDAT	gen|pl|fem	4	NK	4	NK
+4	Bohnen	Bohnen	NN	NN	gen|pl|fem	2	AG	2	AG
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+2	eben	eben	ADV	ADV	4	MO	4	MO
+3	der	der	ART	ART	dat|sg|fem	4	NK	4	NK
+4	Kraft	Kraft	NN	NN	dat|sg|fem	1	SB	1	SB
+5	wie	wie	KON	KON	4	CD	4	CD
+6	andere	anderer	ADJA	ADJA	nom|pl|fem|pos	7	NK	7	NK
+7	Bohnen	Bohnen	NN	NN	nom|pl|fem	5	CJ	5	CJ
+8	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	1	PD	1	PD
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	aber	aber	KON	KON	8	CD	8	CD
+11	etwas	etwas	ADV	ADV	12	MO	12	MO
+12	zarter	zart	ADJD	ADJD	comp	10	CJ	10	CJ
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	und	und	KON	KON	12	CD	12	CD
+15	freundlicher	freundlich	ADJD	ADJD	comp	17	MO	17	MO
+16	zu	zu	PTKZU	PTKZU	17	PM	17	PM
+17	essen	essen	VVINF	VVINF	14	CJ	14	CJ
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	wo	wo	PWAV	PWAV	22	MO	22	MO
+20	man	man	PIS	PIS	nom|sg|*	22	SB	22	SB
+21	sie	sie	PPER	PPER	nom|sg|fem|3	22	OA	22	OA
+22	weiß	weiß	VVFIN	VVFIN	sg|3|pres|ind	17	OC	17	OC
+23	zu	zu	PTKZU	PTKZU	24	PM	24	PM
+24	bereiten	bereiten	VVINF	VVINF	22	OC	22	OC
+25	.	.	$.	$.	24	PUNC	24	PUNC
+
+1	Dioscorides	Dioscorides	NN	NN	nom|sg|neut	2	SB	2	SB
+2	gibt	geben	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	ihnen	ihnen	PPER	PPER	dat|pl|*|3	2	DA	2	DA
+4	zu	zu	PTKVZ	PTKVZ	2	SVP	2	SVP
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	dass	daß	KOUS	KOUS	9	CP	9	CP
+7	sie	sie	PPER	PPER	nom|pl|*|3	9	SB	9	SB
+8	machen	machen	PIS	PIS	9	OA	9	OA
+9	harnen	harnen	VVFIN	VVFIN	pl|3|pres|ind	2	MO	2	MO
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	und	und	KON	KON	2	CD	2	CD
+12	schwere	schwer	ADJA	ADJA	nom|pl|masc|pos	13	NK	13	NK
+13	Träume	Traum	NN	NN	nom|pl|masc	11	CJ	11	CJ
+14	.	.	$.	$.	13	PUNC	13	PUNC
+
+1	Hauswurz	Hauswurz	ADJD	ADJD	nom|sg|neut	-1	ROOT	-1	ROOT
+2	,	,	$,	$,	1	PUNC	1	PUNC
+3	oder	oder	KON	KON	1	CD	1	CD
+4	Dunderbar	Dunderbar	ADJD	ADJD	pos	3	CJ	3	CJ
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Von	von	APPR	APPR	-1	ROOT	-1	ROOT
+2	dem	der	ART	ART	dat|sg|masc	3	NK	3	NK
+3	Namen	Name	NN	NN	dat|sg|masc	1	NK	1	NK
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	Die	der	ART	ART	nom|sg|fem	2	NK	2	NK
+2	Hauswurz	Hauswurz	NN	NN	nom|sg|fem	3	SB	3	SB
+3	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	9	OC	9	OC
+4	auf	auf	APPR	APPR	6	MO	6	MO
+5	Griechisch	griechisch	NN	NN	acc|sg|neut	4	NK	4	NK
+6	genannt	nennen	VVPP	VVPP	3	OC	3	OC
+7	Aizaum	Aizaum	NN	NN	acc|sg|neut	6	MO	6	MO
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	spricht	sprechen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+10	Dioscorides	Dioscoride	NE	NE	nom|sg|*	9	SB	9	SB
+11	.	.	$.	$.	10	PUNC	10	PUNC
+12	aus	aus	APPR	APPR	9	MO	9	MO
+13	der	der	ART	ART	dat|sg|fem	14	NK	14	NK
+14	Ursache	Ursache	NN	NN	dat|sg|fem	12	NK	12	NK
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	dass	daß	KOUS	KOUS	19	CP	19	CP
+17	es	es	PPER	PPER	nom|sg|neut|3	19	SB	19	SB
+18	allerwegen	allerwegen	ADV	ADV	19	MO	19	MO
+19	blüht	blühen	VVFIN	VVFIN	sg|3|pres|ind	9	MO	9	MO
+20	,	,	$,	$,	19	PUNC	19	PUNC
+21	Winter	Winter	NN	NN	nom|sg|masc	17	APP	17	APP
+22	und	und	KON	KON	21	CD	21	CD
+23	Sommer	Sommer	NN	NN	dat|sg|masc	22	CJ	22	CJ
+24	.	.	$.	$.	23	PUNC	23	PUNC
+
+1	Ein	ein	ART	ART	nom|sg|neut	3	NK	3	NK
+2	sonderliches	sonderlich	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Mirakel	Mirakel	NN	NN	nom|sg|neut	16	SB	16	SB
+4	der	der	ART	ART	gen|sg|fem	5	NK	5	NK
+5	Natur	Natur	NN	NN	gen|sg|fem	3	AG	3	AG
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	dass	daß	KOUS	KOUS	16	CP	16	CP
+8	es	es	PPER	PPER	nom|sg|neut|3	16	EP	16	EP
+9	auf	auf	APPR	APPR	16	MO	16	MO
+10	den	der	ART	ART	dat|pl|neut	11	NK	11	NK
+11	Dächern	Dach	NN	NN	dat|pl|neut	9	NK	9	NK
+12	,	,	$,	$,	11	PUNC	11	PUNC
+13	und	und	KON	KON	9	CD	9	CD
+14	allertrockensten	allertrocken	PIAT	PIAT	dat|pl|masc	15	NK	15	NK
+15	Orten	Ort	NN	NN	dat|pl|masc	13	CJ	13	CJ
+16	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	und	und	KON	KON	15	CD	15	CD
+19	doch	doch	ADV	ADV	22	MO	22	MO
+20	so	so	ADV	ADV	21	MO	21	MO
+21	feucht	feuchen	ADJD	ADJD	pos	22	PD	22	PD
+22	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	18	CJ	18	CJ
+23	.	.	$.	$.	22	PUNC	22	PUNC
+24	desgleichen	desgleichen	ADV	ADV	22	MO	22	MO
+25	,	,	$,	$,	24	PUNC	24	PUNC
+26	dass	daß	KOUS	KOUS	36	CP	36	CP
+27	es	es	PPER	PPER	nom|sg|neut|3	36	SB	36	SB
+28	dem	der	ART	ART	dat|sg|masc	29	NK	29	NK
+29	Sonnenglanz	Sonnenglanz	NN	NN	dat|sg|masc	36	DA	36	DA
+30	und	und	KON	KON	29	CD	29	CD
+31	Luft	Luft	NN	NN	dat|sg|fem	30	CJ	30	CJ
+32	mehr	mehr	ADV	ADV	36	MO	36	MO
+33	weder	weder	KON	KON	36	CD	36	CD
+34	andere	anderer	ADJA	ADJA	nom|pl|masc|pos	35	NK	35	NK
+35	Kräuter	Kräuter	NN	NN	nom|pl|masc	36	OA	36	OA
+36	eröffnet	eröffnen	VVFIN	VVFIN	sg|3|pres|ind	22	MO	22	MO
+37	,	,	$,	$,	36	PUNC	36	PUNC
+38	und	und	KON	KON	27	CD	27	CD
+39	dennoch	dennoch	ADV	ADV	42	MO	42	MO
+40	so	so	ADV	ADV	41	MO	41	MO
+41	kalt	kalt	ADJD	ADJD	pos	42	PD	42	PD
+42	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	38	CJ	38	CJ
+43	.	.	$.	$.	42	PUNC	42	PUNC
+44	Daher	daher	PROAV	PROAV	47	MO	47	MO
+45	der	der	ART	ART	nom|sg|masc	46	NK	46	NK
+46	Aberglaube	Aberglaube	NN	NN	nom|sg|masc	47	SB	47	SB
+47	kam	kommen	VVFIN	VVFIN	sg|3|past|ind	42	SB	42	SB
+48	,	,	$,	$,	47	PUNC	47	PUNC
+49	welcher	welcher	PRELS	PRELS	nom|sg|masc	57	SB	57	SB
+50	auf	auf	APPR	APPR	57	MO	57	MO
+51	den	der	ART	ART	acc|sg|masc	53	NK	53	NK
+52	heutigen	heutig	ADJA	ADJA	acc|sg|masc|pos	53	NK	53	NK
+53	Tag	Tag	NN	NN	acc|sg|masc	50	NK	50	NK
+54	noch	noch	KON	KON	50	CD	50	CD
+55	bei	bei	APPR	APPR	54	CJ	54	CJ
+56	vielen	vieler	PIS	PIS	dat|pl|*	55	NK	55	NK
+57	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	46	RC	46	RC
+58	,	,	$,	$,	57	PUNC	57	PUNC
+59	dass	dass	PROAV	PROAV	47	SVP	47	SVP
+60	,	,	$,	$,	59	PUNC	59	PUNC
+61	wo	wo	PWAV	PWAV	66	MO	66	MO
+62	solche	solcher	PIS	PIS	nom|pl|masc	66	SB	66	SB
+63	auf	auf	APPR	APPR	66	MO	66	MO
+64	einem	ein	ART	ART	dat|sg|neut	65	NK	65	NK
+65	Haus	Haus	NN	NN	dat|sg|neut	63	NK	63	NK
+66	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	56	RC	56	RC
+67	,	,	$,	$,	66	PUNC	66	PUNC
+68	da	da	ADV	ADV	69	MO	69	MO
+69	schlägt	schlagen	VVFIN	VVFIN	sg|3|pres|ind	66	CJ	66	CJ
+70	der	der	ART	ART	nom|sg|masc	71	NK	71	NK
+71	Blitz	Blitz	NN	NN	nom|sg|masc	69	SB	69	SB
+72	und	und	KON	KON	71	CD	71	CD
+73	Donner	Donner	NN	NN	nom|sg|masc	72	CJ	72	CJ
+74	nicht	nicht	PTKNEG	PTKNEG	69	NG	69	NG
+75	ein	ein	PTKVZ	PTKVZ	69	SVP	69	SVP
+76	.	.	$.	$.	75	PUNC	75	PUNC
+
+1	Müsste	müsste	VMFIN	VMFIN	pl|2|imp	-1	ROOT	-1	ROOT
+2	freilich	freilich	ADV	ADV	1	MO	1	MO
+3	ein	ein	ART	ART	nom|sg|masc	4	NK	4	NK
+4	stumpfer	stumpf	NN	NN	nom|sg|masc|pos	10	PD	10	PD
+5	,	,	$,	$,	4	PUNC	4	PUNC
+6	und	und	KON	KON	3	CD	3	CD
+7	ein	ein	ART	ART	nom|sg|masc	9	NK	9	NK
+8	doller	doll	ADJA	ADJA	nom|sg|masc|pos	9	NK	9	NK
+9	Blitz	Blitz	NN	NN	nom|sg|masc	6	CJ	6	CJ
+10	sein	sein	VAINF	VAINF	1	OC	1	OC
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	den	der	ART	ART	acc|sg|masc	15	NK	15	NK
+13	solches	solcher	PIAT	PIAT	nom|sg|neut	15	NK	15	NK
+14	kleine	klein	ADJA	ADJA	nom|sg|neut|pos	15	NK	15	NK
+15	Kräutlein	Kräutlein	NN	NN	nom|sg|neut	16	SB	16	SB
+16	sollt	sollen	VMFIN	VMFIN	sg|3|pres|ind	9	RC	9	RC
+17	widerlegen	widerlegen	VVINF	VVINF	16	OC	16	OC
+18	.	.	$.	$.	17	PUNC	17	PUNC
+
+1	Es	es	PPER	PPER	nom|sg|neut|3	2	PH	2	PH
+2	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	auch	auch	ADV	ADV	6	MO	6	MO
+4	die	der	ART	ART	nom|pl|neut	6	NK	6	NK
+5	römischen	römisch	ADJA	ADJA	nom|pl|neut|pos	6	NK	6	NK
+6	Kaiser	Kaiser	NN	NN	nom|pl|neut	2	SB	2	SB
+7	sich	sich	PRF	PRF	acc|pl|3	13	OA	13	OA
+8	vor	vor	APPR	APPR	13	MO	13	MO
+9	Zeiten	Zeit	NN	NN	dat|pl|fem	8	NK	8	NK
+10	mit	mit	APPR	APPR	13	MO	13	MO
+11	diesem	dieser	PDAT	PDAT	dat|sg|neut	12	NK	12	NK
+12	Kraut	Kraut	NN	NN	dat|sg|neut	10	NK	10	NK
+13	gekrönt	krönen	VVPP	VVPP	2	OC	2	OC
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	aus	aus	APPR	APPR	2	MO	2	MO
+16	keiner	kein	PIAT	PIAT	dat|sg|fem	18	NK	18	NK
+17	anderen	anderer	ADJA	ADJA	dat|sg|fem|pos	18	NK	18	NK
+18	Ursache	Ursache	NN	NN	dat|sg|fem	15	NK	15	NK
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	denn	denn	KON	KON	2	CD	2	CD
+21	dass	dass	KOUS	KOUS	29	CP	29	CP
+22	sie	sie	PPER	PPER	nom|sg|fem|3	29	SB	29	SB
+23	vor	vor	APPR	APPR	28	MO	28	MO
+24	solchem	solcher	PIAT	PIAT	dat|sg|neut	25	NK	25	NK
+25	Ungefell	Ungefell	NN	NN	dat|sg|neut	23	NK	23	NK
+26	des	der	ART	ART	gen|sg|masc	27	NK	27	NK
+27	Gewitters	Gewitter	NN	NN	gen|sg|masc	25	AG	25	AG
+28	sicher	sicher	ADJD	ADJD	pos	29	PD	29	PD
+29	wären	sein	VAFIN	VAFIN	pl|3|past|subj	20	CJ	20	CJ
+30	.	.	$.	$.	29	PUNC	29	PUNC
+
+1	Die	der	ART	ART	nom|pl|fem	3	NK	3	NK
+2	griechischen	griechisch	ADJA	ADJA	nom|pl|fem|pos	3	NK	3	NK
+3	Poeten	Poet	NN	NN	nom|pl|fem	4	SB	4	SB
+4	fabulieren	fabulieren	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+5	auch	auch	ADV	ADV	6	MO	6	MO
+6	davon	davon	PROAV	PROAV	4	OP	4	OP
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	wie	wie	PWAV	PWAV	14	MO	14	MO
+9	dass	dass	ADV	ADV	14	MO	14	MO
+10	ein	ein	ART	ART	nom|sg|masc	11	NK	11	NK
+11	Abgott	Abgott	NN	NN	nom|sg|masc	19	SB	19	SB
+12	des	der	ART	ART	gen|sg|masc	13	NK	13	NK
+13	Mars	Mar	NN	NN	gen|sg|masc	11	AG	11	AG
+14	genannt	nennen	VVPP	VVPP	18	MO	18	MO
+15	Glaukos	Glaukos	NE	NE	gen|sg|masc	14	AG	14	AG
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	dadurch	dadurch	PROAV	PROAV	18	MO	18	MO
+18	erlangt	erlangen	VVPP	VVPP	19	OC	19	OC
+19	habe	haben	VAFIN	VAFIN	sg|3|pres|subj	6	RE	6	RE
+20	Unsterblichkeit	Unsterblichkeit	NN	NN	acc|sg|fem	19	OA	19	OA
+21	.	.	$.	$.	20	PUNC	20	PUNC
+
+1	Die	der	ART	ART	nom|pl|*	2	NK	2	NK
+2	Lateinischen	lateinische	NN	NN	nom|pl|*	3	SB	3	SB
+3	geben	geben	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+4	ihm	ihm	PPER	PPER	dat|sg|masc|3	3	DA	3	DA
+5	viel	viel	PIAT	PIAT	*|*|*	7	NK	7	NK
+6	seltsamere	seltsam	ADJA	ADJA	acc|pl|fem|pos	7	NK	7	NK
+7	Namen	Name	NN	NN	acc|pl|masc	3	OA	3	OA
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	als	als	APPR	APPR	17	MNR	17	MNR
+10	Sempervivum	Sempervivum	NN	NN	acc|sg|neut	9	NK	9	NK
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	Sedum	Sedum	NN	NN	acc|sg|masc	10	CJ	10	CJ
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	Barba	Barba	NE	NE	nom|sg|masc	16	PNC	16	PNC
+15	Iovis	Iovis	NE	NE	nom|sg|masc	16	PNC	16	PNC
+16	etc.	etc.	NE	NE	12	CJ	12	CJ
+17	alles	alle	PIS	PIS	acc|sg|neut	7	CJ	7	CJ
+18	von	von	APPR	APPR	17	PG	17	PG
+19	wegen	wegen	APPR	APPR	18	NK	18	NK
+20	seiner	sein	PPOSAT	PPOSAT	dat|sg|fem	21	NK	21	NK
+21	Ewigkeit	Ewigkeit	NN	NN	dat|sg|fem	19	NK	19	NK
+22	und	und	KON	KON	21	CD	21	CD
+23	Hochwürdigkeit	Hochwürdigkeit	NN	NN	dat|sg|fem	22	CJ	22	CJ
+24	.	.	$.	$.	23	PUNC	23	PUNC
+
+1	welche	welcher	PIS	PIS	nom|sg|fem	4	SB	4	SB
+2	auch	auch	ADV	ADV	3	MO	3	MO
+3	billig	billig	ADJD	ADJD	pos	6	MO	6	MO
+4	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+5	zu	zu	PTKZU	PTKZU	6	PM	6	PM
+6	verwundern	verwundern	VVINF	VVINF	4	OC	4	OC
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	dass	daß	KOUS	KOUS	31	CP	31	CP
+9	es	es	PPER	PPER	nom|sg|neut|3	31	EP	31	EP
+10	alle	aller	PIAT	PIAT	acc|pl|masc	11	NK	11	NK
+11	Ungewitter	Ungewitter	NN	NN	acc|pl|masc	30	OA	30	OA
+12	von	von	APPR	APPR	11	PG	11	PG
+13	Hitze	Hitze	NN	NN	dat|sg|masc	12	NK	12	NK
+14	oder	oder	KON	KON	13	CD	13	CD
+15	Kälte	Kälte	NN	NN	dat|sg|fem	14	CJ	14	CJ
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	von	von	APPR	APPR	12	CJ	12	CJ
+18	Feuchte	Feuchte	NN	NN	dat|sg|fem	17	NK	17	NK
+19	oder	oder	KON	KON	17	CD	17	CD
+20	von	von	APPR	APPR	19	CJ	19	CJ
+21	Dürre	Dürre	NN	NN	dat|sg|fem	20	NK	20	NK
+22	,	,	$,	$,	21	PUNC	21	PUNC
+23	wie	wie	PWAV	PWAV	26	MO	26	MO
+24	sie	sie	PPER	PPER	nom|pl|*|3	27	SB	27	SB
+25	sich	sich	PRF	PRF	acc|pl|3	26	OA	26	OA
+26	zutragen	zutragen	VVINF	VVINF	27	OC	27	OC
+27	mögen	mögen	VMFIN	VMFIN	pl|3|pres|ind	11	RC	11	RC
+28	,	,	$,	$,	27	PUNC	27	PUNC
+29	allesamt	allesamt	ADV	ADV	30	MO	30	MO
+30	erleiden	erleiden	VVINF	VVINF	31	OC	31	OC
+31	mag	mögen	VMFIN	VMFIN	sg|3|pres|ind	6	MO	6	MO
+32	,	,	$,	$,	31	PUNC	31	PUNC
+33	vor	vor	APPR	APPR	47	MO	47	MO
+34	allen	aller	PIAT	PIAT	dat|pl|masc	36	NK	36	NK
+35	anderen	anderer	ADJA	ADJA	dat|pl|masc|pos	36	NK	36	NK
+36	Kräutern	Kräuter	NN	NN	dat|pl|masc	33	NK	33	NK
+37	und	und	KON	KON	36	CD	36	CD
+38	Gewächsen	Gewächsen	NN	NN	dat|sg|neut	37	CJ	37	CJ
+39	,	,	$,	$,	38	PUNC	38	PUNC
+40	davon	davon	PROAV	PROAV	47	MO	47	MO
+41	wohl	wohl	ADV	ADV	47	MO	47	MO
+42	ein	ein	ART	ART	nom|sg|masc	43	NK	43	NK
+43	Poet	Poet	NN	NN	nom|sg|masc	47	SB	47	SB
+44	ein	ein	ART	ART	acc|sg|neut	45	NK	45	NK
+45	Buch	Buch	NN	NN	acc|sg|neut	46	OA	46	OA
+46	schreiben	schreiben	VVINF	VVINF	47	OC	47	OC
+47	möchte	möchten	VMFIN	VMFIN	sg|3|pres|ind	31	CJ	31	CJ
+48	.	.	$.	$.	47	PUNC	47	PUNC
+
+1	Statt	statt	APPR	APPR	-1	ROOT	-1	ROOT
+2	der	der	ART	ART	gen|sg|fem	3	NK	3	NK
+3	Hauswurz	Hauswurz	NN	NN	*|sg|fem	1	NK	1	NK
+4	.	.	$.	$.	3	PUNC	3	PUNC
+
+1	ihre	ihr	PPOSAT	PPOSAT	nom|sg|fem	2	NK	2	NK
+2	Statt	statt	NN	NN	nom|sg|fem	3	PD	3	PD
+3	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	wie	wie	PWAV	PWAV	7	MO	7	MO
+6	oben	oben	ADV	ADV	7	MO	7	MO
+7	gesagt	sagen	VVPP	VVPP	8	OC	8	OC
+8	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	3	SB	3	SB
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	auf	auf	APPR	APPR	7	MO	7	MO
+11	den	der	ART	ART	dat|pl|neut	12	NK	12	NK
+12	Häusern	Haus	NN	NN	dat|pl|neut	10	NK	10	NK
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	alten	alt	ADJA	ADJA	dat|pl|masc|pos	15	NK	15	NK
+15	Mauern	Mauer	NN	NN	dat|pl|masc	12	CJ	12	CJ
+16	,	,	$,	$,	15	PUNC	15	PUNC
+17	Dächern	Dach	NN	NN	dat|pl|neut	15	CJ	15	CJ
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	hohen	hoch	ADJA	ADJA	dat|pl|fem|pos	22	NK	22	NK
+20	und	und	KON	KON	19	CD	19	CD
+21	dürren	dürr	ADJA	ADJA	dat|pl|neut|pos	20	CJ	20	CJ
+22	Gebirgen	Gebirge	NN	NN	dat|pl|neut	17	CJ	17	CJ
+23	.	.	$.	$.	22	PUNC	22	PUNC
+
+1	Ihr	ihr	PPOSAT	PPOSAT	nom|sg|neut	2	NK	2	NK
+2	Geschlecht	Geschlecht	NN	NN	nom|sg|neut	-1	ROOT	-1	ROOT
+3	und	und	KON	KON	2	CD	2	CD
+4	Gestalt	Gestalt	NN	NN	acc|sg|fem	3	CJ	3	CJ
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Hauswurz	Hauswurz	NN	NN	nom|sg|neut	2	SB	2	SB
+2	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	von	von	APPR	APPR	5	SBP	5	SBP
+4	Plinius	Plinius	NE	NE	dat|sg|*	3	NK	3	NK
+5	angezeigt	anzeigen	VVPP	VVPP	2	OC	2	OC
+6	zweierlei	zweierlei	CARD	CARD	5	MO	5	MO
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	und	und	KON	KON	5	CD	5	CD
+9	von	von	APPR	APPR	8	CJ	8	CJ
+10	Dioscorides	Dioscoride	NN	NN	dat|sg|masc	9	NK	9	NK
+11	dreierlei	dreierlei	APZR	APZR	9	AC	9	AC
+12	.	.	$.	$.	11	PUNC	11	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	3	NK	3	NK
+2	erste	erster	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Geschlecht	Geschlecht	NN	NN	nom|sg|neut	8	SB	8	SB
+4	große	groß	ADJA	ADJA	nom|sg|neut|pos	5	NK	5	NK
+5	Hauswurz	Hauswurz	NN	NN	nom|sg|neut	6	OA	6	OA
+6	genannt	nennen	VVPP	VVPP	3	PAR	3	PAR
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	gewinnt	gewinnen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+9	einen	ein	ART	ART	acc|sg|masc	10	NK	10	NK
+10	Stängel	Stängel	NN	NN	acc|sg|masc	8	OA	8	OA
+11	eines	ein	ART	ART	gen|sg|neut	12	NK	12	NK
+12	Ellenbogen	Ellenbogen	NN	NN	gen|sg|neut	10	AG	10	AG
+13	hoch	hoch	PTKVZ	PTKVZ	8	SVP	8	SVP
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	auf	auf	APPR	APPR	8	OP	8	OP
+16	welchem	welcher	PWAT	PWAT	dat|sg|masc	17	NK	17	NK
+17	Blümlein	Blümlein	NN	NN	dat|sg|masc	15	NK	15	NK
+18	,	,	$,	$,	17	PUNC	17	PUNC
+19	und	und	KON	KON	8	CD	8	CD
+20	seine	sein	PPOSAT	PPOSAT	acc|pl|masc	21	NK	21	NK
+21	Blätter	Blatt	NN	NN	acc|pl|masc	22	OA	22	OA
+22	feist	feisen	VVFIN	VVFIN	sg|3|pres|ind	19	CJ	19	CJ
+23	,	,	$,	$,	22	PUNC	22	PUNC
+24	eines	ein	ART	ART	nom|sg|neut	25	NK	25	NK
+25	Daumen	Dauma	NN	NN	nom|sg|neut	22	SB	22	SB
+26	dick	dick	ADJD	ADJD	pos	25	PD	25	PD
+27	,	,	$,	$,	26	PUNC	26	PUNC
+28	kurz	kurz	ADJD	ADJD	pos	26	CJ	26	CJ
+29	,	,	$,	$,	28	PUNC	28	PUNC
+30	und	und	KON	KON	28	CD	28	CD
+31	ausgespritzt	ausspritzen	VVPP	VVPP	30	CJ	30	CJ
+32	wie	wie	KOKOM	KOKOM	34	CM	34	CM
+33	ein	ein	ART	ART	nom|sg|masc	34	NK	34	NK
+34	Zünglein	Zünglein	NN	NN	nom|sg|masc	31	MO	31	MO
+35	,	,	$,	$,	34	PUNC	34	PUNC
+
+1	etliche	etlicher	PIS	PIS	nom|pl|*	2	SB	2	SB
+2	biegen	biegen	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	sich	sich	PRF	PRF	acc|pl|3	2	OA	2	OA
+4	zu	zu	APPR	APPR	2	MO	2	MO
+5	der	der	ART	ART	dat|sg|fem	6	NK	6	NK
+6	Erde	Erde	NN	NN	dat|sg|fem	4	NK	4	NK
+7	,	,	$,	$,	6	PUNC	6	PUNC
+
+1	etliche	etlicher	PIS	PIS	nom|pl|*	2	SB	2	SB
+2	stehen	stehen	VVFIN	VVFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	gestreckt	strecken	VVPP	VVPP	2	OC	2	OC
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	stehen	stehen	VVFIN	VVFIN	pl|3|pres|ind	2	CJ	2	CJ
+6	hart	hart	ADJD	ADJD	pos	5	MO	5	MO
+7	ineinander	ineinander	ADV	ADV	5	MO	5	MO
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	machen	machen	VVFIN	VVFIN	pl|3|pres|ind	5	CJ	5	CJ
+10	eine	ein	ART	ART	acc|sg|fem	11	NK	11	NK
+11	Figur	Figur	NN	NN	acc|sg|fem	9	OA	9	OA
+12	eines	ein	ART	ART	gen|sg|neut	13	NK	13	NK
+13	Auges	Auge	NN	NN	gen|sg|neut	11	AG	11	AG
+14	,	,	$,	$,	13	PUNC	13	PUNC
+15	oder	oder	KON	KON	9	CD	9	CD
+16	Sterns	stern	NE	NE	gen|sg|neut	15	CJ	15	CJ
+17	.	.	$.	$.	16	PUNC	16	PUNC
+
+1	Wird	werden	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	von	von	APPR	APPR	5	SBP	5	SBP
+3	etlichen	etlich	ADJA	ADJA	dat|pl|*|pos	4	NK	4	NK
+4	Buphthalmos	Buphthalmos	NN	NN	dat|pl|masc	2	NK	2	NK
+5	genannt	nennen	VVPP	VVPP	1	OC	1	OC
+6	,	,	$,	$,	5	PUNC	5	PUNC
+
+1	das	der	PDS	PDS	nom|sg|neut	2	SB	2	SB
+2	ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+3	,	,	$,	$,	2	PUNC	2	PUNC
+4	Rindsauge	Rindsauge	NN	NN	nom|sg|fem	2	PD	2	PD
+5	.	.	$.	$.	4	PUNC	4	PUNC
+
+1	Das	der	ART	ART	nom|sg|neut	3	NK	3	NK
+2	andere	anderer	ADJA	ADJA	nom|sg|neut|pos	3	NK	3	NK
+3	Geschlecht	Geschlecht	NN	NN	nom|sg|neut	11	SB	11	SB
+4	der	der	ART	ART	gen|sg|fem	5	NK	5	NK
+5	Hauswurz	Hauswurz	NN	NN	gen|sg|fem	3	AG	3	AG
+6	,	,	$,	$,	5	PUNC	5	PUNC
+7	kleine	klein	ADJA	ADJA	nom|sg|masc|pos	8	NK	8	NK
+8	Hauswurz	Hauswurz	NN	NN	nom|sg|masc	9	MO	9	MO
+9	genannt	nennen	VVPP	VVPP	3	PAR	3	PAR
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	wächst	wachsen	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+12	auch	auch	ADV	ADV	13	MO	13	MO
+13	auf	auf	APPR	APPR	11	MO	11	MO
+14	den	der	ART	ART	acc|sg|masc	15	NK	15	NK
+15	Mauern	Mauer	NN	NN	dat|pl|fem	13	NK	13	NK
+16	und	und	KON	KON	15	CD	15	CD
+17	alten	alt	ADJA	ADJA	dat|pl|neut|pos	18	NK	18	NK
+18	Dächern	Dach	NN	NN	dat|pl|neut	16	CJ	16	CJ
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	an	an	APPR	APPR	13	CJ	13	CJ
+21	schattigen	schattig	ADJA	ADJA	dat|pl|neut|pos	23	NK	23	NK
+22	sandigen	sandig	ADJA	ADJA	dat|pl|masc|pos	23	NK	23	NK
+23	Orten	Ort	NN	NN	dat|pl|masc	20	NK	20	NK
+24	,	,	$,	$,	23	PUNC	23	PUNC
+25	mit	mit	APPR	APPR	20	CJ	20	CJ
+26	vielen	vieler	PIAT	PIAT	dat|pl|masc	28	NK	28	NK
+27	kleinen	klein	ADJA	ADJA	acc|sg|masc|pos	28	NK	28	NK
+28	Stängelein	Stängelein	NN	NN	acc|sg|masc	25	NK	25	NK
+29	,	,	$,	$,	28	PUNC	28	PUNC
+30	von	von	APPR	APPR	25	CJ	25	CJ
+31	einer	ein	ART	ART	dat|sg|fem	32	NK	32	NK
+32	Wurzel	Wurzel	NN	NN	dat|sg|fem	30	NK	30	NK
+33	,	,	$,	$,	32	PUNC	32	PUNC
+
+1	an	an	APPR	APPR	14	MO	14	MO
+2	welchem	welcher	PWAT	PWAT	dat|sg|neut	3	NK	3	NK
+3	Stängel	Stängel	NN	NN	nom|pl|masc	1	NK	1	NK
+4	sind	sein	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+5	kleine	klein	ADJA	ADJA	nom|pl|neut|pos	9	NK	9	NK
+6	dicke	dick	ADJA	ADJA	nom|pl|neut|pos	9	NK	9	NK
+7	und	und	KON	KON	6	CD	6	CD
+8	feiste	feist	ADJA	ADJA	nom|sg|masc|pos	7	CJ	7	CJ
+9	Blättlein	Blättlein	NN	NN	nom|sg|masc	4	SB	4	SB
+10	,	,	$,	$,	9	PUNC	9	PUNC
+11	in	in	APPR	APPR	14	MO	14	MO
+12	die	der	ART	ART	acc|sg|fem	13	NK	13	NK
+13	Runde	Runde	NN	NN	acc|sg|fem	11	NK	11	NK
+14	ausgespitzt	ausspitzen	VVPP	VVPP	4	OC	4	OC
+15	,	,	$,	$,	14	PUNC	14	PUNC
+16	eine	ein	ART	ART	acc|sg|fem	17	NK	17	NK
+17	Spanne	Spanne	NN	NN	acc|sg|fem	18	AMS	18	AMS
+18	hoch	hoch	ADJD	ADJD	pos	14	CJ	14	CJ
+19	.	.	$.	$.	18	PUNC	18	PUNC
+
+1	Ist	sein	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	auch	auch	ADV	ADV	3	MO	3	MO
+3	zweierlei	zweierlei	PIS	PIS	*|*|*	1	SB	1	SB
+4	,	,	$,	$,	3	PUNC	3	PUNC
+
+1	etliche	etlicher	PIS	PIS	nom|pl|*	2	SB	2	SB
+2	haben	haben	VAFIN	VAFIN	pl|3|pres|ind	-1	ROOT	-1	ROOT
+3	weiße	weiß	NN	NN	nom|pl|*	2	OA	2	OA
+4	,	,	$,	$,	3	PUNC	3	PUNC
+5	und	und	KON	KON	3	CD	3	CD
+6	etliche	etlicher	PIAT	PIAT	acc|sg|fem|pos	8	NK	8	NK
+7	gelbe	gelb	ADJA	ADJA	acc|sg|fem|pos	8	NK	8	NK
+8	Blümlein	Blümlein	NN	NN	acc|sg|fem	5	CJ	5	CJ
+9	.	.	$.	$.	8	PUNC	8	PUNC
+
+1	Die	der	ART	ART	nom|pl|masc	2	NK	2	NK
+2	gelben	gelb	ADJA	ADJA	3	OA	3	OA
+3	findet	finden	VVFIN	VVFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+4	man	man	PIS	PIS	nom|sg|*	3	SB	3	SB
+5	in	in	APPR	APPR	3	MO	3	MO
+6	den	der	ART	ART	dat|pl|neut	7	NK	7	NK
+7	Wäldern	Wald	NN	NN	dat|pl|neut	5	NK	5	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	und	und	KON	KON	5	CD	5	CD
+10	auf	auf	APPR	APPR	9	CJ	9	CJ
+11	den	der	ART	ART	acc|sg|masc	12	NK	12	NK
+12	Felsen	Fels	NN	NN	acc|sg|masc	10	NK	10	NK
+13	.	.	$.	$.	12	PUNC	12	PUNC
+
+1	Dieses	dieser	PDAT	PDAT	acc|sg|neut	2	NK	2	NK
+2	Geschlecht	Geschlecht	NN	NN	acc|sg|neut	3	OA	3	OA
+3	habe	haben	VAFIN	VAFIN	sg|1|pres|ind	-1	ROOT	-1	ROOT
+4	ich	ich	PPER	PPER	nom|sg|*|1	3	SB	3	SB
+5	für	für	APPR	APPR	2	MNR	2	MNR
+6	den	der	ART	ART	acc|sg|masc	7	NK	7	NK
+7	Mauerpfeffer	Mauerpfeffer	NN	NN	acc|sg|masc	5	NK	5	NK
+8	,	,	$,	$,	7	PUNC	7	PUNC
+9	oder	oder	KON	KON	3	CD	3	CD
+10	Katzentreubel	Katzentreubel	NE	NE	acc|sg|*	9	CJ	9	CJ
+11	,	,	$,	$,	10	PUNC	10	PUNC
+12	oder	oder	KON	KON	3	CD	3	CD
+13	wie	wie	PWAV	PWAV	16	MO	16	MO
+14	es	es	PPER	PPER	nom|sg|neut|3	16	OA	16	OA
+15	etliche	etlicher	PIS	PIS	nom|pl|*	16	SB	16	SB
+16	nennen	nennen	VVFIN	VVFIN	pl|3|pres|ind	12	CJ	12	CJ
+17	,	,	$,	$,	16	PUNC	16	PUNC
+18	Blattloß	Blattloß	NN	NN	nom|sg|neut	16	SB	16	SB
+19	,	,	$,	$,	18	PUNC	18	PUNC
+20	darum	darum	PROAV	PROAV	18	OP	18	OP
+21	,	,	$,	$,	20	PUNC	20	PUNC
+22	dass	daß	KOUS	KOUS	31	CP	31	CP
+23	es	es	PPER	PPER	nom|sg|neut|3	31	SB	31	SB
+24	als	als	APPR	APPR	30	MO	30	MO
+25	viel	viel	PIS	PIS	*|*|*	24	NK	24	NK
+26	als	als	APPR	APPR	30	MO	30	MO
+27	keine	kein	PIAT	PIAT	acc|pl|neut	28	NK	28	NK
+28	Blätter	Blatt	NN	NN	nom|pl|neut	26	NK	26	NK
+29	habend	habend	ADJD	ADJD	pos	30	MO	30	MO
+30	geachtet	achten	VVPP	VVPP	31	OC	31	OC
+31	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	20	RE	20	RE
+32	,	,	$,	$,	31	PUNC	31	PUNC
+33	sondern	sondern	KON	KON	30	CD	30	CD
+34	mehr	mehr	PIAT	PIAT	*|*|*	35	NK	35	NK
+35	Körnlein	Körnlein	NN	NN	acc|sg|masc	33	CJ	33	CJ
+36	,	,	$,	$,	35	PUNC	35	PUNC
+
+1	wird	werden	VAFIN	VAFIN	sg|3|pres|ind	-1	ROOT	-1	ROOT
+2	in	in	APPR	APPR	4	MO	4	MO
+3	Latein	Latein	NE	NE	dat|sg|neut	2	NK	2	NK
+4	genannt	nennen	VVPP	VVPP	1	OC	1	OC
+5	Crassula	Crassula	NE	NE	nom|sg|masc	6	PNC	6	PNC
+6	minor	minor	NE	NE	nom|sg|masc	1	SB	1	SB
+7	,	,	$,	$,	6	PUNC	6	PUNC
+8	Vermicularis	Vermicularis	NN	NN	nom|sg|neut	6	APP	6	APP
+9	,	,	$,	$,	8	PUNC	8	PUNC
+10	und	und	KON	KON	6	CD	6	CD
+11	Trithales	Trithal	NE	NE	nom|sg|neut	10	CJ	10	CJ
+12	darum	darum	PROAV	PROAV	11	MNR	11	MNR
+13	,	,	$,	$,	12	PUNC	12	PUNC
+14	dass	daß	KOUS	KOUS	18	CP	18	CP
+15	es	es	PPER	PPER	nom|sg|neut|3	18	SB	18	SB
+16	drei	drei	CARD	CARD	17	NK	17	NK
+17	Mal	Mal	NN	NN	*|*|neut	18	MO	18	MO
+18	blüht	blühen	VVFIN	VVFIN	sg|3|pres|ind	12	RE	12	RE
+19	.	.	$.	$.	18	PUNC	18	PUNC
+

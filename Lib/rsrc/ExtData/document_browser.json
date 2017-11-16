@@ -1,0 +1,20 @@
+{
+  "visualizers": [
+  {
+   "type" : "htmldoc",
+   "displayName" : "diplomatic transcription",
+   "mappings" : "config:ridges_dipl"
+  },
+  {
+   "type" : "htmldoc",
+   "displayName" : "normalized transcription",
+   "mappings" : "config:ridges_norm"
+  },
+  {
+    "type"  : "htmldoc", 
+    "displayName" :  "analytic transcription (optimized for safari/chrome)", 
+    "mappings" : "config:lankbank_analytic"
+  }
+  ]
+}
+

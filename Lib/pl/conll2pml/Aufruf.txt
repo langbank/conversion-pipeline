@@ -1,0 +1,16 @@
+Ich
+> for i in MateNorm/ridgesv6-corrected/*.conll; do perl "conll2pml" --out-prefix "$i" --technical-root --max-sentences 1000 --columns "ID,FORM,LEMMA,POSTAG,POSTAG,FEATS,HEAD,DEPREL,PHEAD,PDEPREL" "$i"; done
+
+
+
+Hagen
+> perl "C:\conll2pml\conll2pml" --out-prefix "connl" --technical-root
+ --columns "ID,FORM,LEMMA,POSTAG,FEATS,HEAD,DEPREL" "C:\conll2pml\in\CoNLL2009Te
+st_Tiger_Satz_1.txt"
+
+
+
+
+
+
+for i in /Users/zweiss/Documents/1_LangBank/20170210-tred/ridges-tree-gold_standard/tred-with-virtual-root/4-conll-vroot+droplist/*.conll; do perl "conll2pml" --out-prefix "$i" --technical-root --max-sentences 1000 --columns "ID,FORM,LEMMA,POSTAG,POSTAG,FEATS,HEAD,DEPREL,PHEAD,PDEPREL" "$i"; done

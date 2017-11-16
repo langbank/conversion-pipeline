@@ -1,0 +1,15 @@
+pos="NN"	Findet einen Nomen.
+pos="NN" & pos=/V.*/ & #1 . #2	Findet einen Nomen und ein Verb mit den möglichen Annotationen /VV(FIN|INF)/, /VAFIN(FIN|INF)/ oder /VM(FIN|INF)/.
+pos="NN" & pos=/V.*/ & pb="pb" & #1 . #2 & #3 _i_ #1 & #3 _i_ #2	Findet ein Nomen gefolgt von einem Verb. Nomen und Verb befinden sich auf derselben Seite des Faksimiles.
+norm="hat" & dipl="hats" & #2 _o_ #1	Findet eine bestimmte normierte Wortform "hat", die sich in einer klitischen Verbindung im diplomatischen Transkript befindet.
+pos="ART" . pos="ADJA" . pos=/N./	Findet eine Nominalphrase bestehend aus einem Artikel, gefolgt von einem attributiven Adjektiv und einem Nomen.
+persname _i_ author_ref=/author/	Findet Personennamen, die gleichzeitig auf einen Autoren referieren.
+comp _o_ attr_gen	Findet Komposita mit substantivischem Zweitglied, die innerhalb einer Nominalphrase mit Genitivattribut vorkommen.
+norm=/Kräuter/ _i_ dipl=/(k|K)r(e|aͤ)utt?er/	Findet verschiedene historische Schreibvarianten, die in der <norm>-Ebene zu der Wortform "Kräuter" normiert worden sind.
+pos!=/(ART|PPOSAT|PDAT|PIAT|PRELAT|PWAT)/ . pos=/ADJA/ . pos=/N./	Findet  Nominalphrasen ohne Determinierer, in denen das jeweilige Nomen durch ein Adjektiv modifiziert ist.
+author_ref=/pron1sg/ .1,5 reader_ref	Findet eine Referenz auf den Autor in der ersten Person Singular gefolgt von einer beliebigen Referenz auf den Leser.
+meta::topic=/.*B.*M.*/ & pos=/N./	Findet Nomina in Texten, die u.a. die Themen "Botanik" und "Medizin" behandeln.
+clean=/(vor|für).+/ & lemma=/vornehmlich/ & #1_o_#2 & meta::lang_type=/enhg/	Findet die Lemmata "vornehmlich", die in der <clean>-Ebene sowohl mit "vor-" als auch mit "für-" beginnen können. Außerdem besteht die Einschränkung, dass nur in frühneuhochdeutschen Texten gesucht werden soll.
+attr_gen  _o_ plant=/pl/	Findet Konstruktionen mit Genitivattributen (prä- und postnominal), die einen Pflanzennamen enthalten.
+position_verb=/V2/ _o_ pos=/KOUS/	Findet V2-Sätze, die eine unterordnende Konjunktion beinhalten.
+KOUS_sem=/konditional/ _i_ lemma!=/wenn/	Findet konditionale unterordnende Konjunktionen, die nicht das Lemma 'wenn' haben.
