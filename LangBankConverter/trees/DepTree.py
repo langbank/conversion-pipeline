@@ -3,60 +3,77 @@
 
 __author__ = 'zweiss'
 
+
 from trees.AbsTree import *
 
 
-class ConllWord(AbsWord):
+class DepWord(AbsWord):
 
-    def __init__(self):
-        self.idx = ''
-        self.form = ''
-        self.lemma = ''
-        self.postag = ''
-        self.features = ''
-        self.deprel = ''
-        self.phead = ''
-        self.pdeprel = ''
+    def __init__(self, form="", order=-1, lemma="", cpostag="", postag="", feats="", head=-1, deprel="", phead=-1, pdeprel=""):
+        self.order = order  # The number of the token in the current sentence, starting with 1
+        self.form = form  # The form of the token
+        self.lemma = lemma  # The lemma of the token
+        self.cpostag = cpostag  # Coarse-grained part-of-speech tag
+        self.postag = postag  # Fine-grained part-of-speech tag
+        self.feats = feats  # Syntactic/morphological/miscellaneous features, separated by the pipe character
+        self.head = head  # The ID of this token´s head token (or 0 for none)
+        self.deprel = deprel  # Dependency relation to HEAD
+        self.phead = phead  # The projective head of the token: an ID or 0 for none
+        self.pdeprel = pdeprel  # Dependency relation to PHEAD
 
     def __len__(self):
         return len(self.form)
 
-    def __str__(self):
-        rval = str(self.idx)+'\t'+self.form+'\t'+self.lemma+'\t'+self.postag+'\t'+self.postag+'\t'
-        for f in self.features:
-            rval += f+'|'
-        rval = rval[:-1]+'\t'
-        rval += str(self.phead)+'\t'+self.deprel+'\t'+str(self.phead)+'\t'+self.pdeprel+'\n'
-        return rval
+    def __str__(self, delim="\t"):
+        return "{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}".format(self.get_value("order"), delim,
+                                                               self.get_value("form"), delim,
+                                                               self.get_value("lemma"), delim,
+                                                               self.get_value("cpostag"), delim,
+                                                               self.get_value("postag"), delim,
+                                                               self.get_value("feats"), delim,
+                                                               self.get_value("head"), delim,
+                                                               self.get_value("deprel"), delim,
+                                                               self.get_value("phead"), delim,
+                                                               self.get_value("pdeprel"))
 
     def __eq__(self, other):
         return self.form == other.form \
-               and self.idx == other.idx \
+               and self.order == other.idx \
                and self.lemma == other.lemma \
                and self.postag == other.postag \
                and self.features == other.features \
                and self.deprel == other.deprel \
                and self.phead == other.phead \
-               and self.pdeprel == other.pdeprel
+               and self.pdeprel == other.pdeprel \
+               and self.cpostag == other.cpostag \
+               and self.feats == other.feats \
+               and self.head== other.head
 
     def __ne__(self, other):
         return not self.__eq__(other)
 
+    def __lt__(self, other):
+        return int(self.order) < int(other.order)
+
+    def is_vroot(self, vroot_string='-1\t&lt;vroot>\t&lt;vroot-LEMMA>\t_\tVROOT\t_\t-1\tVROOT\t0\tVROOT\n'):
+        return self.order == -1
 
     # setter
 
-    def set_all(self, idx, form, lemma, postag, features, deprel, phead, pdeprel):
-        self.set_idx(idx)
+    def set_all(self, order, form, lemma, cpostag, postag, features, deprel, head, phead, pdeprel):
+        self.set_order(order)
         self.set_form(form)
         self.set_lemma(lemma)
+        self.set_cpostag(cpostag)
         self.set_postag(postag)
-        self.set_features(features)
+        self.set_feats(features)
         self.set_deprel(deprel)
+        self.set_head(head)
         self.set_phead(phead)
         self.set_pdeprel(pdeprel)
 
-    def set_idx(self, idx):
-        self.idx = int(idx)
+    def set_order(self, idx):
+        self.order = int(idx)
 
     def set_form(self, form):
         self.form = form
@@ -67,8 +84,11 @@ class ConllWord(AbsWord):
     def set_postag(self, postag):
         self.postag = postag
 
-    def set_features(self,features):
-        self.features = features
+    def set_feats(self, feats):
+        self.feats = feats
+
+    def add_feat(self, f, delim='|'):
+        self.feats += ('' if len(str(self.feats)) == 0 else delim) + f
 
     def set_deprel(self, deprel):
         self.deprel = deprel
@@ -79,10 +99,16 @@ class ConllWord(AbsWord):
     def set_pdeprel(self, pdeprel):
         self.pdeprel = pdeprel
 
+    def set_cpostag(self, cpostag):
+        self.cpostag = cpostag
+
+    def set_head(self, head):
+        self.head = head
+
     # getter
 
-    def get_idx(self):
-        return self.idx
+    def get_order(self):
+        return self.order
 
     def get_form(self):
         return self.form
@@ -105,20 +131,77 @@ class ConllWord(AbsWord):
     def get_pdeprel(self):
         return self.pdeprel
 
+    def get_value(self, variable, default="_", pEqualsC=False):
+        tmp = variable.lower().strip()
+        if tmp == 'order' and len(str(self.order)) > 0:
+            return self.order
+        if tmp == 'form' and len(str(self.form)) > 0:
+            return self.form
+        if tmp == 'lemma' and len(str(self.lemma)) > 0:
+            return self.lemma
+        if tmp == 'cpostag':
+            if len(str(self.cpostag)) > 0:
+                return self.cpostag
+            if pEqualsC and len(str(self.postag)) > 0:
+                return self.postag
+        if tmp == 'postag':
+            if len(str(self.postag)) > 0:
+                return self.postag
+            if pEqualsC and len(str(self.cpostag)) > 0:
+                return self.cpostag
+        if tmp == 'feats' and len(str(self.feats)) > 0:
+            return self.feats
+        if tmp == 'head':
+            if len(str(self.head)) > 0:
+                return self.head
+            if pEqualsC and len(str(self.phead)) > 0:
+                return self.phead
+        if tmp == 'deprel':
+            if len(str(self.deprel)) > 0:
+                return self.deprel
+            if pEqualsC and len(str(self.pdeprel)) > 0:
+                return self.pdeprel
+        if tmp == 'phead':
+            if len(str(self.phead)) > 0:
+                return self.phead
+            if pEqualsC and len(str(self.head)) > 0:
+                return self.head
+        if tmp == 'pdeprel':
+            if len(str(self.pdeprel)) > 0:
+                return self.pdeprel
+            if pEqualsC and len(str(self.deprel)) > 0:
+                return self.deprel
+        return default
 
-class ConllSentence(AbsSentence):
+    @staticmethod
+    def read_conll(string, delim="\t"):
+        tmp = string.split(delim)
+        if len(tmp) < 10:
+            print('Warning: Incorrect input string! '+str(len(tmp)))
+            return
+        order = tmp[0] if len(tmp) > 0 else 0
+        form = tmp[1] if len(tmp) > 1 else "_"
+        lemma = tmp[2] if len(tmp) > 2 else "_"
+        cpostag = tmp[3] if len(tmp) > 3 else "_"
+        postag = tmp[4] if len(tmp) > 4 else "_"
+        feats = tmp[5] if len(tmp) > 5 else "_"
+        head = tmp[6] if len(tmp) > 6 else "_"
+        deprel = tmp[7] if len(tmp) > 7 else "_"
+        phead = tmp[8] if len(tmp) > 8 else "_"
+        pdeprel = tmp[9] if len(tmp) > 9 else "_"
+        return DepWord(form, order, lemma, cpostag, postag, feats, head, deprel, phead, pdeprel)
+
+
+class DepSentence(AbsSentence):
 
     def __init__(self):
-        self.words = {}
+        self.words = []
 
     def __str__(self):
-        rval = ''
-        for w in sorted(self.words.keys()):
-            rval += str(self.words[w])
-        return rval
+        return "\n".join(str(t) for t in self.words)
 
     def __len__(self):
-        return len(self.words.keys())
+        return len(self.words)
 
     # setter
 
@@ -126,126 +209,157 @@ class ConllSentence(AbsSentence):
         self.words = words
 
     def set_word(self, word):
-        self.words[word.idx] = word
-
-    def set_word_by_idx(self, idx, word):
-        self.words[idx] = word
+        self.words[word.order] = word
 
     # getter
 
     def get_words(self):
         return self.words
 
-    def get_word(self, idx):
+    def get_word(self, idx, word=''):
+        if idx < 0:
+            return -1
+        if idx >= len(self.words):
+            return -1
         return self.words[idx]
 
     def add_word(self, word):
-        self.words[word.idx] = word
+        self.words.append(word)
+        self.words = sorted(self.words)
 
-    def add_word_by_idx(self, idx, word):
-        self.words[idx] = word
+    def add_conll_string(self, new_string):
+        cword = DepWord.read_conll(new_string)
+        self.words.append(cword)
+        self.words = sorted(self.words)
 
     # static
 
     @staticmethod
-    def read_from_pml_file(file, skip_vroot=True, word_start='<LM order="', sent_start='<LM xml:id="s-', form='<form>', lemma='<lemma>',
-                      pos='<postag>', deprel='<deprel>', head='<phead>', pdeprel='<pdeprel>'):
+    def read_from_pml_file(file, skip_vroot=True, tab_length=4):
+        skip_vroot = False  # TODO currently lossless vroot removal not possible, ongoing debugging
         rval = []
-        instr = open(file, 'r')
-        is_feature = False
-        cur_feats = []
-        cur_word = ConllWord()
-        cur_sent = ConllSentence()
-        lms = 0
-        for l in instr.readlines():
-            line = l.strip()
-            # Ignore empty lines
-            if len(line) == 0:
-                continue
-            # Adjust LM tag count if necessary
-            if line.startswith('<LM'):  # open new sub-node
-                lms += 1
-            if '</LM>' in line:  # close old sub-node
-                lms -= 1
-            # Build sentence if final sentence sub-node was closed
-            if lms == 0:
-                if len(cur_sent) > 0:
-                    rval.append(cur_sent)
-                cur_sent = ConllSentence()
-            # Build word if word ends; i.e. either at list of children or single lm closure
-            if (line.startswith('<childnodes>') or line.startswith('</LM>')) and not cur_word.idx == '':
-                if not (skip_vroot and cur_word.idx == -1):
-                    cur_sent.add_word(cur_word)
-                cur_word = ConllWord()
+        with open(file, 'r') as instr:
+            s = DepSentence()
+            ctok = DepWord()
+            mother_node = {}
+            has_additional_indent = False
+            is_feat = False
+            found_body = False
+            for line in instr.readlines():
+                line = line.replace('\t', ' '*tab_length).replace('&amp;', '&')
+                l = line.strip()
+                ind = DepSentence.indentation_level(line)
+                # ignore everything with less than 2 indentations
+                if not found_body:
+                    found_body = l == "<body>"
+                    continue
+                # handle sentence level matters (2 indentations)
+                if ind == 2:
+                    if l == "</LM>" and len(s) > 0:  # sentence ends
+                        has_additional_indent = False
+                        if not ctok.is_vroot() or not skip_vroot:  # if it's not a vroot or we don't care if it is
+                            s.add_word(ctok)
+                        rval.append(s)
+                        continue
+                    if l.startswith("<LM "):  # new sentence starts
+                        s = DepSentence()
+                        ctok = DepWord()
+                        mother_node = {}
+                        has_additional_indent = False  # probably useless
+                        is_feat = False
+                        continue
 
-            # fill word with information
-            elif line.startswith(word_start):
-                cur_word.set_idx(line[len(word_start):-2])
-            elif line.startswith(form):
-                cur_word.set_form(line[len(form):-len(form)-1])
-            elif line.startswith(lemma):
-                cur_word.set_lemma(line[len(lemma):-len(lemma)-1])
-            elif line.startswith(pos):
-                cur_word.set_postag(line[len(pos):-len(pos)-1])
-            elif line.startswith(deprel):
-                cur_word.set_deprel(line[len(deprel):-len(deprel)-1])
-            elif line.startswith(head):
-                cur_word.set_phead(line[len(head):-len(head)-1])
-            elif line.startswith(pdeprel):
-                cur_word.set_pdeprel(line[len(pdeprel):-len(pdeprel)-1])
-            elif line.startswith('<feats>'):
-                cur_feats = []
-                is_feature = True
-            elif line == '</feats>':
-                cur_word.set_features(cur_feats)
-                is_feature = False
-            elif is_feature and line.startswith('<LM>') and line.endswith('</LM>'):
-                cur_feats.append(line[len('<LM>'):-len('</LM>')])
+                # if here, it is some relevant content on token level
+                if "order=" in l:
+                    # order here means order WITHIN sentence (due to indentation > 2);
+                    # hence: indent level-head idx mapping is encoded here
+                    mother_node[ind] = l[l.index("order")+7:-2]
+                    # Also, within-sentence order info is always at te beginning of a new token
+                    # hence: if the current token is not empty (i.e. was reseted already), save+reset here at the latest
+                    if len(ctok) > 0:
+                        if not ctok.is_vroot() or not skip_vroot:  # if it's not a vroot or we don't care if it is
+                            s.add_word(ctok)
+                        else:
+                            print('Skip: ' + str(ctok))
+                    ctok = DepWord()
+                    # And set order (obviously)
+                    ctok.set_order(l[l.index("order")+7:-2])
+                    # Don't continue here, information whether this element was a childnode or an LM tag is IMPORTANT!
+                    if l.startswith("<childnodes"):
+                        has_additional_indent = False
+                    if l.startswith("<LM ") and not is_feat:
+                        # If order attribute is in LM tag, it needs an additional indent, because it is embedded in an
+                        # order-less childnodes tag
+                        has_additional_indent = True
+                    continue
 
-        instr.close()
+                if l.startswith("<form>"):
+                    ctok.set_form(l[len("<form>"):-len("</form>")])
+                    continue
+                if l.startswith("<lemma>"):
+                    ctok.set_lemma(l[len("<lemma>"):-len("</lemma>")])
+                    continue
+                if l.startswith("<postag>"):
+                    ctok.set_postag(l[len("<postag>"):-len("</postag>")])
+                    continue
+                if l.startswith("<deprel>"):
+                    ctok.set_deprel(l[len("<deprel>"):-len("</deprel>")])
+                    continue
+                if l.startswith("<phead>"):
+                    c_head = int(l[len("<phead>"):-len("</phead>")])
+                    ctok.set_phead(0 if c_head == -1 and skip_vroot else c_head)
+                    # also add the other actual head at this point
+                    back = 2 if not has_additional_indent else 3
+                    c_head = int(mother_node[ind-back]) if ind-back in mother_node.keys() else -1
+                    ctok.set_head((0 if c_head == -1 and skip_vroot else c_head))
+                    continue
+                if l.startswith("<pdeprel>"):
+                    ctok.set_pdeprel(l[len("<pdeprel>"):-len("</pdeprel>")])
+                    continue
+                if l.startswith("<feats>"):
+                    is_feat = True
+                    # Careful! Might close immediately, if only one feature is there
+                    if l.endswith("</feats>"):
+                        is_feat = False
+                        ctok.add_feat(l[len("<feats>"):-len("</feats>")])
+                    continue
+                if l.startswith("</feats>"):
+                    is_feat = False
+                    continue
+                if is_feat and l.startswith('<LM>'):
+                    ctok.add_feat(l[len("<LM>"):-len("</LM>")])
+                    continue
         return rval
 
     @staticmethod
-    # TODO implement!
-    def read_from_file(file): pass
+    def indentation_level(string, div=2):
+        l1 = len(string)
+        l2 = len(string.strip()) + (1 if string.endswith('\n') else 0)
+        return (l1 - l2) / div
+
+    @staticmethod
+    def read_from_file(file, delim="\t"):
+        rval = []
+        with open(file, 'r') as instr:
+            s = DepSentence()
+            for line in instr.readlines():
+                l = line.strip()
+                if len(l) == 0:
+                    if len(s) > 0:
+                        rval.append(s)
+                        s = DepSentence()
+                    continue
+                s.add_word(DepWord.read_conll(l, delim=delim))
+        if len(s) > 0:
+            rval.append(s)
+        return rval
 
     @staticmethod
     def write_to_file(file, sentences):
         outstr = open(file, 'w')
         for sentence in sentences:
             outstr.write(str(sentence))
-            outstr.write('\n')
+            outstr.write('\n\n')
         outstr.close()
         print('Wrote sentences to ' + file)
 
-
-if __name__ == '__main__':
-
-    w0 = ConllWord()
-    w0.set_all(1, 'I.', 'I.', 'APPR', ['_'], 'ROOT', '-1', 'ROOT')
-    w1 = ConllWord()
-    w1.set_all(2, 'der', 'der', 'ART', ['gen','sg','fem'], 'NK', '4', 'NK')
-    w2 = ConllWord()
-    w2.set_all(3, 'weiße', 'weiß', 'ADJA', ['dat','sg','fem','pos'], 'NK', '4', 'NK')
-    w3 = ConllWord()
-    w3.set_all(4, 'Tannenbaum', 'Tannenbaum', 'NN', ['dat','sg','fem','pos'], 'NK', '1', 'NK')
-    w4 = ConllWord()
-    w4.set_all(5, '.', '.', '$.', ['_'], 'PUNC', '4', 'PUNC')
-
-    s = ConllSentence()
-    s.set_words({1:w0, 2:w1 ,3:w2,4:w3, 5:w4})
-    print(s)
-
-    s2 = ConllSentence()
-    s2.add_word(w0)
-    s2.add_word(w1)
-    s2.add_word(w2)
-    s2.add_word(w3)
-    s2.add_word(w4)
-    print(s2)
-
-    text = ConllSentence.read_from_pml_file('/Users/zweiss/Dropbox/current-research/LangBank-Pipeline/AnnotationModule/rsrc/LB_RidgesVersion6.0-Tred_Comp2Korr/tred-dependencies/Wund-Artzney_1652_Greiff.conll_0000.pml')
-    len(text)
-    for s in text[1:4]:
-        print(s)
-        print('')
