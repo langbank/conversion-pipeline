@@ -71,12 +71,12 @@ class UniversalTredConverter:
         """
 
         # read all pml dependencies as conll format texts
-        dependency_data = sm.FileHandler.rec_rval_process(in_dir, ending, lambda x: DepTree.ConllSentence.read_from_pml_file(x))
+        dependency_data = sm.FileHandler.rec_rval_process(in_dir, ending, lambda x: DepTree.DepSentence.read_from_pml_file(x))
 
         # write all texts to conll format files
         for file in dependency_data.keys():
             cur = os.path.join(out_dir, file[file.rfind('/')+1:-len(ending)]+'.conll')
-            DepTree.ConllSentence.write_to_file(cur, dependency_data[file])
+            DepTree.DepSentence.write_to_file(cur, dependency_data[file])
 
     @staticmethod
     def convert_pml_to_ptb(in_dir, out_dir, ending='.ptb.pml'):
