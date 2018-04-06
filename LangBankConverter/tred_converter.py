@@ -116,8 +116,6 @@ if __name__ == '__main__':
         cm.UniversalTredConverter.convert_conll_to_pml(out_dir_deprel)
         cm.UniversalTredConverter.convert_ptb_to_pml(out_dir_const)
 
-        # TODO ISSUE in CODE: check on laptop if still there, on mac it is solved!
-
         # Postprocess tred files in terms of their schema XML files
         # First change schema file given in the pml files and write them to the output directory
         pml_dep = sm.FileHandler.rec_rval_process(tmp_conll, '.pml', lambda x: fm.PMLFormatter.get_lb_tred_format(x, 'conll_schema.xml'))
@@ -133,7 +131,7 @@ if __name__ == '__main__':
         print('Start converting from Tred\'s PML format.')
 
         # Convert PML to Conll format, only consider files ending in the specified sentence ending
-        cm.UniversalTredConverter.convert_pml_to_conll(in_dir, out_dir_deprel, ending='.conll_0000.pml')  # TODO more thorough check, but seems to work, also: currently no reading of conll files possible
+        cm.UniversalTredConverter.convert_pml_to_conll(in_dir, out_dir_deprel, ending='.conll_0000.pml')
 
         # Convert PML to Conll format, only consider files ending in the specified sentence ending
         #cm.UniversalTredConverter.convert_pml_to_ptb(in_dir, out_dir_const, ending='.ptb.pml')  # TODO
